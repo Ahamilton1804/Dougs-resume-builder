@@ -1,0 +1,7 @@
+interface:
+  display_name: "Professional Evidence Builder"
+  short_description: "Build a defensible record of professional work"
+  default_prompt: "Use $professional-evidence-builder to help me recover my professional work history and prepare a role narrative."
+
+policy:
+  allow_implicit_invocation: true

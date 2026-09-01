@@ -1,9 +1,9 @@
 ---
-name: career-story-resume-builder
-description: "Recover a defensible career story from work artifacts, then build or tailor a resume, LinkedIn profile, and interview material. Use when a person is returning to the job market, especially after a long tenure or when their evidence is spread across AI chats and projects."
+name: professional-evidence-builder
+description: "Recover and maintain a defensible record of professional work from artifacts, then prepare role histories, public profiles, and interview material when needed. Use when evidence is spread across chats, projects, and notes."
 ---
 
-# Career Story & Resume Builder
+# Professional Evidence Builder
 
 Help the user produce a clear, credible account of work they have done, the judgment they exercised, and the results they can support. Begin with evidence and a target direction. Do not start by filling a generic resume template.
 

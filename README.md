@@ -8,7 +8,7 @@ The first task is factual recovery. The project will capture what Doug can hones
 
 The career map establishes the sequence of roles, changes in mandate, and pivotal chapters. The evidence ledger holds the claim-level record. Each entry distinguishes Doug’s personal contribution from team activity, records the strongest available evidence basis, and identifies anything that cannot be used externally.
 
-The skills support the work without replacing judgment. The resume-builder skill drives the evidence interview, claim testing, and targeting. Doug’s judgment profile helps surface patterns in how he solves problems, where he may understate a contribution, and how to prepare a concise spoken case. Neither skill proves a career claim. Specific work and honest recollection do that.
+The skills support the work without replacing judgment. The professional-evidence skill drives the evidence interview, claim testing, and targeting. Doug’s judgment profile helps surface patterns in how he solves problems, where he may understate a contribution, and how to prepare a concise spoken case. Neither skill proves a career claim. Specific work and honest recollection do that.
 
 ## Current work
 
@@ -31,4 +31,4 @@ Keep the repository private. Store only distilled, externally safe material. Do 
 
 ## Working with Claude
 
-Install `claude-packages/doug-career-story-resume-builder.skill` in Claude’s Skills settings. It uses the same evidence ledger and career-interview discipline as the Codex version. When moving work between assistants, use the handoff packet in the skill and keep the evidence ledger as the shared record.
+Install `claude-packages/professional-evidence-builder.skill` in Claude’s Skills settings. It uses the same evidence ledger and career-interview discipline as the Codex version. When moving work between assistants, use the handoff packet in the skill and keep the evidence ledger as the shared record.
