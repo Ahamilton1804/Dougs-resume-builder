@@ -1,0 +1,7 @@
+interface:
+  display_name: "Career Story & Resume Builder"
+  short_description: "Build an evidence-backed career narrative"
+  default_prompt: "Use $career-story-resume-builder to help me recover my work history and build a targeted resume."
+
+policy:
+  allow_implicit_invocation: true

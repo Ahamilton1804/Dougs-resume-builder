@@ -1,0 +1,6 @@
+.DS_Store
+*.zip
+raw/
+exports/
+transcripts/
+credentials/

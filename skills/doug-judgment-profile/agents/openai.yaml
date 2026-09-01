@@ -1,0 +1,7 @@
+interface:
+  display_name: "Doug Judgment Profile"
+  short_description: "Standing reference for how Doug thinks"
+  default_prompt: "Use $doug-judgment-profile to help me pressure-test my reasoning and prepare a clear position."
+
+policy:
+  allow_implicit_invocation: true
