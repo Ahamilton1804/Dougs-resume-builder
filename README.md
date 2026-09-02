@@ -12,12 +12,13 @@ The skills support the work without replacing judgment. The professional-evidenc
 
 ## Current work
 
-The workspace has the evidence structures and two reusable skills. No role chronology or accomplishment entries have been added yet. We will begin with the current AI-strategy role, recover the strongest recent work, and work backward through the career transitions that explain growing scope.
+The workspace has an initial chronology entry and three AI-strategy evidence records. Begin each return with `evidence/SESSION_STATE.md`. It records the working position, the questions already resolved, the active career question, and the next source or discussion to recover.
 
 ## Repository structure
 
 | Location | Role |
 |---|---|
+| `evidence/SESSION_STATE.md` | Restart surface for cross-machine continuity and the current career-recovery question. |
 | `evidence/CAREER_MAP.md` | Working chronology, titles, role changes, and pivotal chapters. |
 | `evidence/CAREER_EVIDENCE.md` | Claim-level source of truth for accomplishments and evidence. |
 | `resumes/` | Resume versions tailored to credible target roles. |
