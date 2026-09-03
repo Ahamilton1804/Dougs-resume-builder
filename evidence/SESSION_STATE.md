@@ -18,7 +18,7 @@ Six initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 - AI-004: April 2026 Microsoft/AFP All Staff Retreat AI workshops and feedback.
 - AI-005: July 2026 All Staff AI operating-model session, AI Hub, office hours, and limited feedback.
 - AI-006: Governance, responsible-use, and staff-guidance package, linked to the AI Hub and Skunkworks framework.
-- AI-007: early political-platform concept and project tracker, with no identified delivery path.
+- AI-007: political-intelligence roadmap, active candidate-tracking build, and Grok/X API monitoring pilot.
 
 ## Questions resolved
 
@@ -33,18 +33,18 @@ Six initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 | What was Doug's role in the July 2026 All Staff AI session? | Doug's agenda roles were AFP's AI strategy and point of view, plus the AI Hub and next-steps close. He reports co-designing the agenda, content, and speaker lineup with Kristine, and choosing a bottom-up approach that connected individual use, team workflows, and enterprise capability. | AI-005 |
 | What did the July All Staff session produce? | A recap directed staff to the AI Hub and office hours. A 10-response Pulse was directionally positive and requested advanced training, Q&A, and practical guides. It cannot establish organization-wide impact. | AI-005 |
 | What governance and guidance work did Doug create? | Artifacts document a working governance framework, five-part staff guidance series, AI Hub, enablement draft, and Skunkworks framework. Doug reports authoring the governance document, Hub page, and five-part series, adapting Stand Together guidance to AFP. | AI-006 |
-| What was the political-platform opportunity with Matt Henkel? | The concept addressed fragmented systems and coordination across candidate recruitment and campaign activity. It aimed to improve listening, bench development, advancement, campaign setup, and cross-department work. Doug reports developing a project tracker. No delivery path or completed platform outcome is identified. | AI-007 |
+| What was the political-platform opportunity with Matt Henkel? | A June roadmap names Doug as owner and Matt as working partner. It sequences candidate tracking, data, profiles, monitoring, landscape analysis, campaign support, and public-records workflows. The candidate tracker was marked Active Build, and Grok/X API monitoring was marked In Pilot with i360 running the test. | AI-007 |
 
 ## Current career question
 
-What did the project tracker for the political-platform concept track, who used it, and where are the underlying concept or decision materials?
+What did Doug personally do to move the Grok/X API work from the decision framework into the active tool, and what evidence shows present use or results?
 
 ## Evidence queued for recovery
 
 - The ChatGPT pilot report, its recipients, and any resulting decisions.
 - Evidence of colleague reuse of the PowerPoint deck-builder skill.
-- The political-platform opportunity with Matt Henkel, including artifacts, outcome, and public-safety boundaries.
-- The project tracker, concept materials, stakeholder notes, and delivery-decision evidence for the political-platform opportunity.
+- Current Grok/X API search-tool work, including Doug's contribution, operators, users, evaluation, and results.
+- Current candidate-tracker build status and use evidence.
 - Formal review, approval, and ownership evidence for the governance and guidance package.
 
 ## Recent context that is not yet evidence
