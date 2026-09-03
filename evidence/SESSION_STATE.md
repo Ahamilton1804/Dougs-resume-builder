@@ -25,7 +25,7 @@ Six initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 | Question | Working answer | Evidence location |
 |---|---|---|
 | What was the core mandate of the new role? | Identify practical, responsible uses of AI and develop an AI strategy for AFP. | Career Map, AI-001 |
-| What did discovery and the pilot reveal? | Many staff needed relief from cognitive load and strained workflows. Value from generative-AI tools depended heavily on task clarity, confidence, and practice. | AI-001, AI-002 |
+| What did discovery and the pilot reveal? | Many staff needed relief from cognitive load and strained workflows. The pilot's preliminary findings identified capacity expansion, task compression, and task elimination. Value from generative-AI tools depended heavily on task clarity, confidence, persistent context, and practice. | AI-001, AI-002 |
 | What can be said publicly about the work? | Frame it as discovery, practical adoption, governance, and reusable workflow design. Keep internal systems, findings, participant details, and political scenarios private. | AI-001 to AI-003 |
 | What happened in the April 2026 All Staff Retreat AI workshops? | Doug reports co-leading three 90-minute Microsoft/AFP workshops. Documented materials show peer impact stories, responsible-use and prompting instruction, hands-on scenarios, and a 65-response follow-up survey that called for more applied and role-specific training. | AI-004 |
 | Why was Microsoft part of the April workshops? | Doug reports that no AFP or Stand Together training capability could deliver the needed sessions. He partnered with Microsoft for credible external facilitation, and all three 100-person sessions were fully subscribed. | AI-004 |
@@ -35,14 +35,15 @@ Six initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 | What governance and guidance work did Doug create? | Artifacts document a working governance framework, five-part staff guidance series, AI Hub, enablement draft, and Skunkworks framework. Doug reports authoring the governance document, Hub page, and five-part series, adapting Stand Together guidance to AFP. | AI-006 |
 | What was the political-platform opportunity with Matt Henkel? | Doug reports that the social-listening concept began in his AI strategic framework. A June roadmap names him as owner and Matt as working partner. It sequences candidate tracking, data, profiles, monitoring, landscape analysis, campaign support, and public-records workflows. The candidate tracker was marked Active Build, and Grok/X API monitoring was marked In Pilot with i360 running the test. | AI-007 |
 | What was the intent of the Version 5 AI strategic framework? | Doug reports developing it with Claude and Codex as an aspirational system view, with no claim to a technically fixed build plan. The document describes a broader organization-wide architecture; the political-intelligence work is one application. Its capabilities were hypotheses for pilots that could validate, reshape, defer, or end them on technical, operating, legal, or entity grounds. | AI-001, AI-007 |
+| What does the ChatGPT pilot record establish? | The January executive summary names Doug, Jon Lueth, and Trevor Koch as program leads and identifies 21 staff participants. It documents preliminary capacity-expansion and adoption findings, including a role-clarity risk. The detailed use-case material also documents Doug's transcript-and-notes workflow for producing pilot and leadership summaries. | AI-002 |
 
 ## Current career question
 
-What controls, source terms, and entity-specific rules govern use and sharing in the Grok/X API work, and what decision will establish the platform's organizational home?
+Who received the ChatGPT pilot executive summary, and what decision, training design, or tool-access action followed from it?
 
 ## Evidence queued for recovery
 
-- The ChatGPT pilot report, its recipients, and any resulting decisions.
+- The ChatGPT pilot executive summary's recipients and any resulting decisions.
 - Evidence of colleague reuse of the PowerPoint deck-builder skill.
 - Current Grok/X API search-tool work, including Doug's contribution, operators, users, evaluation, and results.
 - Current candidate-tracker build status and use evidence.
