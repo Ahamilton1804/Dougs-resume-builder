@@ -36,14 +36,16 @@ Six initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 | What was the political-platform opportunity with Matt Henkel? | Doug reports that the social-listening concept began in his AI strategic framework. A June roadmap names him as owner and Matt as working partner. It sequences candidate tracking, data, profiles, monitoring, landscape analysis, campaign support, and public-records workflows. The candidate tracker was marked Active Build, and Grok/X API monitoring was marked In Pilot with i360 running the test. | AI-007 |
 | What was the intent of the Version 5 AI strategic framework? | Doug reports developing it with Claude and Codex as an aspirational system view, with no claim to a technically fixed build plan. The document describes a broader organization-wide architecture; the political-intelligence work is one application. Its capabilities were hypotheses for pilots that could validate, reshape, defer, or end them on technical, operating, legal, or entity grounds. | AI-001, AI-007 |
 | What does the ChatGPT pilot record establish? | The January executive summary names Doug, Jon Lueth, and Trevor Koch as program leads and identifies 21 staff participants. It documents preliminary capacity-expansion and adoption findings, including a role-clarity risk. The detailed use-case material also documents Doug's transcript-and-notes workflow for producing pilot and leadership summaries. | AI-002 |
+| How did the ChatGPT pilot findings travel? | Doug reports distributing the executive summary to senior staff, his department, and Stand Together community colleagues, and using it in strategy presentations. The finding on clear problem articulation reinforced the strategy position on adoption. | AI-002 |
 
 ## Current career question
 
-Who received the ChatGPT pilot executive summary, and what decision, training design, or tool-access action followed from it?
+Are there sent-email, meeting, or presentation records that confirm the ChatGPT pilot executive-summary distribution and how leaders responded?
 
 ## Evidence queued for recovery
 
 - The ChatGPT pilot executive summary's recipients and any resulting decisions.
+- Email, meeting, or presentation records confirming the ChatGPT pilot report's distribution and response.
 - Evidence of colleague reuse of the PowerPoint deck-builder skill.
 - Current Grok/X API search-tool work, including Doug's contribution, operators, users, evaluation, and results.
 - Current candidate-tracker build status and use evidence.
