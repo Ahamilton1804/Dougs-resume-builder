@@ -37,15 +37,14 @@ Six initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 | What was the intent of the Version 5 AI strategic framework? | Doug reports developing it with Claude and Codex as an aspirational system view, with no claim to a technically fixed build plan. The document describes a broader organization-wide architecture; the political-intelligence work is one application. Its capabilities were hypotheses for pilots that could validate, reshape, defer, or end them on technical, operating, legal, or entity grounds. | AI-001, AI-007 |
 | What does the ChatGPT pilot record establish? | The January executive summary names Doug, Jon Lueth, and Trevor Koch as program leads and identifies 21 staff participants. It documents preliminary capacity-expansion and adoption findings, including a role-clarity risk. The detailed use-case material also documents Doug's transcript-and-notes workflow for producing pilot and leadership summaries. | AI-002 |
 | How did the ChatGPT pilot findings travel? | Doug reports distributing the executive summary to senior staff, his department, and Stand Together community colleagues, and using it in strategy presentations. The finding on clear problem articulation reinforced the strategy position on adoption. | AI-002 |
+| What was the leadership response to the ChatGPT pilot report? | No action or response is established. Do not infer executive endorsement or failure from silent report distribution. | AI-002 |
 
 ## Current career question
 
-Are there sent-email, meeting, or presentation records that confirm the ChatGPT pilot executive-summary distribution and how leaders responded?
+Which colleagues used the PowerPoint deck-builder skill Doug created, for what work, and what evidence confirms reuse?
 
 ## Evidence queued for recovery
 
-- The ChatGPT pilot executive summary's recipients and any resulting decisions.
-- Email, meeting, or presentation records confirming the ChatGPT pilot report's distribution and response.
 - Evidence of colleague reuse of the PowerPoint deck-builder skill.
 - Current Grok/X API search-tool work, including Doug's contribution, operators, users, evaluation, and results.
 - Current candidate-tracker build status and use evidence.
