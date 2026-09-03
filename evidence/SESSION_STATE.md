@@ -38,11 +38,11 @@ Six initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 | What does the ChatGPT pilot record establish? | The January executive summary names Doug, Jon Lueth, and Trevor Koch as program leads and identifies 21 staff participants. It documents preliminary capacity-expansion and adoption findings, including a role-clarity risk. The detailed use-case material also documents Doug's transcript-and-notes workflow for producing pilot and leadership summaries. | AI-002 |
 | How did the ChatGPT pilot findings travel? | Doug reports distributing the executive summary to senior AFP staff and senior Stand Together staff in the AI working group, and using it in strategy presentations. Later Outlook references state that it was sent when complete. The finding on clear problem articulation reinforced the strategy position on adoption. | AI-002 |
 | What was the leadership response to the ChatGPT pilot report? | No action or response is established. Do not infer executive endorsement or failure from silent report distribution. | AI-002 |
-| What is known about the deck-builder skill's origin and reuse? | Doug reports developing the original presentation-building method in personal Claude while producing the March deck, then turning it into the basis for a reusable deck-builder skill. He shared it with Kristine Bucci and Nick Laurila. A March 5 document in Nick's OneDrive, `AFP Business Intelligence & Data Solutions.docx`, aligns with Doug's recollection that Nick's same-meeting presentation concerned data architecture and governance. It does not verify the presentation itself or its lineage to Doug's method. | AI-003 |
+| What is known about the deck-builder skill's origin and reuse? | Doug reports developing the original presentation-building method in personal Claude while producing the March deck, then turning it into the basis for a reusable deck-builder skill. He shared it with Kristine Bucci and Nick Laurila. A March 5 document in Nick's OneDrive, `AFP Business Intelligence & Data Solutions.docx`, aligns with Doug's recollection that Nick's same-meeting presentation concerned data architecture and governance. The presentation, agenda, and original handoff are unrecovered and may not exist in a retrievable location. Further recovery is deferred unless one turns up naturally. | AI-003 |
 
 ## Current career question
 
-Can the March meeting agenda, Nick's slide deck, or the original sharing email be recovered to verify the presentation and its lineage?
+What follow-up training, resource, or pilot resulted from the April All Staff AI workshop feedback, and what did Doug personally lead during the sessions?
 
 ## Evidence queued for recovery
 
