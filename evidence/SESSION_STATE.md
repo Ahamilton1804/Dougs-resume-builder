@@ -38,10 +38,11 @@ Six initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 | What does the ChatGPT pilot record establish? | The January executive summary names Doug, Jon Lueth, and Trevor Koch as program leads and identifies 21 staff participants. It documents preliminary capacity-expansion and adoption findings, including a role-clarity risk. The detailed use-case material also documents Doug's transcript-and-notes workflow for producing pilot and leadership summaries. | AI-002 |
 | How did the ChatGPT pilot findings travel? | Doug reports distributing the executive summary to senior AFP staff and senior Stand Together staff in the AI working group, and using it in strategy presentations. Later Outlook references state that it was sent when complete. The finding on clear problem articulation reinforced the strategy position on adoption. | AI-002 |
 | What was the leadership response to the ChatGPT pilot report? | No action or response is established. Do not infer executive endorsement or failure from silent report distribution. | AI-002 |
+| What is known about the deck-builder skill's origin and reuse? | Doug reports developing the original presentation-building method in personal Claude while producing the March deck, then turning it into the basis for a reusable deck-builder skill. He shared it with Kristine Bucci and Nick Laurila. Nick's later presentation is the strongest reuse lead, though its file and the original handoff remain to be recovered. | AI-003 |
 
 ## Current career question
 
-Which colleagues used the PowerPoint deck-builder skill Doug created, for what work, and what evidence confirms reuse?
+What was the title or audience of Nick Laurila's presentation, and where is its file or original sharing email?
 
 ## Evidence queued for recovery
 
