@@ -25,6 +25,7 @@ Four initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 | What did discovery and the pilot reveal? | Many staff needed relief from cognitive load and strained workflows. Value from generative-AI tools depended heavily on task clarity, confidence, and practice. | AI-001, AI-002 |
 | What can be said publicly about the work? | Frame it as discovery, practical adoption, governance, and reusable workflow design. Keep internal systems, findings, participant details, and political scenarios private. | AI-001 to AI-003 |
 | What happened in the April 2026 All Staff Retreat AI workshops? | Doug reports co-leading three 90-minute Microsoft/AFP workshops. Documented materials show peer impact stories, responsible-use and prompting instruction, hands-on scenarios, and a 65-response follow-up survey that called for more applied and role-specific training. | AI-004 |
+| Why was Microsoft part of the April workshops? | Doug reports that no AFP or Stand Together training capability could deliver the needed sessions. He partnered with Microsoft for credible external facilitation, and all three 100-person sessions were fully subscribed. | AI-004 |
 
 ## Current career question
 
