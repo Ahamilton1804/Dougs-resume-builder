@@ -52,7 +52,7 @@ Seven initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 
 ## Current career question
 
-After the April workshop feedback arrived, what follow-up did Doug personally initiate, design, or shape?
+Which April-to-June enablement action has a contemporaneous record that ties it to workshop feedback and identifies Doug's role?
 
 ## Evidence queued for recovery
 
@@ -66,6 +66,8 @@ Recent screenshots and discussion about Lindsay's visibility into Doug's work ar
 
 Doug perceives a possible trust or alignment gap between Political and State Operations. This is an unverified contextual signal that may have affected the reception of a shared operating model. Do not attribute motive, cause, or responsibility without direct evidence.
 
+Doug recalls that ChatGPT and Claude pilots may have been active around the April workshop period. The timing, their relationship to workshop feedback, and Doug's precise contribution are currently hazy. Treat them as recovery leads, not as evidence of a feedback-driven follow-up.
+
 ## Next session
 
-Continue with the April 2026 workshop record. The agenda, dry run, and survey results establish much of Doug's design and agenda role. Determine what post-workshop feedback changed in the next enablement work, and which of those follow-ups Doug personally initiated, designed, or shaped. See `evidence/AI-004_EVIDENCE_ADDENDUM.md` for the supporting record. Add only externally safe, evidence-disciplined conclusions to the career map or evidence ledger.
+Continue with the April 2026 workshop record. The agenda, dry run, and survey results establish much of Doug's design and agenda role. Search contemporaneous April-to-June emails, calendars, and meeting records for a documented connection between workshop feedback and a later enablement action, including any ChatGPT or Claude pilot. Do not infer a causal link from recalled timing. See `evidence/AI-004_EVIDENCE_ADDENDUM.md` for the supporting record. Add only externally safe, evidence-disciplined conclusions to the career map or evidence ledger.
