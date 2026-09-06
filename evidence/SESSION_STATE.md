@@ -51,7 +51,7 @@ Seven initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 
 ## Current career question
 
-What did Doug personally demonstrate or facilitate during the hands-on scenarios in the April workshops?
+What did Doug personally demonstrate or lead during the hands-on scenarios in the April workshops?
 
 ## Evidence queued for recovery
 
