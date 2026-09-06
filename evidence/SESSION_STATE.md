@@ -55,7 +55,7 @@ Eight initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 
 ## Current career question
 
-Did any Legal, Compliance, IT, Communications, or leadership decision follow the July 2-3 HOA program documents?
+After the July 27 clarification with Matt, what did Doug personally do next to advance, narrow, or close the political-intelligence work?
 
 ## Evidence queued for recovery
 
@@ -73,4 +73,4 @@ Doug recalls that ChatGPT and Claude pilots may have been active around the Apri
 
 ## Next session
 
-Continue with AI-008, then return to the governance package. The source chain now establishes the direct June 24 handoff of the skill and overview to Wiselet, Jon Lueth, and Nick Laurila, plus July 2-3 project documents that explicitly place the work behind Legal, Compliance, IT, and Communications gates. Recover any resulting decision or lack of decision. Keep the state project, individual, data, and legal facts private. Then recover the actual Legal feedback conversation or analysis for AI-006, including which governance items were resolved, deferred, or left open, plus final approval, distribution, and implementation ownership.
+Governance and Vibe Coding are closed for now. Their private source chains establish the work and its purpose, while final approval, formal adoption, and project outcomes remain unrecovered. Continue with AI-007, political intelligence. The source chain establishes a June exploratory roadmap, the PTO-era misunderstanding and July 27 clarification, and continued i360 X API pilot activity. Recover what Doug personally did after that clarification to advance, narrow, or close the initiative. Keep candidate, campaign, entity, platform, and data details private.
