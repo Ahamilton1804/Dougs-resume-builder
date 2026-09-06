@@ -61,6 +61,8 @@ Doug sent a follow-up email to Emily Seidel on 2026-09-01 regarding previously o
 
 Recent screenshots and discussion about Lindsay's visibility into Doug's work are private context, not evidence. The observed interest in AI, informal process knowledge, data age, and Liberty's underlying data condition are discovery leads, not organizational findings or career claims.
 
+Doug perceives a possible trust or alignment gap between Political and State Operations. This is an unverified contextual signal that may have affected the reception of a shared operating model. Do not attribute motive, cause, or responsibility without direct evidence.
+
 ## Next session
 
 Continue with the political-intelligence opportunity with Matt Henkel. Establish Doug's distinct contribution after the problem was defined, then capture the output, status, use, and public-safety boundaries. Add only externally safe, evidence-disciplined conclusions to the career map or evidence ledger. Use `evidence/BACKLOG.md` to choose the next item after that interview.
