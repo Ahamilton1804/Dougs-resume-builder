@@ -4,7 +4,7 @@ Update this file at the end of each substantive career-recovery session. Keep it
 
 ## Last updated
 
-2026-09-05
+2026-09-06
 
 ## Where we are
 
@@ -34,6 +34,7 @@ Seven initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 | What did the July All Staff session produce? | A recap directed staff to the AI Hub and office hours. A 10-response Pulse was directionally positive and requested advanced training, Q&A, and practical guides. It cannot establish organization-wide impact. | AI-005 |
 | What governance and guidance work did Doug create? | Artifacts document a working governance framework, five-part staff guidance series, AI Hub, enablement draft, and Skunkworks framework. Doug reports authoring the governance document, Hub page, and five-part series, adapting Stand Together guidance to AFP. | AI-006 |
 | What was the political-platform opportunity with Matt Henkel? | Doug reports that the social-listening concept began in his AI strategic framework. A June roadmap names him as owner and Matt as working partner. It sequences candidate tracking, data, profiles, monitoring, landscape analysis, campaign support, and public-records workflows. The candidate tracker was marked Active Build, and Grok/X API monitoring was marked In Pilot with i360 running the test. | AI-007 |
+| What operating problem did the political-intelligence work address? | Doug reports that disparate systems extended the lead time required to enter additional races. The intended capability would connect candidate tracking, ongoing monitoring, historical election data, and district data across redistricting through a Claude interface, dashboards, or an API. This is a detailed account; neither the data access nor an implemented product is established. | AI-007 |
 | What was the intent of the Version 5 AI strategic framework? | Doug reports developing it with Claude and Codex as an aspirational system view, with no claim to a technically fixed build plan. The document describes a broader organization-wide architecture; the political-intelligence work is one application. Its capabilities were hypotheses for pilots that could validate, reshape, defer, or end them on technical, operating, legal, or entity grounds. | AI-001, AI-007 |
 | What does the ChatGPT pilot record establish? | The January executive summary names Doug, Jon Lueth, and Trevor Koch as program leads and identifies 21 staff participants. It documents preliminary capacity-expansion and adoption findings, including a role-clarity risk. The detailed use-case material also documents Doug's transcript-and-notes workflow for producing pilot and leadership summaries. | AI-002 |
 | How did the ChatGPT pilot findings travel? | Doug reports distributing the executive summary to senior AFP staff and senior Stand Together staff in the AI working group, and using it in strategy presentations. Later Outlook references state that it was sent when complete. The finding on clear problem articulation reinforced the strategy position on adoption. | AI-002 |
@@ -45,7 +46,7 @@ Seven initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 
 ## Current career question
 
-What was the political-intelligence opportunity with Matt Henkel, what did Doug personally own or create, and what output, decision, use, or evidence of value resulted?
+After the political-intelligence problem and intended capability were defined, what did Doug personally decide, design, build, or carry?
 
 ## Evidence queued for recovery
 
@@ -59,4 +60,4 @@ Recent screenshots and discussion about Lindsay's visibility into Doug's work ar
 
 ## Next session
 
-Start with the political-intelligence opportunity with Matt Henkel. Capture the problem, Doug's distinct contribution, output, status, and public-safety boundaries. Add only externally safe, evidence-disciplined conclusions to the career map or evidence ledger. Use `evidence/BACKLOG.md` to choose the next item after that interview.
+Continue with the political-intelligence opportunity with Matt Henkel. Establish Doug's distinct contribution after the problem was defined, then capture the output, status, use, and public-safety boundaries. Add only externally safe, evidence-disciplined conclusions to the career map or evidence ledger. Use `evidence/BACKLOG.md` to choose the next item after that interview.
