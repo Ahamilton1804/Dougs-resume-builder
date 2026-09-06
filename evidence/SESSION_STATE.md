@@ -10,7 +10,7 @@ Update this file at the end of each substantive career-recovery session. Keep it
 
 This private workspace is recovering Doug Gardner's AFP career record before drafting a resume. The current focus is the Senior Director of AI Strategy role, which began approximately September 2025 after his Director of Product Implementation role. A self-review may provide future source material, but it does not set the scope or narrative of this project.
 
-Seven initial AI-strategy records are in `CAREER_EVIDENCE.md`:
+Eight initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 
 - AI-001: cross-functional discovery and AI strategy artifacts.
 - AI-002: ChatGPT pilot and the task-clarity adoption finding.
@@ -19,6 +19,7 @@ Seven initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 - AI-005: July 2026 All Staff AI operating-model session, AI Hub, office hours, and limited feedback.
 - AI-006: Governance, responsible-use, and staff-guidance package, linked to the AI Hub and Skunkworks framework.
 - AI-007: political-intelligence roadmap, active candidate-tracking build, and Grok/X API monitoring pilot.
+- AI-008: Vibe Coding project-intake and documentation guidance, prompted by an under-documented state staff project and Legal consultation.
 
 ## Questions resolved
 
@@ -35,6 +36,7 @@ Seven initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 | What was Doug's role in the July 2026 All Staff AI session? | Doug's agenda roles were AFP's AI strategy and point of view, plus the AI Hub and next-steps close. He reports co-designing the agenda, content, and speaker lineup with Kristine, and choosing a bottom-up approach that connected individual use, team workflows, and enterprise capability. | AI-005 |
 | What did the July All Staff session produce? | A recap directed staff to the AI Hub and office hours. A 10-response Pulse was directionally positive and requested advanced training, Q&A, and practical guides. It cannot establish organization-wide impact. | AI-005 |
 | What governance and guidance work did Doug create? | A May 13 community responsible-use memo established approved enterprise tools and a rule against personal or unapproved accounts. Dated June materials show a governance draft and a five-part series in Word, PDF, and HTML formats. The series explicitly uses AFP's AI vision, discovery work, and qualitative ChatGPT pilot findings. Doug reports authoring the governance document, Hub page, and five-part series, adapting the community memo for AFP. Teams and Outlook show him putting the governance page before Jon Zalewski for feedback, giving Legal ten concrete issues to consider, and receiving tightening edits plus notice of a deeper governance-and-risk analysis. Specific product-usage analytics, final adoption, staff-wide distribution, and the precise resolution of Legal feedback remain unestablished. | AI-006, `evidence/AI-006_EVIDENCE_ADDENDUM.md` |
+| What prompted the Vibe Coding review triggers? | June and July Outlook and Teams records establish that an under-documented state staff AI project had grown beyond initial scope and prompted guidance around readable project scope, data, infrastructure, coordination, and early Legal involvement. Doug reports that a Nevada project and an informal legal exchange, which did not capture its full scope or data, were the immediate case. The resulting skill and legal questions are established. A completed project review, remediation, or broader adoption is not. | AI-008 |
 | What was the political-platform opportunity with Matt Henkel? | Doug reports that the social-listening concept began in his AI strategic framework. A June roadmap names him as owner and Matt as working partner. It sequences candidate tracking, data, profiles, monitoring, landscape analysis, campaign support, and public-records workflows. The candidate tracker was marked Active Build, and Grok/X API monitoring was marked In Pilot with i360 running the test. | AI-007 |
 | What operating problem did the political-intelligence work address? | Doug reports that disparate systems extended the lead time required to enter additional races. The intended capability would connect candidate tracking, ongoing monitoring, historical election data, and district data across redistricting through a Claude interface, dashboards, or an API. This is a detailed account; neither the data access nor an implemented product is established. | AI-007 |
 | What broader operating opportunity did Doug see? | Doug reports seeing a possible shared-intelligence layer for Federal Affairs, State Affairs, policy, and state teams. He expected it could improve alignment across a growing race portfolio, reduce duplicate or conflicting work, clarify handoffs, and shorten campaign-start lead times. Stakeholder agreement, ownership, and delivery are not established. | AI-007 |
@@ -52,7 +54,7 @@ Seven initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 
 ## Current career question
 
-Which Legal feedback items were resolved, deferred to a legal-specific resource, or left open in Doug's May-to-July governance and vision package?
+What did the first Vibe Coding skill contain, who used it, and what feedback or project changes followed?
 
 ## Evidence queued for recovery
 
@@ -70,4 +72,4 @@ Doug recalls that ChatGPT and Claude pilots may have been active around the Apri
 
 ## Next session
 
-Continue with the May-to-July 2026 governance and vision package. The source chain now establishes the May 13 community memo, June AFP governance draft, five-part staff guidance series in three formats, qualitative pilot integration, ShareTogether governance-page access, and Legal's review sequence. Doug gave Legal ten named questions; Jon reported a few tightening edits and a deeper governance-and-risk analysis in progress. The governance draft remains marked Internal Review and Not for Distribution. Recover the actual feedback conversation or analysis, then establish which items were resolved, deferred, or left open, along with final approval, distribution, and implementation ownership. See `evidence/AI-006_EVIDENCE_ADDENDUM.md` and AI-006 for the supporting record. Add only externally safe, evidence-disciplined conclusions to the career map or evidence ledger.
+Continue with AI-008, then return to the governance package. The source chain establishes the Vibe Coding guidance, its project-intake and documentation purpose, Legal consultation, and the gap it addressed. Recover the first skill contents, whether it reached any users beyond the originating example, and any feedback or changes that followed. Keep the state project, individual, data, and legal facts private. Then recover the actual Legal feedback conversation or analysis for AI-006, including which governance items were resolved, deferred, or left open, plus final approval, distribution, and implementation ownership.
