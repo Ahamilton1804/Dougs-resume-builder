@@ -50,7 +50,7 @@ Seven initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 
 ## Current career question
 
-After the i360 X API tool was available in the portal, who received access, how did they use it, and what did the next phase show?
+What feedback does the expanded X API user group provide, and what decision will it support about the pilot's next phase and long-term direction?
 
 ## Evidence queued for recovery
 

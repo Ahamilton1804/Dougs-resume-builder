@@ -48,6 +48,14 @@ On July 27, Doug wrote Phillip Joffrion that i360 had set up a basic interface f
 - Whether anyone outside the initial pilot group received access after August 18, how they used the tool, and what testing showed.
 - The relationship between later workshops and the difficulty of sustaining pilots.
 
+## Current use and long-term direction
+
+Doug reports that the current user group is primarily the political team, with some Federal Government Affairs and political research users. He expects a meeting during the week of September 7 to broaden use and collect feedback. This is a detailed account of current use and a planned next step. The reviewed email confirms that Doug sought access for the pilot group, but it does not identify every later user or document their use.
+
+Doug also reports meeting with Briana and Jon Z from the legal team to discuss where the capability could sit over the long term. His working view is that community legal entities, data rights, and permitted uses complicate any shared view of online activity and long-term trend analysis. That meeting and the working view identify an architecture and governance question. They do not establish a legal conclusion, an approved product direction, or permission to combine data across entities.
+
+The current product can be described as an X-data pilot with a defined early user group and a planned feedback cycle. The broader opportunity is a long-term trend capability, contingent on evidence of user value, X terms, access controls, data retention, entity-specific purpose, and ownership.
+
 ## Evidence boundary
 
 The transcript and related materials contain confidential political, entity, data, vendor, and internal operating details. Retain the original file outside Git. Do not use this addendum as external resume language.
