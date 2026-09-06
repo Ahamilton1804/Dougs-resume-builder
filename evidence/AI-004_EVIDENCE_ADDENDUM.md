@@ -18,6 +18,14 @@ The raw 2025 staff-survey export contains 141 submissions. The existing executiv
 
 The raw April workshop-feedback export contains 66 responses. The existing feedback overview reports 65 responses. The raw export has a 4.35 mean rating, with 56 of 66 respondents rating the workshop a 4 or 5. Respondents most often identified safe-starting and prompting guidance as the most valuable session component. Their strongest requests for follow-up covered agents and automations, meeting and productivity workflows, writing and communication, research and policy analysis, and field organizing. Hands-on workshops were the most selected learning format, followed by team-level role-specific sessions. These are self-reported response patterns from a voluntary survey. They show demand and directional learning preferences. They do not establish attendance, completion, adoption, or workflow impact.
 
+## June follow-through evidence
+
+The immediate follow-through that current records establish is field enablement. On June 8, Doug organized a calendar meeting with Nate Hogan and Jon Lueth to set dates for Florida AI workshops and decide their format. The meeting description says Doug wanted time for Florida staff, noted potential Policy interest, and intended to track findings and observations. A June 30 calendar invitation for the first Florida workshop describes a hands-on session built around day-to-day work, real use cases, and time to experiment. It also references staff access to Claude. Doug was an accepted attendee; Nate Hogan organized the invitation. A June 16 calendar event records Doug's participation in a discussion of potential AI training for Policy.
+
+These calendar records establish that Doug initiated workshop-planning activity and participated in the early field-enablement sequence. They do not state that April feedback caused the Florida work, identify Doug as the sole owner of delivery, or establish his delivery role during the June 30 session. A June baseline-expectations draft provides the strongest current link from All Staff survey feedback to the design of later hands-on workshop work.
+
+Calendar and Outlook searches did not establish that a ChatGPT or Claude pilot was launched as a direct response to the April sessions. The existing ChatGPT pilot record predates the workshops. A June 22 calendar event titled "Quick Connect/Claude" confirms a discussion, without evidence of a related pilot. Treat the recalled pilots as adjacent work until a contemporaneous source establishes their status and relationship to the workshop sequence.
+
 ## What this source supports
 
 - Doug used internal survey findings and maturity observations to shape a practical workshop design.
@@ -28,6 +36,7 @@ The raw April workshop-feedback export contains 66 responses. The existing feedb
 - Doug designed the sessions for hands-on task practice and scenario-based learning, working with Ashley at Microsoft.
 - The 2025 survey supports a mixed-readiness audience and a preference for experiential, interactive learning.
 - The April feedback supports continued demand for hands-on, role-specific, and more advanced AI instruction.
+- Doug organized a June workshop-planning discussion that led into early Florida field-enablement activity.
 
 ## Evidence status and open questions
 
@@ -38,6 +47,7 @@ The source material listed in `CAREER_EVIDENCE.md` now includes the April planni
 - What immediate follow-up, if any, did the April feedback produce before the later June and July training work?
 - Can the agenda, drafts, notes, or final attendance record be recovered from OneDrive or a meeting archive?
 - Why do the raw survey exports and prior summaries differ by six responses in 2025 and one response in April 2026?
+- Is there a contemporaneous source that ties April feedback directly to the Florida workshop decision or identifies Doug's delivery role in the June 30 session?
 
 ## Evidence boundary
 
