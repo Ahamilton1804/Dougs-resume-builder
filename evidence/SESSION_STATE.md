@@ -50,7 +50,7 @@ Seven initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 
 ## Current career question
 
-What feedback does the expanded X API user group provide, and what decision will it support about the pilot's next phase and long-term direction?
+What recurring work question can the current X API users test, and what feedback would show that the output is useful enough to keep improving?
 
 ## Evidence queued for recovery
 
