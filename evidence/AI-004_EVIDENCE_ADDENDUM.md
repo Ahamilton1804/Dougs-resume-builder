@@ -12,6 +12,12 @@ Ashley O'Rourke was Doug's primary Microsoft counterpart on the material. The pl
 
 Doug reports choosing a hands-on format. He asked participants to bring their computers and work on actual tasks. The planning document confirms 45 minutes of interactive Copilot scenarios for Field Organizer, Policy Analyst, and Manager work, with Doug responsible for providing AFP context. The dry-run transcript confirms that he and Ashley discussed practical scenario design. A January material-review transcript also shows Doug and Joe Carroll considering how discovery findings and a controlled pilot could inform an in-person Microsoft workshop. It supports the workshop's deliberate design around a range of staff readiness.
 
+## Program ownership and directional result
+
+Doug reports owning the conditions for a successful workshop series. He was accountable for leadership agreement on the material, Microsoft having the information and materials it needed, presentation approval, and content fit. The available documents corroborate the coordination work through the planning document, test run, dry-run participation, and defined agenda responsibilities. They do not independently establish that he held sole formal accountability for the series.
+
+The feedback evidence is directionally positive. The raw export has a 4.35 mean rating, with 56 of 66 respondents rating the workshop a 4 or 5. This supports Doug's account that the series was mostly successful from the perspective of voluntary respondents. It does not establish total attendance, universal satisfaction, later adoption, or organizational impact.
+
 ## Survey accounting
 
 The raw 2025 staff-survey export contains 141 submissions. The existing executive summary cited in `CAREER_EVIDENCE.md` reports 135 responses. The reason for the six-response difference is unresolved, so retain both counts with their source labels rather than selecting one as authoritative. The raw export supports the workshop's design assumptions: 97 of 141 respondents described themselves as moderately or highly proficient with conversational AI tools, while 44 reported limited or no experience. Experiential learning was the preferred learning method for 103 respondents, and live demonstrations with interaction were selected by 83 respondents as an effective instructional method. Training sessions or demonstrations, use-case examples, and clear usage protocols were the three most common confidence needs.
