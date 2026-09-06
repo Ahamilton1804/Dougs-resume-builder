@@ -16,9 +16,13 @@ The documents establish the use of qualitative pilot findings and use cases. The
 
 ## Review and circulation
 
-On July 6, Jon Zalewski acknowledged receipt of the governance draft for review and anticipated comments from Jon and Allison. July Outlook threads titled `Governance, Vision and other material` document Doug circulating the AI Vision, governance document, Skills Briefing, Claude guide, and five-part guidance series as a connected package. A July 31 message titled `HTML Links` supports that Doug was considering how to include the materials in a shared set of links.
+Teams records establish a direct Legal-review sequence. On June 17, Doug sent Jon Zalewski the ShareTogether governance page and asked for his thoughts. He said he was also developing an AFP AI SharePoint page and proposed legal-specific material for staff. On June 18, Jon said he had a few items to tighten and asked how to share edits. He then reported that he had started a deeper governance-and-risk analysis, which might belong in a legal-specific section or page.
 
-Doug reports that he sought broad feedback and received substantive feedback only from Legal. The available records establish review by Legal. They do not establish the comments' content, resolution, formal approval, ownership of implementation, or the live-publication status of the individual pages.
+On June 25, Doug sent the governance package to Jon, Allison McKenzie, and Wes Edwards. He explained that the AI Vision was the foundation for the projects, described a longer reference library for both staff and AI tools, and asked Legal to consider ten explicit areas: review triggers; what constitutes legal review; public data and terms of service; legal-adjacent outputs; named-person and private-party risk; entity and compliance boundaries; external hosting; disclaimers; incident escalation; and a longer-form legal resource. On July 6, Jon wrote that he, Wes, and Allison had discussed the package and that he would schedule time with Doug to discuss their feedback and guidance.
+
+July Outlook threads titled `Governance, Vision and other material` document Doug circulating the AI Vision, governance document, Skills Briefing, Claude guide, and five-part guidance series as a connected package. A July 31 message titled `HTML Links` supports that Doug was considering how to include the materials in a shared set of links.
+
+Doug reports that he sought broad feedback and received substantive feedback only from Legal. The available records establish review by Legal, edits to tighten the pages, and a deeper analysis in progress. They do not establish the feedback's precise content or resolution, formal approval, ownership of implementation, or staff-wide distribution of the individual pages.
 
 ## What this source supports
 
@@ -26,7 +30,7 @@ Doug reports that he sought broad feedback and received substantive feedback onl
 - AFP's June package translated that baseline into AFP-specific governance and staff guidance.
 - The package connected responsible use to the AI vision, practical use, and qualitative pilot lessons.
 - The five-part series was prepared in multiple formats for staff-facing use.
-- Legal review occurred before the July package circulation.
+- Legal review included specific feedback on the staff-facing governance pages and a deeper analysis of the governance and risk questions.
 
 ## Evidence boundary
 
