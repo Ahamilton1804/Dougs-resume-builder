@@ -52,7 +52,7 @@ Seven initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 
 ## Current career question
 
-What did Doug personally design, facilitate, or learn in the first Florida workshop sequence?
+What did Doug personally design, lead, or learn in the first Florida workshop sequence?
 
 ## Evidence queued for recovery
 
