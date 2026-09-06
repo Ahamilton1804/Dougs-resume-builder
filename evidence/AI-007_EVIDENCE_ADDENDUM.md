@@ -25,7 +25,28 @@ The transcript also documents Doug and Matt discussing a current Grok/X interfac
 - The reported meeting between Doug and Jeff Glendening before July 27.
 - Any email exchange between Doug and Jeff Glendening.
 - The reported discussion involving Philip.
-- Doug's distinct work after the clarification, and any later decision, use, or result.
+- Doug's distinct work after the clarification beyond the X API pilot, and any later decision, use, or result.
+
+## X API pilot, June through August
+
+Outlook records a separate, continuing X API pilot with i360. On June 26, Briana Mezengia asked i360 to convene her, Doug, and colleagues to discuss potential uses for i360's X-data capability and the appropriate home for the tool. Eric Aldrich confirmed the invitation and said i360 was meeting internally on the current use case.
+
+On July 10, Doug wrote Lindsay Lara and Kristine Bucci that the initial Grok/X search phase had run as a basic proof of concept with Luke Thompson, Caleb Heimlich, and Matt Henkel. He described a prior API option as unavailable, reported that Briana and he had discussed i360 building and maintaining the next version in the shared environment, and identified open X terms-of-service, access, pricing, and further-testing questions. This is a contemporaneous account by Doug, not independent outcome measurement.
+
+On July 27, Doug wrote Phillip Joffrion that i360 had set up a basic interface following successful X API automations and that the group intended to place it in front of users for further proof-of-concept refinement. On August 18, Doug wrote i360, copying Briana, to confirm portal permissions and request access for the pilot group after Briana told him the X tool was in the portal.
+
+### What this source supports
+
+- Briana initiated the early product discussion with i360, with Doug included.
+- Doug helped carry the discovery, pilot-coordination, stakeholder-communication, and access work between AFP and i360.
+- i360 built the basic interface and hosted the tool in its portal. The record does not support a claim that Doug built or maintained the product.
+- The work advanced from a basic proof of concept toward a user-access test. Sustained use, measured value, and any final product decision remain unestablished.
+
+### What remains a detailed account or open lead
+
+- The reported earlier Wes Bowman prototype, its Mac Mini hosting, Airtable use, and its limitations.
+- Whether anyone outside the initial pilot group received access after August 18, how they used the tool, and what testing showed.
+- The relationship between later workshops and the difficulty of sustaining pilots.
 
 ## Evidence boundary
 
