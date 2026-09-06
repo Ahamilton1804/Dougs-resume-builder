@@ -30,6 +30,10 @@ The immediate follow-through that current records establish is field enablement.
 
 These calendar records establish that Doug initiated workshop-planning activity and participated in the early field-enablement sequence. They do not state that April feedback caused the Florida work, identify Doug as the sole owner of delivery, or establish his delivery role during the June 30 session. A June baseline-expectations draft provides the strongest current link from All Staff survey feedback to the design of later hands-on workshop work.
 
+Doug reports that April feedback and the prior-year survey directly informed the Florida workshop sequence. He also reports that discovery with GEDs and field staff revealed substantial variation in role, work context, and readiness. That variation made generic answers to the question of how to use AI in a role inadequate. His response was to create workshop settings where staff could bring real projects and ideas, practice with the tool, and surface questions about their workflows. This is a detailed account of the causal connection and operating rationale.
+
+Doug's working view is that agentic AI in knowledge work requires more operating learning than agentic coding work, because the relevant workflows, context, judgment, and success conditions are less standardized. He treats workshops as a practical way to learn where AI helps staff operate. This is a strategic hypothesis informed by his research and experience, not a general finding established by the workshop evidence.
+
 Calendar and Outlook searches did not establish that a ChatGPT or Claude pilot was launched as a direct response to the April sessions. The existing ChatGPT pilot record predates the workshops. A June 22 calendar event titled "Quick Connect/Claude" confirms a discussion, without evidence of a related pilot. Treat the recalled pilots as adjacent work until a contemporaneous source establishes their status and relationship to the workshop sequence.
 
 ## Governance and vision bridge
