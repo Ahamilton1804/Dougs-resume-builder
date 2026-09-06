@@ -12,6 +12,12 @@ Ashley O'Rourke was Doug's primary Microsoft counterpart on the material. The pl
 
 Doug reports choosing a hands-on format. He asked participants to bring their computers and work on actual tasks. The planning document confirms 45 minutes of interactive Copilot scenarios for Field Organizer, Policy Analyst, and Manager work, with Doug responsible for providing AFP context. The dry-run transcript confirms that he and Ashley discussed practical scenario design. A January material-review transcript also shows Doug and Joe Carroll considering how discovery findings and a controlled pilot could inform an in-person Microsoft workshop. It supports the workshop's deliberate design around a range of staff readiness.
 
+## Survey accounting
+
+The raw 2025 staff-survey export contains 141 submissions. The existing executive summary cited in `CAREER_EVIDENCE.md` reports 135 responses. The reason for the six-response difference is unresolved, so retain both counts with their source labels rather than selecting one as authoritative. The raw export supports the workshop's design assumptions: 97 of 141 respondents described themselves as moderately or highly proficient with conversational AI tools, while 44 reported limited or no experience. Experiential learning was the preferred learning method for 103 respondents, and live demonstrations with interaction were selected by 83 respondents as an effective instructional method. Training sessions or demonstrations, use-case examples, and clear usage protocols were the three most common confidence needs.
+
+The raw April workshop-feedback export contains 66 responses. The existing feedback overview reports 65 responses. The raw export has a 4.35 mean rating, with 56 of 66 respondents rating the workshop a 4 or 5. Respondents most often identified safe-starting and prompting guidance as the most valuable session component. Their strongest requests for follow-up covered agents and automations, meeting and productivity workflows, writing and communication, research and policy analysis, and field organizing. Hands-on workshops were the most selected learning format, followed by team-level role-specific sessions. These are self-reported response patterns from a voluntary survey. They show demand and directional learning preferences. They do not establish attendance, completion, adoption, or workflow impact.
+
 ## What this source supports
 
 - Doug used internal survey findings and maturity observations to shape a practical workshop design.
@@ -20,15 +26,18 @@ Doug reports choosing a hands-on format. He asked participants to bring their co
 - The workshops were an early enablement response to uneven readiness and limited visibility into staff tool use.
 - Doug had defined agenda roles for the staff story, responsible-use guidance, prompting instruction, and AFP scenario context.
 - Doug designed the sessions for hands-on task practice and scenario-based learning, working with Ashley at Microsoft.
+- The 2025 survey supports a mixed-readiness audience and a preference for experiential, interactive learning.
+- The April feedback supports continued demand for hands-on, role-specific, and more advanced AI instruction.
 
 ## Evidence status and open questions
 
-The source material listed in `CAREER_EVIDENCE.md` now includes the April planning document, March 31 dry-run transcript, and January material-review transcript in Doug's OneDrive. It confirms workshop design, survey inputs, planned delivery, agenda roles, Doug's dry-run participation, and follow-up feedback. Doug's design rationale, leadership-alignment work, speaker selection, Daryn's approval, final attendance, and each speaker's final delivery remain detailed account.
+The source material listed in `CAREER_EVIDENCE.md` now includes the April planning document, March 31 dry-run transcript, January material-review transcript, and raw survey exports in Doug's OneDrive and Downloads folder. It confirms workshop design, survey inputs, planned delivery, agenda roles, Doug's dry-run participation, and follow-up feedback. Doug's design rationale, leadership-alignment work, speaker selection, Daryn's approval, final attendance, and each speaker's final delivery remain detailed account.
 
 - What immediate decision or revision came from the March 31 dry run?
 - What did Doug personally say or demonstrate during each session beyond his documented agenda roles?
 - What immediate follow-up, if any, did the April feedback produce before the later June and July training work?
 - Can the agenda, drafts, notes, or final attendance record be recovered from OneDrive or a meeting archive?
+- Why do the raw survey exports and prior summaries differ by six responses in 2025 and one response in April 2026?
 
 ## Evidence boundary
 
