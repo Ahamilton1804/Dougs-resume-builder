@@ -14,11 +14,17 @@ On July 7, Doug explained to Lindsay Lara and Nick Laurila that the legal questi
 
 The June 23 Teams calendar discussion names a Nevada staff example and lists specific potential risks. Those project details and risk scenarios are confidential context, not career evidence for external use.
 
+## Direct handoff and intended pilot
+
+Outlook confirms that Wiselet Rouzard shared an `HOA Training` folder with Doug on June 22. Later that day, Doug convened Wiselet, Trevor Koch, Nick Laurila, and Jon Lueth around the Nevada HOA project. His meeting note describes an interesting project that had grown in scope and says the group would discuss possible hosting locations. It says the project then existed on Wiselet's local machine. The folder-share notice establishes access to a folder, while the meeting note describes the project's stated location at that time. Neither record establishes a complete artifact inventory or data review.
+
+On June 24, Doug sent Wiselet, Jon Lueth, and Nick Laurila an attachment named `vibe-coded-project-review.skill` and a companion overview. His email asked Wiselet to test and pilot the skill for projects like the Nevada work. It describes two intended purposes: doing front-end work on the project and organizing data during collection. This confirms the exact skill was sent to Wiselet as a pilot. It does not establish that he used it, completed the requested work, or changed the project.
+
 ## Legal connection
 
 The July 7 message forwards Doug's June 25 note to Legal. It frames the purpose as bringing Legal further into AI literacy, tool development, and staff-facing guidance. The note asks Legal to address ten questions about review triggers, data and terms, legal-adjacent outputs, named individuals, entity boundaries, hosting, disclaimers, incident escalation, and an accessible longer-form resource.
 
-This establishes a causal sequence: a poorly understood AI-built project exposed review and documentation gaps; Doug turned those gaps into a reusable guidance pattern; he used the cases to give Legal a concrete set of questions. It does not establish that Legal approved the originating project, adopted the review triggers, or resolved every risk.
+This establishes a causal sequence: a poorly understood AI-built project exposed review and documentation gaps; Doug turned those gaps into a reusable guidance pattern; he sent the pattern to the project creator as a pilot; and he used the cases to give Legal a concrete set of questions. It does not establish that Legal approved the originating project, adopted the review triggers, or resolved every risk.
 
 ## Evidence boundary
 
