@@ -12,7 +12,7 @@ The skills support the work without replacing judgment. The professional-evidenc
 
 ## Current work
 
-The workspace has an initial chronology entry and three AI-strategy evidence records. Begin each return with `evidence/SESSION_STATE.md`. It records the working position, the questions already resolved, the active career question, and the next source or discussion to recover.
+The workspace has an initial chronology entry and seven AI-strategy evidence records. Begin each return with `evidence/SESSION_STATE.md`. It records the working position, the questions already resolved, the active career question, and the next source or discussion to recover.
 
 ## Repository structure
 

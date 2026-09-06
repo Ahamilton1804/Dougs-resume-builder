@@ -4,13 +4,13 @@ Update this file at the end of each substantive career-recovery session. Keep it
 
 ## Last updated
 
-2026-09-02
+2026-09-05
 
 ## Where we are
 
-This private workspace is recovering Doug Gardner's AFP career record before drafting a resume. The current focus is the Senior Director of AI Strategy role, which began approximately September 2025 after his Director of Product Implementation role.
+This private workspace is recovering Doug Gardner's AFP career record before drafting a resume. The current focus is the Senior Director of AI Strategy role, which began approximately September 2025 after his Director of Product Implementation role. A self-review may provide future source material, but it does not set the scope or narrative of this project.
 
-Six initial AI-strategy records are in `CAREER_EVIDENCE.md`:
+Seven initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 
 - AI-001: cross-functional discovery and AI strategy artifacts.
 - AI-002: ChatGPT pilot and the task-clarity adoption finding.
@@ -39,23 +39,24 @@ Six initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 | How did the ChatGPT pilot findings travel? | Doug reports distributing the executive summary to senior AFP staff and senior Stand Together staff in the AI working group, and using it in strategy presentations. Later Outlook references state that it was sent when complete. The finding on clear problem articulation reinforced the strategy position on adoption. | AI-002 |
 | What was the leadership response to the ChatGPT pilot report? | No action or response is established. Do not infer executive endorsement or failure from silent report distribution. | AI-002 |
 | What is known about the deck-builder skill's origin and reuse? | Doug reports developing the original presentation-building method in personal Claude while producing the March deck, then turning it into the basis for a reusable deck-builder skill. He shared it with Kristine Bucci and Nick Laurila. A March 5 document in Nick's OneDrive, `AFP Business Intelligence & Data Solutions.docx`, aligns with Doug's recollection that Nick's same-meeting presentation concerned data architecture and governance. The presentation, agenda, and original handoff are unrecovered and may not exist in a retrievable location. Further recovery is deferred unless one turns up naturally. | AI-003 |
+| What is the scope of this project? | Recover a defensible career record across roughly thirteen years at AFP before drafting a resume, LinkedIn profile, or interview narrative. Current-role material is one chapter of that record. | README, Career Map |
+| What does the recent management conversation establish? | It is private context about visibility and management. It does not establish a career claim and should not be added to the evidence ledger. | `evidence/BACKLOG.md` |
+| Is AFP's data and operating knowledge ready for scalable AI work? | Unresolved. Informal process knowledge, documentation, ownership, data currency, and data quality are working hypotheses that require examples before they become findings. | `evidence/BACKLOG.md` |
 
 ## Current career question
 
-What follow-up training, resource, or pilot resulted from the April All Staff AI workshop feedback, and what did Doug personally lead during the sessions?
+What was the political-intelligence opportunity with Matt Henkel, what did Doug personally own or create, and what output, decision, use, or evidence of value resulted?
 
 ## Evidence queued for recovery
 
-- Evidence of colleague reuse of the PowerPoint deck-builder skill.
-- Current Grok/X API search-tool work, including Doug's contribution, operators, users, evaluation, and results.
-- Current candidate-tracker build status and use evidence.
-- The platform-home decision between i360 and Stand Together, plus the permissible cross-entity sharing model.
-- Formal review, approval, and ownership evidence for the governance and guidance package.
+- See `evidence/BACKLOG.md` for the prioritized recovery queue, deferred questions, and Notion curation work.
 
 ## Recent context that is not yet evidence
 
 Doug sent a follow-up email to Emily Seidel on 2026-09-01 regarding previously offered Claude or ChatGPT enablement. Do not convert this outreach into a career claim unless it produces a documented outcome.
 
+Recent screenshots and discussion about Lindsay's visibility into Doug's work are private context, not evidence. The observed interest in AI, informal process knowledge, data age, and Liberty's underlying data condition are discovery leads, not organizational findings or career claims.
+
 ## Next session
 
-Start with the political-platform opportunity with Matt Henkel. Capture the problem, Doug's distinct contribution, output, status, and public-safety boundaries. Add only externally safe, evidence-disciplined conclusions to the career map or evidence ledger.
+Start with the political-intelligence opportunity with Matt Henkel. Capture the problem, Doug's distinct contribution, output, status, and public-safety boundaries. Add only externally safe, evidence-disciplined conclusions to the career map or evidence ledger. Use `evidence/BACKLOG.md` to choose the next item after that interview.
