@@ -28,7 +28,7 @@ Seven initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 | What did discovery and the pilot reveal? | Many staff needed relief from cognitive load and strained workflows. The pilot's preliminary findings identified capacity expansion, task compression, and task elimination. Value from generative-AI tools depended heavily on task clarity, confidence, persistent context, and practice. | AI-001, AI-002 |
 | What can be said publicly about the work? | Frame it as discovery, practical adoption, governance, and reusable workflow design. Keep internal systems, findings, participant details, and political scenarios private. | AI-001 to AI-003 |
 | What happened in the April 2026 All Staff Retreat AI workshops? | Doug reports co-leading three 90-minute Microsoft/AFP workshops. Documented materials show peer impact stories, responsible-use and prompting instruction, hands-on scenarios, and a 65-response follow-up survey that called for more applied and role-specific training. | AI-004 |
-| How did Doug shape the April workshop approach? | Doug reports using the prior summer's survey and his view of uneven staff AI maturity to design a middle-ground workshop. He worked with Ashley at Microsoft and AFP leaders, including Daryn's agenda approval during a dry run. He brought governance, basic tool walkthroughs, role-relevant staff examples, and hands-on scenarios into the sessions. The source materials confirm design elements and feedback; his design rationale, leadership-alignment work, dry run, speaker-selection work, final attendance, and precise delivery role remain detailed account. | `evidence/AI-004_EVIDENCE_ADDENDUM.md` |
+| How did Doug shape the April workshop approach? | The April planning document assigns Doug the Grassroots and Issue Advocacy story, AFP-approved tools and responsible use, prompting instruction, and AFP context for interactive scenarios. A March 31 dry-run transcript confirms his direct participation in shaping examples, workshop scope, pilot lessons, and responsible-use framing with Ashley from Microsoft. His design rationale, leadership-alignment work, speaker selection, Daryn's approval, final attendance, and precise final delivery remain detailed account. | `evidence/AI-004_EVIDENCE_ADDENDUM.md` |
 | Why was Microsoft part of the April workshops? | Doug reports that no AFP or Stand Together training capability could deliver the needed sessions. He partnered with Microsoft for credible external facilitation, and all three 100-person sessions were fully subscribed. | AI-004 |
 | What followed the April workshops? | The immediate step is still unclear. A June baseline-expectations draft explicitly tied its hands-on workshop format to prior surveys and All Staff feedback, then scheduled a July field workshop and proposed repeatable delivery. | AI-004 |
 | What was Doug's role in the July 2026 All Staff AI session? | Doug's agenda roles were AFP's AI strategy and point of view, plus the AI Hub and next-steps close. He reports co-designing the agenda, content, and speaker lineup with Kristine, and choosing a bottom-up approach that connected individual use, team workflows, and enterprise capability. | AI-005 |
@@ -51,7 +51,7 @@ Seven initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 
 ## Current career question
 
-What did Doug personally demonstrate or lead during the hands-on scenarios in the April workshops?
+What immediate decision or revision came from the March 31 workshop dry run?
 
 ## Evidence queued for recovery
 
@@ -67,4 +67,4 @@ Doug perceives a possible trust or alignment gap between Political and State Ope
 
 ## Next session
 
-Continue with the political-intelligence opportunity with Matt Henkel. Establish Doug's distinct contribution after the July 27 clarification, then capture the output, status, use, and public-safety boundaries. See `evidence/AI-007_EVIDENCE_ADDENDUM.md` for the supporting record and open leads. Add only externally safe, evidence-disciplined conclusions to the career map or evidence ledger. Use `evidence/BACKLOG.md` to choose the next item after that interview.
+Continue with the April 2026 workshop record. The agenda and dry run establish much of Doug's design and agenda role. Recover the immediate decision or revision from the March 31 dry run, then determine what post-workshop feedback changed in the next enablement work. See `evidence/AI-004_EVIDENCE_ADDENDUM.md` for the supporting record. Add only externally safe, evidence-disciplined conclusions to the career map or evidence ledger.
