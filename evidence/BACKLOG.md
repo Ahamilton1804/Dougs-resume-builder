@@ -6,14 +6,14 @@ Only add a claim to `CAREER_EVIDENCE.md` when it identifies Doug's distinct cont
 
 ## Now: current AI-strategy chapter
 
-1. **AI-007, political-intelligence initiative.** Recover the problem, Doug's distinct contribution, the project tracker or other outputs he created, current status, use, evaluation, and results. Keep candidate, campaign, entity, platform, and data details private.
-2. **AI-004, April workshops.** Establish what Doug personally led in the three sessions and identify any follow-up training, resource, or pilot that resulted from feedback.
-3. **AI-003, deck-builder skill.** Look for direct evidence of colleague reuse only when it appears naturally. The original deck, agenda, and handoff are deferred rather than actively searched.
+1. **AI-004, April workshops.** Establish what Doug personally led in the three sessions and identify any follow-up training, resource, or pilot that resulted from feedback.
+2. **AI-003, deck-builder skill.** Look for direct evidence of colleague reuse only when it appears naturally. The original deck, agenda, and handoff are deferred rather than actively searched.
 
 ## Closed for now
 
 - **AI-006, governance and guidance.** The private record supports the responsible-use baseline, AFP-specific framework, five-part staff guidance series, ShareTogether access, Legal review sequence, and connected staff-guidance package. Approval, publication, use, and final Legal feedback remain unrecovered. Reopen only if a decision or feedback record appears naturally.
 - **AI-008, Vibe Coding guidance.** The private record supports the direct skill handoff, intended pilot, legal consultation, and the HOA project's documented scope and gates. Final project decisions and actual use of the skill remain unrecovered. Reopen only if a decision, feedback, or project-outcome record appears naturally.
+- **AI-007, political-intelligence initiative.** The private record supports the exploratory roadmap, Doug's role in its early framing, the PTO-era clarification, and an i360 X API pilot. Doug reports that the broader initiative remains in limbo and would need renewed scope, ownership, and stakeholder alignment to restart. Treat a restart as future operating work, not an established career outcome. Reopen if a decision, relaunch, or measurable pilot result appears naturally.
 
 ## Next: curate work already recovered
 

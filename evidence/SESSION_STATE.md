@@ -55,7 +55,7 @@ Eight initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 
 ## Current career question
 
-After the July 27 clarification with Matt, what did Doug personally do next to advance, narrow, or close the political-intelligence work?
+What did Doug personally lead during the three April 2026 Microsoft/AFP AI workshops, and what concrete follow-up came from them?
 
 ## Evidence queued for recovery
 
@@ -73,4 +73,4 @@ Doug recalls that ChatGPT and Claude pilots may have been active around the Apri
 
 ## Next session
 
-Governance and Vibe Coding are closed for now. Their private source chains establish the work and its purpose, while final approval, formal adoption, and project outcomes remain unrecovered. Continue with AI-007, political intelligence. The source chain establishes a June exploratory roadmap, the PTO-era misunderstanding and July 27 clarification, and continued i360 X API pilot activity. Recover what Doug personally did after that clarification to advance, narrow, or close the initiative. Keep candidate, campaign, entity, platform, and data details private.
+Governance, Vibe Coding, and the broader political-intelligence initiative are closed for now. Their private source chains establish the work and its purpose, while final approval, formal adoption, project outcomes, and a later political-intelligence restart remain unrecovered. The political-intelligence initiative is in limbo by Doug's account and should be treated as a future restart need rather than a completed career outcome. Continue with AI-004, the April 2026 Microsoft/AFP workshops. The record supports the program design and feedback. Recover Doug's specific role during the three sessions and any concrete follow-up.

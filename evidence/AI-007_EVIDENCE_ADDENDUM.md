@@ -58,6 +58,10 @@ Doug also reports meeting with Briana and Jon Z from the legal team to discuss w
 
 The current product can be described as an X-data pilot with a defined early user group and a planned feedback cycle. The broader opportunity is a long-term trend capability, contingent on evidence of user value, X terms, access controls, data retention, entity-specific purpose, and ownership.
 
+## Current status
+
+Doug reports that the broader political-intelligence initiative remains in limbo as of September 6, 2026. He recalls Matt mentioning it during a Skunkworks call, but they have not recently reconnected on its status or next steps. Doug expects that restarting the work would require renewed scope, ownership, and stakeholder alignment. This is a detailed account of current status. It does not establish that the roadmap was ended, approved, or superseded, and it should not be presented as a delivered program.
+
 ## Evidence boundary
 
 The transcript and related materials contain confidential political, entity, data, vendor, and internal operating details. Retain the original file outside Git. Do not use this addendum as external resume language.
