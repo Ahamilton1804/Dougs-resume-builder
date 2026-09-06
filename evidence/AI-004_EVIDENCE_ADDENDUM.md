@@ -8,12 +8,17 @@ The workshops addressed a user population with widely different levels of AI fam
 
 Doug reports finding staff members to share their own AI work examples. The purpose was to give staff a credible answer to the practical question, "How do I use AI in my role?" The quality and applicability of those stories varied. The record does not establish that the sessions created durable role-specific adoption or measured workflow improvement.
 
+Doug reports that Ashley, his primary Microsoft counterpart, assembled the training material with AFP input. Daryn, who led All Staff, joined the dry run and approved the agenda. Other leaders may also have participated. Doug recalls three 90-minute sessions run with the same format and more than 300 participants across the full delivery. The source materials establish three planned 90-minute, 100-person sessions. They do not independently establish final attendance.
+
+Doug reports choosing a hands-on format rather than a lecture. He asked participants to bring their computers and work on actual tasks. He and Ashley developed scenarios for that work. This supports a detailed account of Doug's workshop-design choice. The agenda, drafts, and notes may be in Doug's OneDrive but were not surfaced by current SharePoint and Outlook searches.
+
 ## What this source supports
 
 - Doug used internal survey findings and maturity observations to shape a practical workshop design.
 - Doug worked with Microsoft and AFP leadership on workshop alignment before delivery.
 - Doug brought governance, basic tool instruction, and role-relevant examples into the sessions.
 - The workshops were an early enablement response to uneven readiness and limited visibility into staff tool use.
+- Doug designed the sessions for hands-on task practice and scenario-based learning, working with Ashley at Microsoft.
 
 ## Evidence status and open questions
 
@@ -22,6 +27,7 @@ The source material listed in `CAREER_EVIDENCE.md` confirms workshop design, sur
 - Which AFP leaders participated in the dry run or approved the delivery approach?
 - What did Doug personally say or demonstrate during each session?
 - What immediate follow-up, if any, did the April feedback produce before the later June and July training work?
+- Can the agenda, drafts, notes, or final attendance record be recovered from OneDrive or a meeting archive?
 
 ## Evidence boundary
 
