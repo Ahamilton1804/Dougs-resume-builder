@@ -6,6 +6,8 @@ The June 23 Outlook message titled `Vibe Coding` documents Doug's decision to cr
 
 Doug wrote that he and Jon Zalewski had discussed risks that the organization was not prepared to assess or fully understand. He described a low-level experimentation record so that a project could be examined by someone who had not been present when it began.
 
+An earlier June 10 Outlook message records Doug raising a Wiselet-created dashboard with internal stakeholders. It describes uncertainty about the proper owner, appropriate hosting, and overlap with another team's work. The message establishes that these questions arose before the June 22 project discussion and the June 24 skill handoff. It does not establish a decision about the dashboard's long-term location or ownership.
+
 ## The documented project gap
 
 On June 25, Doug described a project that had gone beyond its original scope without documentation explaining the work, the data collected, the infrastructure, or how the AI tools operated. He said he had created several skills and instructions for organizing back-end data. The intended pattern was for a later reviewer to obtain a fast understanding of a project and ask useful questions of the materials.
@@ -18,7 +20,7 @@ The June 23 Teams calendar discussion names a Nevada staff example and lists spe
 
 Outlook confirms that Wiselet Rouzard shared an `HOA Training` folder with Doug on June 22. Later that day, Doug convened Wiselet, Trevor Koch, Nick Laurila, and Jon Lueth around the Nevada HOA project. His meeting note describes an interesting project that had grown in scope and says the group would discuss possible hosting locations. It says the project then existed on Wiselet's local machine. The folder-share notice establishes access to a folder, while the meeting note describes the project's stated location at that time. Neither record establishes a complete artifact inventory or data review.
 
-On June 24, Doug sent Wiselet, Jon Lueth, and Nick Laurila an attachment named `vibe-coded-project-review.skill` and a companion overview. His email asked Wiselet to test and pilot the skill for projects like the Nevada work. It describes two intended purposes: doing front-end work on the project and organizing data during collection. This confirms the exact skill was sent to Wiselet as a pilot. It does not establish that he used it, completed the requested work, or changed the project.
+On June 24, Doug sent Wiselet, Jon Lueth, and Nick Laurila an attachment named `vibe-coded-project-review.skill` and a companion overview. His email asked Wiselet to test and pilot the skill for projects like the Nevada work. It describes two intended purposes: doing front-end work on the project and organizing data during collection. This confirms the exact skill was sent to Wiselet as a pilot. The original attachment was 8.6 KB; a later copy supplied by Doug is 13 KB and includes three reference files, so the available current copy may be an expanded version. Neither record establishes that Wiselet used the original skill, completed the requested work, or changed the project.
 
 ## Legal connection
 
