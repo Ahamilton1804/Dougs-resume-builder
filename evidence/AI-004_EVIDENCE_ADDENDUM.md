@@ -26,6 +26,12 @@ These calendar records establish that Doug initiated workshop-planning activity 
 
 Calendar and Outlook searches did not establish that a ChatGPT or Claude pilot was launched as a direct response to the April sessions. The existing ChatGPT pilot record predates the workshops. A June 22 calendar event titled "Quick Connect/Claude" confirms a discussion, without evidence of a related pilot. Treat the recalled pilots as adjacent work until a contemporaneous source establishes their status and relationship to the workshop sequence.
 
+## Governance and vision bridge
+
+Doug recalls that the work between the April All Staff sessions and the later field workshops focused largely on the AI vision, governance, risk, safe usage, and staff guidance. Outlook supports the general sequence. On July 6, Jon Zalewski acknowledged receipt of Doug's "AFP AI Governance, Risk and Responsible Use" draft for review. On July 10, Doug wrote that the AI-literacy work he owned included both the workshops and creating guidance. A July 21 SharePoint sharing notice documents an `AFP_AI_Vision V3` file. These records support parallel workstreams: practical enablement, governance and guidance, and the organization-level vision.
+
+Doug recalls that Anthony DeJohn's community responsible-use memo provided an important input. Current searches surfaced early-July exchanges with Anthony about AI matters, yet they did not surface the memo itself or establish exactly how Doug adapted it. Treat the memo and its influence as a recovery lead pending the original document, email, or a dated draft with visible lineage.
+
 ## What this source supports
 
 - Doug used internal survey findings and maturity observations to shape a practical workshop design.
@@ -37,6 +43,7 @@ Calendar and Outlook searches did not establish that a ChatGPT or Claude pilot w
 - The 2025 survey supports a mixed-readiness audience and a preference for experiential, interactive learning.
 - The April feedback supports continued demand for hands-on, role-specific, and more advanced AI instruction.
 - Doug organized a June workshop-planning discussion that led into early Florida field-enablement activity.
+- The April-to-July period included parallel governance, guidance, and vision work that current Outlook records place under Doug's AI-literacy responsibility.
 
 ## Evidence status and open questions
 
@@ -48,6 +55,7 @@ The source material listed in `CAREER_EVIDENCE.md` now includes the April planni
 - Can the agenda, drafts, notes, or final attendance record be recovered from OneDrive or a meeting archive?
 - Why do the raw survey exports and prior summaries differ by six responses in 2025 and one response in April 2026?
 - Is there a contemporaneous source that ties April feedback directly to the Florida workshop decision or identifies Doug's delivery role in the June 30 session?
+- Can Anthony DeJohn's responsible-use memo, the original email, or a dated working draft be recovered to establish its relationship to Doug's governance and guidance package?
 
 ## Evidence boundary
 

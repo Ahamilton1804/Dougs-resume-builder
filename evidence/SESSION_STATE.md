@@ -52,7 +52,7 @@ Seven initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 
 ## Current career question
 
-What did Doug personally design, lead, or learn in the first Florida workshop sequence?
+What did Doug personally author or adapt in the May-to-July governance and vision package, and how did Anthony DeJohn's responsible-use memo shape it?
 
 ## Evidence queued for recovery
 
@@ -70,4 +70,4 @@ Doug recalls that ChatGPT and Claude pilots may have been active around the Apri
 
 ## Next session
 
-Continue with the June and July 2026 Florida workshop sequence. The calendar establishes Doug's workshop-planning role and participation, yet it leaves his delivery and design contribution open. Recover the first workshop's agenda, materials, debrief, or follow-up messages before making a career claim. See `evidence/AI-004_EVIDENCE_ADDENDUM.md` for the bridge from All Staff to field enablement. Add only externally safe, evidence-disciplined conclusions to the career map or evidence ledger.
+Continue with the May-to-July 2026 governance and vision package. Outlook records place the governance draft in legal review by July 6, identify guidance creation as part of Doug's AI-literacy work on July 10, and document a July 21 share of `AFP_AI_Vision V3`. Recover Anthony DeJohn's responsible-use memo or source email, then establish Doug's authorship, adaptation decisions, review path, and published status. See `evidence/AI-004_EVIDENCE_ADDENDUM.md` and AI-006 for the supporting record. Add only externally safe, evidence-disciplined conclusions to the career map or evidence ledger.
