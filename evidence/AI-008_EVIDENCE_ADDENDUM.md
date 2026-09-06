@@ -22,6 +22,14 @@ Outlook confirms that Wiselet Rouzard shared an `HOA Training` folder with Doug 
 
 On June 24, Doug sent Wiselet, Jon Lueth, and Nick Laurila an attachment named `vibe-coded-project-review.skill` and a companion overview. His email asked Wiselet to test and pilot the skill for projects like the Nevada work. It describes two intended purposes: doing front-end work on the project and organizing data during collection. This confirms the exact skill was sent to Wiselet as a pilot. The original attachment was 8.6 KB; a later copy supplied by Doug is 13 KB and includes three reference files, so the available current copy may be an expanded version. Neither record establishes that Wiselet used the original skill, completed the requested work, or changed the project.
 
+## What the shared folder establishes
+
+Search of Wiselet's shared `HOA Training` folder found a July executive summary and a July decision-making framework, together with source materials that include maps, address-related material, petitions, draft demand letters, training content, public records, and data files. The source inventory confirms that the work extended beyond an informational dashboard into a proposed program with data, organizing, legal-adjacent, branding, and hosting implications.
+
+The July executive summary describes an address-based dashboard and a proposed grassroots program. It labels the dashboard as pending IT and Legal review and the program as in a pre-launch governance phase. The decision-making framework identifies Legal, Compliance, IT, and Communications gates. Its risk register calls out entity and canvassing questions, legal-adjacent documents involving named organizations and individuals, dashboard data estimates, hosting, and brand use. It states that no field activity should proceed until the required gates are cleared in writing.
+
+These documents confirm the project scope and the kinds of risks that the Vibe Coding guidance was designed to surface. They do not identify the Vibe Coding skill as the source of the decision framework, establish that every risk was resolved, or prove any final approval, launch, or program outcome.
+
 ## Legal connection
 
 The July 7 message forwards Doug's June 25 note to Legal. It frames the purpose as bringing Legal further into AI literacy, tool development, and staff-facing guidance. The note asks Legal to address ten questions about review triggers, data and terms, legal-adjacent outputs, named individuals, entity boundaries, hosting, disclaimers, incident escalation, and an accessible longer-form resource.
