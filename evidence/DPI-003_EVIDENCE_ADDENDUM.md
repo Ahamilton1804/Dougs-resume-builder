@@ -6,6 +6,12 @@ Doug reports that bug and development intake for the i360 portal moved to his te
 
 This is a detailed account of the transition, Doug's advocacy, and the role-design decision. Joe's self-authored LinkedIn profile places his Product Owner role from May 2021 through February 2025. It is useful corroboration of the role's later existence and stated scope. It does not independently establish who proposed the role, the transition sequence, or Doug's role in the decision.
 
+## Role expansion and organizational justification
+
+Doug reports that the Regional Data Analyst role expanded and became more specialized as demand, platform scope, and the number of supported activities grew. He recalls that creating the Product Owner role required repeated explanation of why a grassroots organization needed a technical business role at all. The internal question was whether central IT could handle the work. Doug's account is that the Product Owner role held the business side of the interface: field and operational context, user demand, prioritization, requirements quality, and feedback on whether a delivery met the actual need. It was meant to give the delivery partner a clear, accountable business counterpart.
+
+This is a detailed account of the operating rationale and organizational resistance. It should guide recovery, not become an external claim about any individual or organization. The key recovery task is a year-by-year account of role expansion, supported by dated artifacts, rather than one static description of RDA work.
+
 ## Documented delivery system
 
 User-supplied Jira dashboard images and exports establish that, by 2024 and early 2025, a structured `i360 Bugs & Development Queue` was in use with Joe Carroll listed as project lead. The dashboard views track issue intake and resolution by month and quarter, four-week completion velocity, request origin, cause, and affected portal tool. The source data includes seven monthly exports of resolved items classified as `User Error/Knowledge Gap` from July 2024 through February 2025, plus a four-week Kanban-velocity export. Those records preserve distinct fields for bug versus development request, field versus headquarters origin, affected tool, and cause classification.
@@ -26,6 +32,7 @@ This is a detailed account. The requirements document, launch record, incident r
 - The system separated defect reports from user-error and knowledge-gap cases, creating a feedback path between product planning and enablement.
 - The dashboard recorded issue source, cause, tool area, intake, resolution, and delivery velocity. This is evidence of operational visibility, not proof of a particular improvement or customer outcome.
 - Doug reports that he moved the work from informal bug tracking toward a dedicated Product Owner model, backed Joe Carroll's role change, and used early rollout and integration problems as the operating case for that change.
+- Doug reports that the role required a business case for technical product ownership inside a grassroots organization, because central IT did not hold the portal's field context, demand, or prioritization responsibilities.
 
 ## Evidence boundary
 
