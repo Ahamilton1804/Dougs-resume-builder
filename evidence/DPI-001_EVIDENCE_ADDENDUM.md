@@ -30,6 +30,14 @@ Doug reports that, during a merger period he tentatively places around 2017, AFP
 
 Doug reports that RDA field work expanded from portal navigation and technical training into consultative support: helping state teams identify how the available data and tools could support their objectives. This remains a detailed account pending training material, state feedback, or contemporaneous role documentation.
 
+## Later local records that corroborate the operating model
+
+A two-page performance review signed by Doug on October 2, 2020 identifies his title as Director of Data Services and names Joe Gecan as supervisor. The review credits Doug with reshaping Data Services into the Data Implementation unit, developing direct reports Andrew Gherardini and Joe Carroll beyond their original roles, growing management, project-management, product-management, and change-management knowledge, and addressing operational and compliance risks with collaborators. This is contemporaneous supervisor feedback. It establishes that the review made these assessments; it does not by itself prove every attributed outcome, reconcile the title against the LinkedIn chronology, or establish the earlier merger account.
+
+Two local drafts dated April 27, 2020 list Doug Gardner as author in their document metadata. The implementation-framework draft describes a model that includes requirements analysis, user training, systems integration, defined goals, performance criteria, testing, pilots, continuing support, and close relationships with users and i360. The coordinator-duties draft identifies queue processing, customer support, portal training, technical documentation, Salesforce cases, and translation of bugs and development needs into user stories. These drafts corroborate a mature, differentiated implementation operating model by 2020. They do not date the earlier queue or RDA decisions.
+
+A June 2021 Regional Role and Expectations document authored by Andrew Gherardini describes the RDA as a strategic state partner who connects teams to appropriate data universes, advises on capacity and long-term community-building plans, and trains staff on portal usage and best practices. It also describes supervisory responsibility for Implementation Coordinators. February 2023 team-retreat whiteboard photos distinguish RDA work from coordinator work and show capacity, regional-coverage, and future-role planning. These later internal artifacts corroborate the role model and its continuing evolution. They are not proof of its original date or of formal adoption.
+
 ## Archived dashboard evidence
 
 Nine user-supplied screenshots captured on March 11, 2025 show an AFP `Data Implementation Analytics` dashboard with historical annual filters. The dashboard is a case-management reporting surface: it displays closed cases by owner, cases opened by month, breakdowns by request type, and a total case card. It also displays a separate card for i360 universes assembled. The screenshots establish that the queue produced historical operational reporting by 2016 and continued through 2024.
@@ -60,6 +68,7 @@ The screenshots are a 2025 archive of historical dashboard views, rather than co
 - Doug describes the early RDA role as a consultative data-support function that required careful interpretation of sensitive information. This remains a detailed account.
 - Doug describes a management-capacity decision in which rising, cycle-driven demand required him to move from a combined manager-and-RDA role into full-time management. This remains a detailed account.
 - Doug reports that queue reporting gave the team a legible operating record during a cross-entity consolidation. This is timeline-sensitive and requires records before it supports an external claim.
+- A contemporaneous 2020 supervisor review attributes the Data Services to Data Implementation unit transition, direct-report development, and operating leadership to Doug. Its language is corroborating feedback, rather than a substitute for project records or independently measured outcomes.
 
 ## Evidence boundary
 
@@ -67,4 +76,4 @@ Do not add the screenshots or raw queue data to Git. Keep requester details, ind
 
 ## Next evidence question
 
-Review the identified folder for dated records that can establish the merger period, consolidation decision, queue metrics, and staffing outcome.
+Does the 2020 review's description of the Data Services to Data Implementation transition capture the actual change Doug led, or is it a supervisor's shorthand that needs unpacking?
