@@ -42,6 +42,14 @@ The project portion was a compromise Doug developed with Nate Hogan. Participant
 
 Doug reports that the challenge skill received the strongest positive reaction across the workshops because it gave participants useful feedback on their work. This is a detailed account. Current workshop sources do not identify the skill by name, provide a participant count, or independently measure its reception.
 
+## Iteration across the Florida workshops
+
+Doug reports that he and Nate used AI to create the pilot materials: facilitator material, run-of-show documents, supporting documentation, and presentations tailored to the workshop content. Doug did most of this design and production work. Nate supplied field context, organizing knowledge, and practical insight. Neither reports being a professional trainer, and the available sources do not independently establish the full division of labor.
+
+After the first session, Doug and Nate reconnected several times to identify improvements. Doug reports that the second run used better feedback forms, more transcripts where possible, and a stronger instruction to bring an existing work project. The later design therefore shifted from open-ended or invented projects toward work already in progress. He reports that the Miami session went more smoothly.
+
+Across the workshops, Doug observed that incomplete pre-work repeatedly required more time on fundamentals than planned. This is a detailed operating observation. No source currently provides comparative attendance, time allocation, participant satisfaction, or workflow outcomes for the first and second runs.
+
 Calendar and Outlook searches did not establish that a ChatGPT or Claude pilot was launched as a direct response to the April sessions. The existing ChatGPT pilot record predates the workshops. A June 22 calendar event titled "Quick Connect/Claude" confirms a discussion, without evidence of a related pilot. Treat the recalled pilots as adjacent work until a contemporaneous source establishes their status and relationship to the workshop sequence.
 
 ## Governance and vision bridge
