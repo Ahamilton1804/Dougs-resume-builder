@@ -38,6 +38,10 @@ Two local drafts dated April 27, 2020 list Doug Gardner as author in their docum
 
 A June 2021 Regional Role and Expectations document authored by Andrew Gherardini describes the RDA as a strategic state partner who connects teams to appropriate data universes, advises on capacity and long-term community-building plans, and trains staff on portal usage and best practices. It also describes supervisory responsibility for Implementation Coordinators. February 2023 team-retreat whiteboard photos distinguish RDA work from coordinator work and show capacity, regional-coverage, and future-role planning. These later internal artifacts corroborate the role model and its continuing evolution. They are not proof of its original date or of formal adoption.
 
+A retrospective `Implementation Projects/Things We Worked On Timeline` created by Ross Gardiner in February and March 2025 lists, under 2015/16, development of an internal ticketing system to track requests and establish service-level expectations for delivery. This corroborates the existence and intended service-management purpose of the early queue in the relevant period. It does not identify the technical implementation, launch date, individual contributors, approval record, or achieved service levels.
+
+A January 2025 document authored by Doug, `D&I Team.docx`, describes Data Services and implementation or consulting as the two original sides of the team. It says the Data Services function managed data requests for grassroots operations and brands, while the implementation function helped state teams understand and apply portal tools to their work. It also describes later increasing demand and a growing race portfolio. This is a retrospective self-authored account. Its stated 2022 queue totals do not match the 2025 screenshot archive, so do not use its numerical comparisons unless the differing reports and definitions are reconciled.
+
 ## Archived dashboard evidence
 
 Nine user-supplied screenshots captured on March 11, 2025 show an AFP `Data Implementation Analytics` dashboard with historical annual filters. The dashboard is a case-management reporting surface: it displays closed cases by owner, cases opened by month, breakdowns by request type, and a total case card. It also displays a separate card for i360 universes assembled. The screenshots establish that the queue produced historical operational reporting by 2016 and continued through 2024.
@@ -69,6 +73,7 @@ The screenshots are a 2025 archive of historical dashboard views, rather than co
 - Doug describes a management-capacity decision in which rising, cycle-driven demand required him to move from a combined manager-and-RDA role into full-time management. This remains a detailed account.
 - Doug reports that queue reporting gave the team a legible operating record during a cross-entity consolidation. This is timeline-sensitive and requires records before it supports an external claim.
 - A contemporaneous 2020 supervisor review attributes the Data Services to Data Implementation unit transition, direct-report development, and operating leadership to Doug. Its language is corroborating feedback, rather than a substitute for project records or independently measured outcomes.
+- A 2025 retrospective timeline authored by Ross Gardiner places an internal ticketing system and service-level objective in 2015/16. A 2025 Doug-authored team document corroborates the original dual Data Services and implementation model. Neither source establishes individual credit, earlier approvals, or merger outcomes.
 
 ## Evidence boundary
 
@@ -76,4 +81,4 @@ Do not add the screenshots or raw queue data to Git. Keep requester details, ind
 
 ## Next evidence question
 
-Does the 2020 review's description of the Data Services to Data Implementation transition capture the actual change Doug led, or is it a supervisor's shorthand that needs unpacking?
+Was Ross's 2025 timeline based on original records, his own recollection, or both? That determines how much weight to give its 2015/16 entry.
