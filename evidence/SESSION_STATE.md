@@ -61,7 +61,7 @@ Eight initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 
 ## Current career question
 
-After Ron reviews the draft, what ownership, material changes, and rollout boundary will Doug and E&T agree for the facilitator package?
+After Ron reviews the draft, will E&T own delivery materials while Doug shifts from workshop delivery to consultation on learning architecture, pilot evidence, and AI operating conditions?
 
 ## Evidence queued for recovery
 
