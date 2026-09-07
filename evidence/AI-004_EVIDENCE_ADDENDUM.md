@@ -34,6 +34,14 @@ Doug reports that April feedback and the prior-year survey directly informed the
 
 Doug's working view is that agentic AI in knowledge work requires more operating learning than agentic coding work, because the relevant workflows, context, judgment, and success conditions are less standardized. He treats workshops as a practical way to learn where AI helps staff operate. This is a strategic hypothesis informed by his research and experience, not a general finding established by the workshop evidence.
 
+## First Florida workshop design
+
+Doug reports that the first Florida workshop took a more technical route into the question of how AI could help a person's role. The opening gave staff a practical walk-through of Claude capabilities and the user interface, responding to a group that often had limited prior exposure to the tool. The purpose was basic product fluency and repeated use, before asking staff to make larger claims about role transformation.
+
+The project portion was a compromise Doug developed with Nate Hogan. Participants researched and explored topics or ideas that interested them, then used that work to practice with the tool. After producing an initial project, they were introduced to challenge, deck-builder, and HTML-builder skills. Doug reports designing the progression after a full-day Microsoft Prompt-a-thon: fundamentals, a project, then a presentation of the work produced. His intent was to show how reusable skills could extend practical work beyond a single prompt.
+
+Doug reports that the challenge skill received the strongest positive reaction across the workshops because it gave participants useful feedback on their work. This is a detailed account. Current workshop sources do not identify the skill by name, provide a participant count, or independently measure its reception.
+
 Calendar and Outlook searches did not establish that a ChatGPT or Claude pilot was launched as a direct response to the April sessions. The existing ChatGPT pilot record predates the workshops. A June 22 calendar event titled "Quick Connect/Claude" confirms a discussion, without evidence of a related pilot. Treat the recalled pilots as adjacent work until a contemporaneous source establishes their status and relationship to the workshop sequence.
 
 ## Governance and vision bridge
