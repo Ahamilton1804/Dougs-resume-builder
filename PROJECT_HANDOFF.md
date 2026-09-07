@@ -69,9 +69,9 @@ This avoids turning the eight-year Director chapter into a static job descriptio
 - A 2026 SharePoint help article proves a later field-performance dashboard with potential-fraud review, map comparison, and route playback. It does not prove the 2018 capability, Doug's role, or the incident.
 - Keep this private until a dated historic artifact safely establishes the earlier work.
 
-### 2017-2018: Merger-era platform expansion
+### Late 2016-2018: Merger aftermath and platform expansion
 
-- **DPI-004** records Doug's detailed account that a merger required a parent-child portal configuration covering AFP, CVA, Libre, and Generation Opportunity. This predates later tag consolidation.
+- **DPI-004** records Doug's detailed account that the merger occurred at the end of 2016 and required a parent-child portal configuration covering AFP, CVA, Libre, and Generation Opportunity. The related platform work continued through 2017 and 2018. This predates later tag consolidation.
 - The account includes increased tag complexity, vendor-data imports, Volunteer Management, and iVolunteer. Entity and tax treatment, volunteer data, platform details, and exact metrics are sensitive.
 - A June 2018-origin iVolunteer sample workbook, created by Doug, has brand-specific iVolunteer activist and action fields. It confirms an iVolunteer reporting model by that date. A March 2020 iVolunteer deck establishes a CVA re-engagement use case. Neither source proves the launch date, Doug's individual ownership, or performance outcomes.
 - The immediate next chronological task begins here. Seek one dated record at a time that can anchor the sequence, such as a rollout, requirements, training, architecture, decision, or retrospective artifact.
@@ -108,9 +108,9 @@ The AI story has a useful throughline for later career materials: discovering op
 
 ## Active next question
 
-Start with **2019**, while using the 2017-18 expansion as context:
+Start with **2019**, while using the late-2016 through 2018 merger aftermath and platform expansion as context:
 
-> What dated record can establish the first material operating change, rollout, implementation responsibility, or platform decision after the merger-era expansion, and what did Doug personally do in response?
+> What dated record can establish the first material operating change, rollout, implementation responsibility, or platform decision after the late-2016 through 2018 merger aftermath, and what did Doug personally do in response?
 
 The goal is to find an anchor, not to prove every part of the story at once. Likely targets include rollout or requirements artifacts, field or portal training, approval and process improvements, P2P texting, Volunteer Management, data imports, events, or a retrospective that identifies responsibility and timing. Treat a source-index entry as a discovery clue only until the underlying artifact is examined.
 
@@ -152,4 +152,3 @@ Keep these as private context. Do not add them to the ledger as career claims un
 ## Completion standard for this phase
 
 Do not move into resume drafting until the Director of Product Implementation chapter has at least two or three evidence-backed, transferable stories that show a consistent pattern of operating judgment. Each story should identify the problem, Doug's distinct action, a concrete output or decision, source basis, and a safe external framing.
-
