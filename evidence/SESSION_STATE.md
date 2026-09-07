@@ -4,7 +4,7 @@ Update this file at the end of each substantive career-recovery session. Keep it
 
 ## Last updated
 
-2026-09-06
+2026-09-07
 
 ## Where we are
 
@@ -20,6 +20,8 @@ Eight initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 - AI-006: Governance, responsible-use, and staff-guidance package, linked to the AI Hub and Skunkworks framework.
 - AI-007: political-intelligence roadmap, active candidate-tracking build, and Grok/X API monitoring pilot.
 - AI-008: Vibe Coding project-intake and documentation guidance, prompted by an under-documented state staff project and Legal consultation.
+
+LinkedIn profile screenshots reviewed on September 7 provide a self-authored chronology and recovery leads for prior roles: Senior Director of AI Strategy (displayed as Oct. 2025 to present), Director of Product Implementation (Nov. 2017 to Nov. 2025), Implementation Manager (Feb. 2016 to Nov. 2017), Regional Data Analyst (May 2015 to Feb. 2016), and Field Coordinator (Jul. 2013 to Jul. 2015). The screenshots also include claims about CRM and data-systems investment, product ownership, platform integration, and data governance. They are not independently verified evidence and should guide recovery rather than support external claims by themselves.
 
 ## Questions resolved
 

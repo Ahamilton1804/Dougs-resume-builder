@@ -21,11 +21,15 @@ Only add a claim to `CAREER_EVIDENCE.md` when it identifies Doug's distinct cont
 2. Compare the Notion records against the evidence ledger. Keep private context in Notes and mark Transferable only when the summary can stand outside AFP.
 3. Add a short current-role chapter to `CAREER_MAP.md` only after the current evidence records have been reviewed together for duplicate or unsupported claims.
 
+## Next: recover the Director of Product Implementation chapter
+
+1. Use the LinkedIn profile as a self-authored lead source for the Nov. 2017 to Nov. 2025 Director of Product Implementation role. It identifies work involving CRM and data-systems investment, a product-owner team, platform upgrades, Snowflake, Segment, Unbounce, tag governance, access controls, and EPS tracking. Recover contemporaneous records and Doug's detailed account before treating scope, metrics, or outcomes as externally usable evidence.
+2. Establish the mandate, one or two consequential stories, Doug's distinct contribution, and the reason the role transitioned into AI strategy.
+
 ## Later: recover the broader career record
 
-1. Map the Director of Product Implementation role, its mandate, pivotal work, and transition into AI strategy.
-2. Work backward through meaningful role changes and one or two consequential stories from each chapter.
-3. Form capability hypotheses only after multiple records show the same pattern of work and judgment.
+1. Work backward through meaningful role changes and one or two consequential stories from each chapter.
+2. Form capability hypotheses only after multiple records show the same pattern of work and judgment.
 
 ## Parked questions and boundaries
 
