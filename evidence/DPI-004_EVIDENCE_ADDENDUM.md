@@ -10,6 +10,8 @@ This is a detailed account. It identifies a platform and operating-design proble
 
 Doug reports that the portal accumulated a large number of survey-specific tags because each effort created its own tags and had little operating incentive to reuse or govern them after the immediate program ended. He recalls that the accumulated volume, roughly 20,000 tags, contributed to system performance pressure. The team's response included moving older tags into year-based structures and consolidating future tags into issue categories, so the system could retain usable historical context without continuing unchecked tag growth.
 
+Doug clarifies the sequence: the merger and parent-child configuration came first. Brand-specific tags then compounded the existing survey-tag problem, even where a shared tag could have answered the operating need. This is a detailed account of the sequence and its effect on governance pressure.
+
 Doug also reports that the team developed an import process for vendor-provided records that needed to update portal data. This was part of the platform's growing implementation and data-management burden.
 
 These are detailed accounts. The approximate tag count, performance effect, migration sequence, taxonomy, import controls, and Doug's precise decision rights need source records before they support external claims or quantitative statements.
