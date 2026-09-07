@@ -92,7 +92,7 @@ This avoids turning the eight-year Director chapter into a static job descriptio
 ### Approx. 2023: EPS product ownership and people development
 
 - **DPI-006** records Doug's approximate 2023 recollection of hiring Rebecca Kush from Legal into a new EPS Product Owner role. Rebecca reported directly to Doug. He reports that they met often, that he taught her Scrum and the product process, and that he helped establish the role before giving her space to own work day to day.
-- A Rebecca-authored EPS Product Owner role document has a November 2022 core creation timestamp and was modified by Doug in December 2024. It confirms the role's formal responsibilities. A Cowork source map identifies original 2022 RRE records that may establish an earlier start. Their originals still need direct review, so do not treat 2022 as confirmed.
+- A 2022 EPS Product Owner role document has core metadata naming Rebecca as creator and was modified by Doug in December 2024. Doug reports that he most likely authored the role. Creator metadata does not establish content authorship. The document confirms the role's formal responsibilities. A Cowork source map identifies original 2022 RRE records that may establish an earlier start. Their originals still need direct review, so do not treat 2022 as confirmed.
 - Doug-authored 2025 review and compensation-request drafts corroborate later performance assessment and advocacy. A Cowork role-history compilation points to underlying 2023 self-review, 2023 accomplishments, and 2024 role materials. Treat the compilation as discovery support only.
 
 ### Date unknown: Portal technical-trainer capacity experiment
