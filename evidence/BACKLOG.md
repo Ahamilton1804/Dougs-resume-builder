@@ -28,6 +28,18 @@ Only add a claim to `CAREER_EVIDENCE.md` when it identifies Doug's distinct cont
 3. Establish the mandate, one or two consequential stories, Doug's distinct contribution, and the reason the Director role transitioned into AI strategy.
 4. **DPI-003, portal product ownership.** The later Jira reporting system confirms an operating model for triage, classification, delivery flow, and a named project lead. Recover a Product Owner role-change record, proposal, requirements or launch record, or retrospective that can date Doug's advocacy and identify his decision rights. Treat the Events 1.0 and Eventbrite accounts as private detailed context until direct records appear.
 5. **Role-evolution map.** Reconstruct the RDA and implementation model year by year. For each period, identify the demand or operating change, the role or specialization added, Doug's decision, the output, and the strongest dated source. Do not flatten this into a generic RDA description. Current anchors are 2015/16 queue formation, 2017 merger and parent-child design, 2017-18 tag governance and import work, 2017-18 Volunteer Management, 2018 iVolunteer, and the later Product Owner transition. The map should also recover why product ownership was treated as a business-capacity need instead of a central-IT responsibility.
+6. **DPI-005, mobile-device asset control and remediation.** Doug reports spending much of 2025 managing a large, poorly controlled iPad problem: trying to locate devices, defining the scope, selecting a vendor to manage the estate, and overseeing a major cleanup. This could support a transferable story about asset governance, operational diagnosis, vendor selection, and remediation. The date, device count, decision process, vendor, financial exposure, cleanup result, and Doug's direct authority need records. Search locally synchronized OneDrive folders did not surface iPad-named files. A signed-in SharePoint session is available for a targeted cloud search when this becomes the active recovery question.
+
+## Source-index triage
+
+The supplied `AFP Implementation Timeline - SharePoint Source Index` is a discovery aid, not evidence. It found sparse direct history before 2022, with stronger material after 2022 in individual OneDrives and current or former SharePoint sites. Prioritize sources only when they can establish Doug's distinct contribution, an operating decision, a material output, or a transferable capability. The highest-value remaining leads are:
+
+1. Dated 2022-23 Customer Journey and capability-goal material, for the team’s customer-maturity and training model.
+2. 2023 digital integration records, for cross-system requirements and operating ownership.
+3. 2024 feature-priority and release material, for a documented product-planning and feedback process.
+4. 2025 iPad records, for a consequential asset-governance and vendor-management story.
+
+Do not turn the source index's “Found,” “Related,” or “Not found” labels into claims about the historic work. Those labels describe one search pass and its reachable locations.
 
 ## Later: recover the broader career record
 
