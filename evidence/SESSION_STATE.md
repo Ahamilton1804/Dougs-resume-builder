@@ -61,7 +61,7 @@ Eight initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 
 ## Current career question
 
-What do you want to settle with Ron in this week's guide review: ownership, changes to the guide, pilot evidence, rollout criteria, or something else?
+After Ron reviews the draft, what ownership, material changes, and rollout boundary will Doug and E&T agree for the facilitator package?
 
 ## Evidence queued for recovery
 

@@ -64,6 +64,8 @@ On August 26, Ron produced a draft Level 1 workshop overview and facilitator gui
 
 These materials establish that the training team observed the pilot, gave feedback, and translated its learning design into draft facilitator guidance. Doug reports discussing the direction with Ron before the supervisor session and expects to review the guides with him during the week of September 7. The draft status, a completed training-team handoff, use by other facilitators, the planned repository of pre- and post-session material, and any trend analysis remain unestablished.
 
+Doug reports that his immediate aim for the guide review is to hear Ron's assessment of the draft and decide the next iteration from there. Doug considers the current package a sound first draft. He expects it may need audience-specific materials, such as a new-hire starter pack or a workshop starter pack, with E&T creating and maintaining the delivery materials. This is a detailed account of an intended operating model. It does not establish E&T ownership, a starter-pack release, or a rollout decision.
+
 Calendar and Outlook searches did not establish that a ChatGPT or Claude pilot was launched as a direct response to the April sessions. The existing ChatGPT pilot record predates the workshops. A June 22 calendar event titled "Quick Connect/Claude" confirms a discussion, without evidence of a related pilot. Treat the recalled pilots as adjacent work until a contemporaneous source establishes their status and relationship to the workshop sequence.
 
 ## Governance and vision bridge
