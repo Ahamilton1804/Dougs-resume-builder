@@ -24,6 +24,12 @@ Doug reports that the team initially added another RDA while he continued to lea
 
 A user-supplied screenshot of former employee Joe Carroll's self-authored LinkedIn profile provides limited corroboration of the role model. It describes Data Coordinator work from June 2017 through June 2018 that included field-request management, survey and list production, data-quality work, user training, and support for Regional Data Analysts. His later profile entries describe Senior Data Coordinator, Regional Data Analyst, Product Owner, and Deputy Director roles. This is a useful lead on the function's scope and career progression. It does not establish that Doug created the roles, managed every listed responsibility, or caused Joe's advancement.
 
+## Merger and consolidation account
+
+Doug reports that, during a merger period he tentatively places around 2017, AFP, CVA, Libre, and Generation Opportunity each had separate data-support functions. He recalls that those other functions could not point to comparable activity, service-level, or workload measures. He reports that the queue's activity reporting allowed John Pike to explain the team's work during consolidation, after which the team retained its function and added one headcount while other data staff were released. He further recalls that CVA and Libre did much of their work in Salesforce, with inconsistent operating practices and limited usable reporting. This is a detailed account involving sensitive personnel and cross-entity consolidation information. The date, organizational decisions, relative staffing, system conditions, and causal connection to the team's retention require contemporaneous records before any use outside the private evidence record.
+
+Doug reports that RDA field work expanded from portal navigation and technical training into consultative support: helping state teams identify how the available data and tools could support their objectives. This remains a detailed account pending training material, state feedback, or contemporaneous role documentation.
+
 ## Archived dashboard evidence
 
 Nine user-supplied screenshots captured on March 11, 2025 show an AFP `Data Implementation Analytics` dashboard with historical annual filters. The dashboard is a case-management reporting surface: it displays closed cases by owner, cases opened by month, breakdowns by request type, and a total case card. It also displays a separate card for i360 universes assembled. The screenshots establish that the queue produced historical operational reporting by 2016 and continued through 2024.
@@ -53,11 +59,12 @@ The screenshots are a 2025 archive of historical dashboard views, rather than co
 - The operating model later included a distinct data-coordination function, according to an employee's self-authored role history and Doug's detailed account.
 - Doug describes the early RDA role as a consultative data-support function that required careful interpretation of sensitive information. This remains a detailed account.
 - Doug describes a management-capacity decision in which rising, cycle-driven demand required him to move from a combined manager-and-RDA role into full-time management. This remains a detailed account.
+- Doug reports that queue reporting gave the team a legible operating record during a cross-entity consolidation. This is timeline-sensitive and requires records before it supports an external claim.
 
 ## Evidence boundary
 
-Do not add the screenshots or raw queue data to Git. Keep requester details, individual workload, data categories, data signals, volume details, approval history, and early staff details private. External language can describe building a centralized service-intake and reporting workflow for a distributed organization, without naming the organization, platform, data, approvers, or exact counts unless independently approved for use.
+Do not add the screenshots or raw queue data to Git. Keep requester details, individual workload, data categories, data signals, volume details, approval history, early staff details, and merger or personnel-consolidation details private. External language can describe building a centralized service-intake and reporting workflow for a distributed organization, without naming the organization, platform, data, approvers, exact counts, or consolidation outcomes unless independently approved for use.
 
 ## Next evidence question
 
-What concrete planning, staffing, or process decision did Doug make differently because demand followed political-cycle patterns?
+Review the identified folder for dated records that can establish the merger period, consolidation decision, queue metrics, and staffing outcome.
