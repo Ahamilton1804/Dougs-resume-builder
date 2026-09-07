@@ -102,6 +102,12 @@ This avoids turning the eight-year Director chapter into a static job descriptio
 - A 2025 `i360 Ideal State Doc` confirms Doug and Emily in a Portal Knowledge working group that addressed adoption, onboarding, training, state-team role clarity, post-orientation surveys, and portal-role RRE work. Recover the hire date, job description, reporting record, curriculum, feedback, and outcome before treating the hire as an externally usable achievement.
 - Doug reports starting the Portal Knowledge Working Group and building a detailed Planner project to solve for poor knowledge retention and establish continuing education beyond onboarding. A live Planner review found two near-identically titled plans created February 9, 2025. The detailed plan contains 39 February to March tasks across Training Optimization, Role-Based Expectations, Onboarding Optimization, i360 Adoption, and Phase 1. Nine tasks are complete and five are in progress. The board documents structured work, though it does not establish Doug's creation of it, the meaning of task completion, or the later outcome.
 
+### Approx. April to June 2025: Data-platform succession and backfill
+
+- **DPI-008** records Doug's account of taking over Mitch Spottiswood after Joe Carroll left, then working to define and seek a backfill after Mitch decided to depart.
+- A Doug-authored `Snowflake.docx`, created April 21 and modified April 24, 2025, documents Mitch's workflows, constraints, and successor requirements. It confirms a knowledge-capture and continuity-assessment step.
+- A Cowork source map identifies a May business case and June job description as direct recovery targets. Do not rely on the compilation as proof of the formal backfill, approval, or hire. Keep individual departure, interpersonal, partner, and data-access details private.
+
 ### 2025: iPad asset control and remediation
 
 - **DPI-005** is parked. Doug reports that a substantial share of 2025 involved locating poorly controlled iPads, sizing the problem, selecting a device-management vendor, and overseeing cleanup.
