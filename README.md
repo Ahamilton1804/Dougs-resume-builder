@@ -12,13 +12,14 @@ The skills support the work without replacing judgment. The professional-evidenc
 
 ## Current work
 
-The workspace has an initial chronology entry and seven AI-strategy evidence records. Begin each return with `evidence/SESSION_STATE.md`. It records the working position, the questions already resolved, the active career question, and the next source or discussion to recover.
+The workspace has an initial chronology entry, eight AI-strategy evidence records, and four Director of Product Implementation records. Begin a routine return with `evidence/SESSION_STATE.md`. For a new assistant or a fresh task, begin with `PROJECT_HANDOFF.md`, then read the session state. The handoff records the working position, source boundaries, recovery method, chronology, parked work, and the next source or discussion to recover.
 
 ## Repository structure
 
 | Location | Role |
 |---|---|
 | `evidence/SESSION_STATE.md` | Restart surface for cross-machine continuity and the current career-recovery question. |
+| `PROJECT_HANDOFF.md` | Detailed task handoff for a fresh assistant or a resumed career-recovery task. |
 | `evidence/CAREER_MAP.md` | Working chronology, titles, role changes, and pivotal chapters. |
 | `evidence/CAREER_EVIDENCE.md` | Claim-level source of truth for accomplishments and evidence. |
 | `resumes/` | Resume versions tailored to credible target roles. |
