@@ -30,10 +30,15 @@ The core metadata of `iVolunteers-Pres_52154.pptx` identifies Mitch Spottiswood 
 
 An undated `What is i360` reference and a Portal V4 checklist describe Action Centers as the later name for iVolunteers, identify brand-specific action-center sites, and show the connection among web-page actions, tags, events, activist records, and reporting. Their current copy metadata does not establish a historic date. They are supporting orientation records only.
 
+## February 2019 i360 record
+
+A SharePoint Word document named `i360.docx` is preserved in Joe Gecan's `Planning and High-level documents` folder. SharePoint metadata identifies Joe Gecan as its creator on February 13, 2019, and Doug Gardner as its modifier on February 14, 2019. The item was shared with Doug on February 14. It is a two-page, 26,056-byte document. This confirms a dated exchange involving both people. Doug reports that the data in the document came from him and his team. Its contents have not yet been extracted, so its subject, the data or work it describes, and Doug's and the team's contributions remain unverified.
+
 ## What this source supports
 
 - Doug's account identifies 2017 and 2018 as a period when the implementation function expanded from request execution and portal training into multi-entity platform design, data governance, imports, volunteer management, and digital engagement.
 - A 2018-origin sample leaderboard corroborates iVolunteer reporting with brand-specific labels. A 2020 presentation corroborates iVolunteer re-engagement through an i360 texting action.
+- The February 2019 `i360.docx` item confirms a dated Joe Gecan and Doug Gardner record. It is a retrieval anchor only until its contents are examined.
 - The work created a plausible operating basis for specialist roles and product ownership as portal scope and dependency increased.
 - Entity design, tag governance, imports, volunteer management, and iVolunteer should be recovered as separate projects on the role-evolution map, with their own evidence boundaries.
 

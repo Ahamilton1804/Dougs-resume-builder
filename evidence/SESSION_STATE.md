@@ -73,7 +73,7 @@ A first-pass SharePoint source index supplied by Doug identifies scarce direct m
 
 What dated 2018 or 2019 source can establish the reported PAC portal area, any queue-field or permission changes, the related training model, and the actual role assignments at the time?
 
-The first focused SharePoint search returned a February 14, 2019 Word document named `i360` in Joe Gecan's Planning and High-level documents folder. Search metadata identifies Joe as creator and Doug as modifier. Its contents were not available in the browser viewer. Treat it only as a retrieval candidate: its subject, why it matched a `parent-child` search, and any role attribution are unverified.
+The first focused SharePoint search returned a Word document named `i360.docx` in Joe Gecan's Planning and High-level documents folder. SharePoint metadata establishes that Joe Gecan created it February 13, 2019, Doug modified it February 14, and it was shared with Doug that day. It is a two-page, 26,056-byte file. The browser can render the document but has not exposed its text for extraction. Its subject, why it matched a `parent-child` search, the data or work it describes, and any role attribution remain unverified.
 
 ## Evidence queued for recovery
 
