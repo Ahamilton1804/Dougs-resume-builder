@@ -26,6 +26,18 @@ The core metadata of `Portal V4 Regional Call Joe Carroll PPT.pptx` identifies J
 
 The deck contrasts an earlier product-development approach that had limited field feedback, weak communication between organizations, and no early testing. It names the original Events Builder as an example and describes resulting technical debt and rework. Its V4 approach calls for field feedback, ongoing communication with i360, early testing, and iteration. A later slide states that feedback was central to avoiding problems associated with Events and child organizations. This directly corroborates that the organization had identified a need for a stronger business-to-delivery feedback process by early 2021. It does not establish Doug's authorship of the approach, the outcome of V4, the exact cause of earlier rollout problems, or a measured improvement.
 
+## Scenarios and drivers planning record
+
+A supplied local copy titled `Data Implementation - Scenarios and Drivers Joe Gecan.docx` describes the Data Implementation Team as a strategic partner to the grassroots capability, the key customer representative for the i360 portal suite, and a subject-matter and implementation resource for grassroots, Political, Government Affairs, and Policy work. It describes State Portal Contacts as a way to move day-to-day questions and basic portal training out of the core team. This corroborates the team mechanics Doug recalls: sustained user navigation and access support, plus an effort to protect implementation capacity for more complex work.
+
+The document describes the 2018 Events module deployment as the impetus for a changed relationship with i360. It says the experience exposed the need for a dedicated role that could manage both daily interaction and the strategic relationship with the delivery team. It describes V4 as a different, activist-journey-oriented CRM with a substantial staff learning curve. The document's 2021 priority list calls for dedicating Joe Carroll to planning, training, small-group user testing, and continuous feedback to i360. This supports a documented organizational case for the product-owner and implementation model. It does not establish when Joe's role changed, who made the decision, or Doug's individual decision rights.
+
+Its workload appendix compares 2019 and 2020 queue activity and shows substantial growth across submitted cases, list pulls, targeting work, surveys, mail, recruitment, and other request types. The attached copy also includes embedded charts labeled `2018 Queue Data`, covering list-pull distribution by team member and cases submitted by month. These internal metrics remain in the source files and should not be copied into Git or public career material. The document also identifies a then-unfulfilled request to track part-time employees for the Political Team because of capacity limits. That corroborates a later unmet reporting need. It does not independently establish Doug's recalled 2018 PAC portal design, legal treatment, or ownership of the work.
+
+### Provenance boundary
+
+The supplied local Word copy has fresh core metadata from September 2026, naming Joe Gecan as creator and Doug Gardner as last modifier. A separate `i360 Data Request Queue - Document History.md` identifies a similarly titled original in Jen Gecan's OneDrive and dates it to January 2021. The linked original did not open through the available browser session. Treat the local copy as strong corroborating planning content and the January 2021 origin as a source-history lead until the original or an equivalent dated record is recovered.
+
 ## Events rollout and external-integration account
 
 Doug reports that an Events 1.0 rollout exposed the limits of a long requirements handoff without continuing product ownership. He recalls providing i360 a detailed requirements document, waiting roughly a year and a half for delivery, finding initial issues in a soft launch, and then seeing the broader rollout fail to operate as intended. He also recalls recurrent instability in an Eventbrite integration when upstream API changes disrupted it. He identifies these experiences as a key reason to establish a closer product-planning and delivery interface through Joe's Product Owner role.
@@ -38,6 +50,7 @@ This is a detailed account. The requirements document, launch record, incident r
 - The system separated defect reports from user-error and knowledge-gap cases, creating a feedback path between product planning and enablement.
 - The dashboard recorded issue source, cause, tool area, intake, resolution, and delivery velocity. This is evidence of operational visibility, not proof of a particular improvement or customer outcome.
 - Doug reports that he moved the work from informal bug tracking toward a dedicated Product Owner model, backed Joe Carroll's role change, and used early rollout and integration problems as the operating case for that change. Joe Carroll's January 2021 V4 deck corroborates the need for a stronger feedback, testing, and implementation model.
+- The supplied scenarios-and-drivers copy corroborates a team model that separated Tier 1 portal support from more complex implementation work, documented the 2018 Events deployment as a product-operating turning point, and described substantial 2019-20 workload growth. Its original source and date still require recovery.
 - Doug reports that the role required a business case for technical product ownership inside a grassroots organization, because central IT did not hold the portal's field context, demand, or prioritization responsibilities.
 
 ## Evidence boundary
@@ -46,4 +59,4 @@ Do not add the raw Jira exports, dashboard images, or source deck to Git. Keep i
 
 ## Next evidence question
 
-Can a role-change record, proposal, requirements document, launch communication, or retrospective establish when Joe's Product Owner role began and what Doug personally presented or decided with the portal delivery team?
+Can the original scenarios-and-drivers document, a role-change record, proposal, requirements document, launch communication, or retrospective establish when Joe's Product Owner role began and what Doug personally presented or decided with the portal delivery team?

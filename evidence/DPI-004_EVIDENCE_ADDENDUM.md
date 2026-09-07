@@ -2,9 +2,9 @@
 
 ## 2017-2018 platform expansion
 
-Doug tentatively places an organizational merger in 2017. He reports that the portal's parent-child architecture was created to operate several organizations within one shared system. AFP was the parent organization, with CVA, Libre, and Generation Opportunity configured as child organizations. The model was intended to segment volunteers for organization-specific work while allowing appropriate cross-survey participation. Doug reports that this created more complicated data and entity treatment because the organizations worked across different tax statuses and purposes.
+Doug places the organizational merger at the end of 2016. He reports that the portal's parent-child architecture was created to operate several organizations within one shared system. AFP was the parent organization, with CVA, Libre, and Generation Opportunity configured as child organizations. The model was intended to segment volunteers for organization-specific work while allowing appropriate cross-survey participation. Doug reports that this created more complicated data and entity treatment because the organizations worked across different tax statuses and purposes.
 
-This is a detailed account. It identifies a platform and operating-design problem, rather than a verified technical specification or a public description of entity practices. The merger date, architecture design, ownership, approval path, data rules, and exact legal treatment remain unrecovered. Keep all entity, tax, volunteer, and system details private.
+This is a detailed account. It identifies a platform and operating-design problem, rather than a verified technical specification or a public description of entity practices. The end-2016 merger timing, architecture design, ownership, approval path, data rules, and exact legal treatment remain unrecovered. Keep all entity, tax, volunteer, and system details private.
 
 ## Tag governance and import operations
 
