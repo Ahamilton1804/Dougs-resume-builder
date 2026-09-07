@@ -2,7 +2,7 @@
 
 ## Team building and internal talent pipeline
 
-Doug reports that he hired and tried to retain most of his staff as the implementation function expanded. He identifies a repeated pattern of bringing people in through coordinator roles, then developing them into more specialized implementation, product, data-platform, and leadership roles. He identifies Joe Carroll, Ross Gardiner, Andrew Gherardini, Mitch Spottiswood, and Caleb as examples.
+Doug reports that he hired and tried to retain most of his staff as the implementation function expanded. He identifies a repeated pattern of bringing people in through coordinator roles, then developing them into more specialized implementation, product, data-platform, and leadership roles. He identifies Joe Carroll, Ross Gardiner, Andrew Gherardini, Mitch Spottiswood, and Caleb Frampton as examples. A source map identifies Caleb's staged Product Specialist to Platform Manager to later Technical Product Owner progression as a recovery lead, though the underlying promotion and role records still need direct review.
 
 Doug reports that Ross Gardiner was his direct report for approximately ten years and grew from coordinator to Implementation Manager and then Deputy Director. He reports that Andrew Gherardini similarly began as a coordinator and later became a manager and then deputy. Doug later removed Andrew's oversight of the RDA group before Andrew left the organization. The personnel-performance and departure details are sensitive and remain private.
 

@@ -50,6 +50,12 @@ Doug reports that Joe Carroll's growing responsibilities created a retention ris
 
 This is a sensitive detailed account. The timing, compensation amount, approval sequence, decision makers, and retention outcome require personnel or approval records. Keep all compensation and individual employment details private and out of external career material.
 
+## Product Owner continuity and Caleb Frampton transition
+
+Doug reports that Joe Carroll provided temporary contractor support after leaving, in order to reduce the immediate continuity risk while the Product Owner role was backfilled. He reports that leadership identified a single-point-of-failure concern, while earlier expansion requests that could have distributed the role's workload had not been approved. He believes the accumulated scope contributed to Joe's departure. These are sensitive detailed accounts. They do not establish the cause of departure, the terms or duration of any contract, or decision-maker responsibility.
+
+A user-supplied Cowork source map identifies direct recovery targets for Caleb Frampton's transition: a September 2024 proposal moving him from Product Specialist to Platform Manager, a May 2025 Product Owner backfill business case, and later 2025 records referring to him as Technical Product Owner. The source map indicates that Caleb's Platform Manager role covered product-administration and delivery-support work while Joe retained product vision and planning. It further indicates that Caleb was in the Product Owner role by late 2025. The underlying records have not yet been directly reviewed here. Treat the specific progression, reporting line, decision owner, contract, and effective dates as recovery leads.
+
 ## What this source supports
 
 - By 2024 and early 2025, the portal had a structured Jira-based bug and development queue with categorical reporting, delivery-flow monitoring, and a named project lead.
