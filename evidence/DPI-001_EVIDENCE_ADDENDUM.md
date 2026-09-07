@@ -20,6 +20,8 @@ Doug reports that the first build was a basic Salesforce intake form created wit
 
 Doug reports that, during this early period, the organization separated the Regional Data Analyst role from data-coordination duties and hired staff focused on queue operations. In the early coordinator cohort, Ross Gardiner was the first hire, Andrew Gherardini was the second, and Joe Carroll was the third. Ross joined from a Test and Learn internship-like role, and Andrew had been an operations intern. All three monitored and completed requests from state teams. Doug reports that he later developed several long-tenured employees from intern-level roles into team-lead responsibilities. The personnel-development outcome and the exact timing of role separation remain detailed account pending role-change, hiring, or reporting-line records.
 
+Doug reports that the team initially added another RDA while he continued to lead the team and support assigned states as an RDA himself. Rising demand made it increasingly difficult to meet both sets of responsibilities. He recalls an HR conversation that framed the choice plainly: he could continue as an RDA or manage the team, but could not sustain both. He then focused on managing the RDAs and coordinators. He describes the team's demand as closely tied to political cycles, requiring both administrative management and ongoing direction about what the team should do next. This is a detailed account pending staffing, role-description, or reporting-line records.
+
 A user-supplied screenshot of former employee Joe Carroll's self-authored LinkedIn profile provides limited corroboration of the role model. It describes Data Coordinator work from June 2017 through June 2018 that included field-request management, survey and list production, data-quality work, user training, and support for Regional Data Analysts. His later profile entries describe Senior Data Coordinator, Regional Data Analyst, Product Owner, and Deputy Director roles. This is a useful lead on the function's scope and career progression. It does not establish that Doug created the roles, managed every listed responsibility, or caused Joe's advancement.
 
 ## Archived dashboard evidence
@@ -50,6 +52,7 @@ The screenshots are a 2025 archive of historical dashboard views, rather than co
 - The queue's historical reporting created an operational basis for demand and capacity discussions.
 - The operating model later included a distinct data-coordination function, according to an employee's self-authored role history and Doug's detailed account.
 - Doug describes the early RDA role as a consultative data-support function that required careful interpretation of sensitive information. This remains a detailed account.
+- Doug describes a management-capacity decision in which rising, cycle-driven demand required him to move from a combined manager-and-RDA role into full-time management. This remains a detailed account.
 
 ## Evidence boundary
 
@@ -57,4 +60,4 @@ Do not add the screenshots or raw queue data to Git. Keep requester details, ind
 
 ## Next evidence question
 
-Once queue operations moved to dedicated coordinators, what were the two or three responsibilities that took most of Doug's time as the manager?
+What concrete planning, staffing, or process decision did Doug make differently because demand followed political-cycle patterns?
