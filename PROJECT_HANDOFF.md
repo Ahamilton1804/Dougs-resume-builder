@@ -72,6 +72,7 @@ This avoids turning the eight-year Director chapter into a static job descriptio
 ### Late 2016-2018: Merger aftermath and platform expansion
 
 - **DPI-004** records Doug's detailed account that the merger occurred at the end of 2016 and required a parent-child portal configuration covering AFP, CVA, Libre, and Generation Opportunity. The related platform work continued through 2017 and 2018. This predates later tag consolidation.
+- Doug also reports that 2018 was the first cycle in which the organization formally endorsed candidates, after earlier opposition-focused electoral activity. This is sensitive detailed context, not a public claim or a statement of legal treatment.
 - The account includes increased tag complexity, vendor-data imports, Volunteer Management, and iVolunteer. Entity and tax treatment, volunteer data, platform details, and exact metrics are sensitive.
 - A June 2018-origin iVolunteer sample workbook, created by Doug, has brand-specific iVolunteer activist and action fields. It confirms an iVolunteer reporting model by that date. A March 2020 iVolunteer deck establishes a CVA re-engagement use case. Neither source proves the launch date, Doug's individual ownership, or performance outcomes.
 - The immediate next chronological task begins here. Seek one dated record at a time that can anchor the sequence, such as a rollout, requirements, training, architecture, decision, or retrospective artifact.
