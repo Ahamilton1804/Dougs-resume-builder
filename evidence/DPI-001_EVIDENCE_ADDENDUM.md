@@ -30,6 +30,12 @@ Doug reports that, during a merger period he tentatively places around 2017, AFP
 
 Doug reports that RDA field work expanded from portal navigation and technical training into consultative support: helping state teams identify how the available data and tools could support their objectives. This remains a detailed account pending training material, state feedback, or contemporaneous role documentation.
 
+## Field-collection audit and data-integrity work
+
+Doug tentatively places this work in 2018. He reports that the team gained visibility into collection points associated with door-to-door activity and used that visibility to audit field collection. He reports that the review surfaced suspected fraud and poor-quality data, requiring difficult conversations with state teams and responses to concerned field staff. In one reported case, the audit evidence indicated that a paid staff member had not committed the conduct attributed to them because another person had used that staff member's login. The account describes a data-integrity and investigative capability, as well as a corrective use that protected an individual from an incorrect accusation.
+
+This is a detailed account. It does not establish the capability's date, technical source, review criteria, number of incidents, investigative finding in any particular case, or Doug's precise role in each review. The underlying activity, staff identities, credentials, locations, and incident records are sensitive. Recover a contemporaneous audit guide, capability announcement, incident summary with sensitive material removed, or decision record before treating this as an external claim.
+
 ## Later local records that corroborate the operating model
 
 A two-page performance review signed by Doug on October 2, 2020 identifies his title as Director of Data Services and names Joe Gecan as supervisor. The review credits Doug with reshaping Data Services into the Data Implementation unit, developing direct reports Andrew Gherardini and Joe Carroll beyond their original roles, growing management, project-management, product-management, and change-management knowledge, and addressing operational and compliance risks with collaborators. This is contemporaneous supervisor feedback. It establishes that the review made these assessments; it does not by itself prove every attributed outcome, reconcile the title against the LinkedIn chronology, or establish the earlier merger account.
@@ -74,11 +80,12 @@ The screenshots are a 2025 archive of historical dashboard views, rather than co
 - Doug reports that queue reporting gave the team a legible operating record during a cross-entity consolidation. This is timeline-sensitive and requires records before it supports an external claim.
 - A contemporaneous 2020 supervisor review attributes the Data Services to Data Implementation unit transition, direct-report development, and operating leadership to Doug. Its language is corroborating feedback, rather than a substitute for project records or independently measured outcomes.
 - A 2025 retrospective timeline authored by Ross Gardiner places an internal ticketing system and service-level objective in 2015/16. A 2025 Doug-authored team document corroborates the original dual Data Services and implementation model. Neither source establishes individual credit, earlier approvals, or merger outcomes.
+- Doug reports that the team used collection-point visibility to audit door-to-door data, identify potential fraud and data-quality issues, and in one case correct an attribution to a paid staff member. This remains a sensitive detailed account pending a contemporaneous record.
 
 ## Evidence boundary
 
-Do not add the screenshots or raw queue data to Git. Keep requester details, individual workload, data categories, data signals, volume details, approval history, early staff details, and merger or personnel-consolidation details private. External language can describe building a centralized service-intake and reporting workflow for a distributed organization, without naming the organization, platform, data, approvers, exact counts, or consolidation outcomes unless independently approved for use.
+Do not add the screenshots or raw queue data to Git. Keep requester details, individual workload, data categories, data signals, volume details, approval history, early staff details, merger or personnel-consolidation details, field-collection records, geolocation or collection-point data, credentials, staff identities, and investigative material private. External language can describe building a centralized service-intake and reporting workflow for a distributed organization, without naming the organization, platform, data, approvers, exact counts, consolidation outcomes, or investigative incidents unless independently approved for use.
 
 ## Next evidence question
 
-Was Ross's 2025 timeline based on original records, his own recollection, or both? That determines how much weight to give its 2015/16 entry.
+Is there a contemporaneous record that shows when collection-point visibility became available and how the team used it for data-quality or fraud review? A capability announcement, audit guide, de-identified case summary, or reporting artifact would establish the time and scope without exposing sensitive personnel details.
