@@ -2,7 +2,9 @@
 
 ## Regional Data Analyst work and team formation
 
-Doug reports that, as a Regional Data Analyst, he worked on a small central team serving the organization through the i360 portal. The team processed data requests for field walkbooks and phone work, trained staff on portal use, and advised requesters on the available data. He describes the underlying data as including political, voting-history, modeled, and survey-tag information. This operational description is a detailed account and includes sensitive data context that should remain private.
+Doug reports that he was AFP's first Regional Data Analyst, reporting with the early RDA staff to John Pike before a formal data team existed. Around the queue's early formation, the RDA role moved the work beyond request execution toward consultation: helping teams consider how available data could advance their goals and projects. The team processed data requests for field walkbooks and phone work, trained staff on portal use, and advised requesters on the available data. This operational description is a detailed account and includes sensitive data context that should remain private.
+
+Doug reports that the portal combined political and consumer information. He treated individual observations as context that required interpretation, since a signal could have several plausible underlying explanations. This was part of the RDA role's advisory premise, rather than a claim that any individual data point established a fact about a person. The examples and underlying data remain private.
 
 Doug reports that the team began with three people, then operated with two after one colleague left. After a new manager arrived and the team hired a third person, the manager asked Doug to lead the team. He agreed and moved into the Implementation Manager role. The exact personnel timeline, formal decision record, and title-change documentation remain to be recovered.
 
@@ -16,7 +18,7 @@ Doug reports that the first build was a basic Salesforce intake form created wit
 
 ## Role specialization and team development
 
-Doug reports that, about a year after the queue began, the organization separated the Regional Data Analyst role from data-coordination duties and hired staff focused on queue operations. He reports that he later developed several long-tenured employees from intern-level roles into team-lead responsibilities. The personnel-development outcome and the exact timing of role separation remain detailed account pending role-change, hiring, or reporting-line records.
+Doug reports that, during this early period, the organization separated the Regional Data Analyst role from data-coordination duties and hired staff focused on queue operations. In the early coordinator cohort, Ross Gardiner was the first hire, Andrew Gherardini was the second, and Joe Carroll was the third. Ross joined from a Test and Learn internship-like role, and Andrew had been an operations intern. All three monitored and completed requests from state teams. Doug reports that he later developed several long-tenured employees from intern-level roles into team-lead responsibilities. The personnel-development outcome and the exact timing of role separation remain detailed account pending role-change, hiring, or reporting-line records.
 
 A user-supplied screenshot of former employee Joe Carroll's self-authored LinkedIn profile provides limited corroboration of the role model. It describes Data Coordinator work from June 2017 through June 2018 that included field-request management, survey and list production, data-quality work, user training, and support for Regional Data Analysts. His later profile entries describe Senior Data Coordinator, Regional Data Analyst, Product Owner, and Deputy Director roles. This is a useful lead on the function's scope and career progression. It does not establish that Doug created the roles, managed every listed responsibility, or caused Joe's advancement.
 
@@ -47,11 +49,12 @@ The screenshots are a 2025 archive of historical dashboard views, rather than co
 - The system recorded annual case volume, request type, monthly intake, and i360 universe assembly volume over at least nine years.
 - The queue's historical reporting created an operational basis for demand and capacity discussions.
 - The operating model later included a distinct data-coordination function, according to an employee's self-authored role history and Doug's detailed account.
+- Doug describes the early RDA role as a consultative data-support function that required careful interpretation of sensitive information. This remains a detailed account.
 
 ## Evidence boundary
 
-Do not add the screenshots or raw queue data to Git. Keep requester details, individual workload, data categories, volume details, and approval history private. External language can describe building a centralized service-intake and reporting workflow for a distributed organization, without naming the organization, platform, data, approvers, or exact counts unless independently approved for use.
+Do not add the screenshots or raw queue data to Git. Keep requester details, individual workload, data categories, data signals, volume details, approval history, and early staff details private. External language can describe building a centralized service-intake and reporting workflow for a distributed organization, without naming the organization, platform, data, approvers, or exact counts unless independently approved for use.
 
 ## Next evidence question
 
-What contemporaneous artifact shows the queue being proposed, approved, launched, or used to make a staffing, process, or vendor decision?
+Once queue operations moved to dedicated coordinators, what were the two or three responsibilities that took most of Doug's time as the manager?

@@ -24,7 +24,7 @@ Only add a claim to `CAREER_EVIDENCE.md` when it identifies Doug's distinct cont
 ## Next: recover the Director of Product Implementation chapter
 
 1. Use the LinkedIn profile as a self-authored lead source for the Nov. 2017 to Nov. 2025 Director of Product Implementation role. It identifies work involving CRM and data-systems investment, a product-owner team, platform upgrades, Snowflake, Segment, Unbounce, tag governance, access controls, and EPS tracking. Recover contemporaneous records and Doug's detailed account before treating scope, metrics, or outcomes as externally usable evidence.
-2. **DPI-001, Regional Data Analyst and early Implementation Manager work.** The queue archive establishes annual workload reporting from 2016 through 2024. Recover a queue-launch or staffing-decision artifact to establish Doug's direct role in moving work from individual email inboxes to shared service intake and reporting.
+2. **DPI-001, Regional Data Analyst and early Implementation Manager work.** The queue archive establishes annual workload reporting from 2016 through 2024. Recover a queue-launch or staffing-decision artifact to establish Doug's direct role in moving work from individual email inboxes to shared service intake and reporting. Continue recovering the first RDA role's consultative purpose and Doug's management responsibilities after queue operations moved to dedicated coordinators.
 3. Establish the mandate, one or two consequential stories, Doug's distinct contribution, and the reason the Director role transitioned into AI strategy.
 
 ## Later: recover the broader career record
