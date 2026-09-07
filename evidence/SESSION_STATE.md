@@ -23,6 +23,8 @@ Eight initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 
 LinkedIn profile screenshots reviewed on September 7 provide a self-authored chronology and recovery leads for prior roles: Senior Director of AI Strategy (displayed as Oct. 2025 to present), Director of Product Implementation (Nov. 2017 to Nov. 2025), Implementation Manager (Feb. 2016 to Nov. 2017), Regional Data Analyst (May 2015 to Feb. 2016), and Field Coordinator (Jul. 2013 to Jul. 2015). The screenshots also include claims about CRM and data-systems investment, product ownership, platform integration, and data governance. They are not independently verified evidence and should guide recovery rather than support external claims by themselves.
 
+The first pre-AI record is now DPI-001: Regional Data Analyst and early Implementation Manager work. Doug reports a small central data-support team serving the organization through the i360 portal, then taking leadership and creating a shared queue after email-based request and approval management proved insufficient. A user-supplied archive of nine `Data Implementation Analytics` dashboard screenshots confirms a case-management reporting surface with 2016 through 2024 annual views, showing 22,894 closed cases across the archived annual cards. The record distinguishes this confirmed reporting evidence from Doug's detailed account of queue origin, promotion, approval flow, and operating value.
+
 ## Questions resolved
 
 | Question | Working answer | Evidence location |
@@ -63,7 +65,7 @@ LinkedIn profile screenshots reviewed on September 7 provide a self-authored chr
 
 ## Current career question
 
-After Ron reviews the draft, will E&T own delivery materials while Doug shifts from workshop delivery to consultation on learning architecture, pilot evidence, and AI operating conditions?
+What contemporaneous artifact shows the data queue being proposed, approved, launched, or used to make a staffing, process, or vendor decision?
 
 ## Evidence queued for recovery
 
@@ -81,4 +83,4 @@ Doug recalls that ChatGPT and Claude pilots may have been active around the Apri
 
 ## Next session
 
-Governance, Vibe Coding, and the broader political-intelligence initiative are closed for now. Their private source chains establish the work and its purpose, while final approval, formal adoption, project outcomes, and a later political-intelligence restart remain unrecovered. The political-intelligence initiative is in limbo by Doug's account and should be treated as a future restart need rather than a completed career outcome. Continue with AI-004, the April 2026 Microsoft/AFP workshops. The record supports the program design and feedback. Recover Doug's specific role during the three sessions and any concrete follow-up.
+Governance, Vibe Coding, and the broader political-intelligence initiative are closed for now. Their private source chains establish the work and its purpose, while final approval, formal adoption, project outcomes, and a later political-intelligence restart remain unrecovered. The political-intelligence initiative is in limbo by Doug's account and should be treated as a future restart need rather than a completed career outcome. The current focus has moved to the first Director of Product Implementation chapter. DPI-001 establishes the data-support and queue origin story with a dashboard archive. Next, recover a contemporaneous launch, staffing, process, or vendor decision record that establishes Doug's direct contribution beyond the dashboard evidence.
