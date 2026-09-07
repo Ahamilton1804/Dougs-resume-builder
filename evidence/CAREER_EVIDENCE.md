@@ -37,7 +37,7 @@ Doug estimates that he hired Rebecca Kush from Legal into a new EPS Product Owne
 
 ## DPI-007 Portal technical-trainer capacity experiment
 
-Doug reports hiring a technical trainer to address a practical adoption gap: the organization’s training function was expected to teach the portal without direct knowledge of it. He frames the hire as a higher-risk capacity experiment and cannot yet assess whether it paid off. This is detailed account. The trainer’s name, timing, reporting relationship, job scope, training outputs, uptake, and outcome require recovery before this becomes an external career claim.
+Doug reports recruiting Emily Keenan from i360 and hiring her to provide technical training across AFP. The hire was intended to address a practical adoption gap: E&T was expected to teach the portal without direct knowledge of it. He frames the hire as a higher-risk capacity experiment. Doug reports that Emily initially reported directly to him, that he stopped managing her around 2025, and that E&T changes later stalled a portal-adoption effort. This is detailed account. A 2025 Portal Knowledge working-group document names Doug and Emily in an active cross-functional effort on i360 adoption, onboarding, training, role clarity, post-orientation surveys, and portal-role RRE work. The original hire date, reporting period, project outcome, and lasting training results require recovery before this becomes an external career claim.
 
 ## Claim check
 

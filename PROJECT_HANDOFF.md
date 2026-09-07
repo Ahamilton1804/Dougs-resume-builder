@@ -97,8 +97,9 @@ This avoids turning the eight-year Director chapter into a static job descriptio
 
 ### Date unknown: Portal technical-trainer capacity experiment
 
-- **DPI-007** records Doug's account of hiring a technical trainer to address a gap between E&T's training responsibility and its portal knowledge. He sees it as a higher-risk capacity experiment and cannot yet assess the outcome.
-- Recover the person's name, timing, job description, curriculum, training records, feedback, or review before treating the hire as an externally usable achievement.
+- **DPI-007** records Doug's account of recruiting Emily Keenan from i360 and hiring her to provide technical training across AFP. The role addressed a gap between E&T's training responsibility and its portal knowledge. He sees it as a higher-risk capacity experiment.
+- Doug reports that Emily initially reported directly to him and that he stopped managing her around 2025. He reports a rocky first year because E&T partners excluded her from work, particularly portal training. He reports that the associated portal-adoption effort later stalled during E&T reorganizations. Keep these private detailed accounts.
+- A 2025 `i360 Ideal State Doc` confirms Doug and Emily in a Portal Knowledge working group that addressed adoption, onboarding, training, state-team role clarity, post-orientation surveys, and portal-role RRE work. Recover the hire date, job description, reporting record, curriculum, feedback, and outcome before treating the hire as an externally usable achievement.
 
 ### 2025: iPad asset control and remediation
 
