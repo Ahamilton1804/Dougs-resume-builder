@@ -91,9 +91,14 @@ This avoids turning the eight-year Director chapter into a static job descriptio
 
 ### Approx. 2023: EPS product ownership and people development
 
-- **DPI-006** records Doug's account of hiring Rebecca Kush from Legal into a new EPS Product Owner role around 2023 and supporting her development into a high performer. He describes a leadership approach based on selecting, setting direction, and developing product capacity without managing her day-to-day work.
+- **DPI-006** records Doug's account of hiring Rebecca Kush from Legal into a new EPS Product Owner role around 2023. Rebecca reported directly to Doug. He reports that they met often, that he taught her Scrum and the product process, and that he helped establish the role before giving her space to own work day to day.
 - A Rebecca-authored EPS Product Owner role document has a November 2022 core creation timestamp and was modified by Doug in December 2024. It confirms the role's formal responsibilities. The timestamp may reflect an early draft and does not prove the hiring date.
 - Doug-authored 2025 review and compensation-request drafts corroborate later performance assessment and advocacy. A Cowork role-history compilation points to underlying 2023 self-review, 2023 accomplishments, and 2024 role materials. Treat the compilation as discovery support only.
+
+### Date unknown: Portal technical-trainer capacity experiment
+
+- **DPI-007** records Doug's account of hiring a technical trainer to address a gap between E&T's training responsibility and its portal knowledge. He sees it as a higher-risk capacity experiment and cannot yet assess the outcome.
+- Recover the person's name, timing, job description, curriculum, training records, feedback, or review before treating the hire as an externally usable achievement.
 
 ### 2025: iPad asset control and remediation
 
