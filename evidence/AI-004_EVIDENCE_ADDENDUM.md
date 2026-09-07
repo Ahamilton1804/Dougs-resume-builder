@@ -50,6 +50,12 @@ After the first session, Doug and Nate reconnected several times to identify imp
 
 Across the workshops, Doug observed that incomplete pre-work repeatedly required more time on fundamentals than planned. This is a detailed operating observation. No source currently provides comparative attendance, time allocation, participant satisfaction, or workflow outcomes for the first and second runs.
 
+## Intended operating framework
+
+Doug reports that the intended output was a training framework that a dedicated training team could carry from field staff through senior leadership. The workshops were also meant to collect structured signal about the work field teams brought forward, their understanding of team structure, and the clarity of their roles and objectives. Neither a completed training-team handoff nor a usable body of collected findings is established.
+
+His design premise was that higher-level examples and tool features matter less than a team's shared vision, direction, and objectives. He reports that supervisor-focused work reinforced this view: supervisors have a greater responsibility to provide direction, judgment, and accountability as AI lowers the cost of producing polished work. Doug's working formulation was that AI accelerates both healthy and unhealthy operating conditions, and that low-cost action can move faster than judgment and accountability. This is his strategic interpretation of the work and not a general empirical finding established by the workshop record.
+
 Calendar and Outlook searches did not establish that a ChatGPT or Claude pilot was launched as a direct response to the April sessions. The existing ChatGPT pilot record predates the workshops. A June 22 calendar event titled "Quick Connect/Claude" confirms a discussion, without evidence of a related pilot. Treat the recalled pilots as adjacent work until a contemporaneous source establishes their status and relationship to the workshop sequence.
 
 ## Governance and vision bridge
