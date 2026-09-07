@@ -36,6 +36,8 @@ Doug tentatively places this work in 2018. He reports that the team gained visib
 
 This is a detailed account. It does not establish the capability's date, technical source, review criteria, number of incidents, investigative finding in any particular case, or Doug's precise role in each review. The underlying activity, staff identities, credentials, locations, and incident records are sensitive. Recover a contemporaneous audit guide, capability announcement, incident summary with sensitive material removed, or decision record before treating this as an external claim.
 
+A SharePoint help article published August 7, 2026, `Grassroots Performance Check for Doors`, documents a current dashboard designed to identify potential fraud in door activity. It describes organization, state, volunteer, and coordinator filters; distance, time, survey-distribution, and location indicators; a sorting grid for records requiring investigation; and map views that compare the household location with the volunteer's captured response location. Its route-playback feature states that it displays collection points as captured and shows the volunteer's walking path. This directly establishes the later existence and operating purpose of a collection-point and field-performance review capability. It does not establish when those functions first became available, whether the 2026 dashboard is technically the same system Doug remembers, his role in its creation or operation, or any historical investigation outcome.
+
 ## Later local records that corroborate the operating model
 
 A two-page performance review signed by Doug on October 2, 2020 identifies his title as Director of Data Services and names Joe Gecan as supervisor. The review credits Doug with reshaping Data Services into the Data Implementation unit, developing direct reports Andrew Gherardini and Joe Carroll beyond their original roles, growing management, project-management, product-management, and change-management knowledge, and addressing operational and compliance risks with collaborators. This is contemporaneous supervisor feedback. It establishes that the review made these assessments; it does not by itself prove every attributed outcome, reconcile the title against the LinkedIn chronology, or establish the earlier merger account.
@@ -81,6 +83,7 @@ The screenshots are a 2025 archive of historical dashboard views, rather than co
 - A contemporaneous 2020 supervisor review attributes the Data Services to Data Implementation unit transition, direct-report development, and operating leadership to Doug. Its language is corroborating feedback, rather than a substitute for project records or independently measured outcomes.
 - A 2025 retrospective timeline authored by Ross Gardiner places an internal ticketing system and service-level objective in 2015/16. A 2025 Doug-authored team document corroborates the original dual Data Services and implementation model. Neither source establishes individual credit, earlier approvals, or merger outcomes.
 - Doug reports that the team used collection-point visibility to audit door-to-door data, identify potential fraud and data-quality issues, and in one case correct an attribution to a paid staff member. This remains a sensitive detailed account pending a contemporaneous record.
+- A SharePoint help article published August 7, 2026 confirms the later field-performance dashboard's purpose, including potential-fraud review, collection-point route playback, and indicators for investigation. It does not prove the capability's 2018 introduction or the reported case outcome.
 
 ## Evidence boundary
 
@@ -88,4 +91,4 @@ Do not add the screenshots or raw queue data to Git. Keep requester details, ind
 
 ## Next evidence question
 
-Is there a contemporaneous record that shows when collection-point visibility became available and how the team used it for data-quality or fraud review? A capability announcement, audit guide, de-identified case summary, or reporting artifact would establish the time and scope without exposing sensitive personnel details.
+Is there a contemporaneous record from 2018 or earlier that shows when collection-point visibility became available and how the team used it for data-quality or fraud review? The 2026 guide confirms later capability continuity, while a launch record, early audit guide, de-identified case summary, or reporting artifact would establish the original time and scope without exposing sensitive personnel details.
