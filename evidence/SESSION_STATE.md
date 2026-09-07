@@ -73,6 +73,8 @@ A first-pass SharePoint source index supplied by Doug identifies scarce direct m
 
 What dated 2018 or 2019 source can establish the reported PAC portal area, any queue-field or permission changes, and the related training model, while distinguishing Doug's management role from Joe Carroll's possible technical implementation role?
 
+The first focused SharePoint search returned a February 14, 2019 Word document named `i360` in Joe Gecan's Planning and High-level documents folder. Search metadata identifies Joe as creator and Doug as modifier. Its contents were not available in the browser viewer. Treat it only as a retrieval candidate: its subject, why it matched a `parent-child` search, and any role attribution are unverified.
+
 ## Evidence queued for recovery
 
 - See `evidence/BACKLOG.md` for the prioritized recovery queue, deferred questions, and Notion curation work.
