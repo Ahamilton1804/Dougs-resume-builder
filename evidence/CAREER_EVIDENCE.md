@@ -43,6 +43,10 @@ Doug reports recruiting Emily Keenan from i360 and hiring her to provide technic
 
 Doug reports taking over management of Mitch Spottiswood after Joe Carroll left and working with others to define a successor role and make the case for a backfill after Mitch decided to depart. This is detailed account. A Doug-authored April 2025 knowledge-capture document records Mitch's data-platform workflows, constraints, and successor needs, including business-context and data-validation capability alongside technical skills. It confirms a documented continuity assessment. A Cowork source map identifies a May 2025 business case and June 2025 job description as direct recovery targets for the formal backfill request and role mandate. The original documents, management transition, approval, hire, and continuity outcome still require direct recovery. Individual departure, partner, and data-governance details remain private.
 
+## DPI-009 Team building and internal talent pipeline
+
+Doug reports hiring and trying to retain most of the implementation team as the function expanded. He identifies a recurring coordinator-to-leader progression among Joe Carroll, Ross Gardiner, Andrew Gherardini, Mitch Spottiswood, and Caleb. He reports that Ross was his direct report for approximately ten years, progressing from coordinator to Implementation Manager and Deputy Director. He reports a similar coordinator-to-manager-to-deputy progression for Andrew. This is detailed account. The individual DPI records corroborate pieces of later role development, though role histories, org charts, hiring records, and team rosters are needed before making a precise external people-leadership claim. Personnel-performance, retention, and departure details remain private.
+
 ## Claim check
 
 Before a line moves into a resume, confirm that it is literally true, distinguishes Doug’s work from the team’s work, uses the strongest available basis, and could withstand a question from a knowledgeable colleague. Narrow the language when evidence is incomplete.

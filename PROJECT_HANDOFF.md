@@ -108,6 +108,12 @@ This avoids turning the eight-year Director chapter into a static job descriptio
 - A Doug-authored `Snowflake.docx`, created April 21 and modified April 24, 2025, documents Mitch's workflows, constraints, and successor requirements. It confirms a knowledge-capture and continuity-assessment step.
 - A Cowork source map identifies a May business case and June job description as direct recovery targets. Do not rely on the compilation as proof of the formal backfill, approval, or hire. Keep individual departure, interpersonal, partner, and data-access details private.
 
+### Across the implementation chapter: Team building and internal talent pipeline
+
+- **DPI-009** records Doug's report that he hired and developed many team members from coordinator roles into specialized managers, product owners, data-platform operators, and leaders.
+- He identifies Joe Carroll, Ross Gardiner, Andrew Gherardini, Mitch Spottiswood, and Caleb as examples. He reports that Ross was his direct report for roughly ten years and progressed from coordinator to Implementation Manager and Deputy Director.
+- This is a cross-cutting detailed account. Use individual role histories, org charts, hiring records, performance reviews, retention records, and team rosters to establish the pattern. Keep personnel-performance, retention, compensation, and departure details private.
+
 ### 2025: iPad asset control and remediation
 
 - **DPI-005** is parked. Doug reports that a substantial share of 2025 involved locating poorly controlled iPads, sizing the problem, selecting a device-management vendor, and overseeing cleanup.
