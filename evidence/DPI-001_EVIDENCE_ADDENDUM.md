@@ -12,6 +12,14 @@ Doug reports that incoming requests and required approvals initially arrived and
 
 This is a detailed account of the operating problem, Doug's role, and the intended value of the queue. It does not by itself establish who approved the system, its implementation date, which approval groups used it, or a measured improvement in turnaround time, planning accuracy, or headcount.
 
+Doug reports that the first build was a basic Salesforce intake form created with the Salesforce team. Form fields fed the dashboard dimensions. He reports that later operations required clearer request definitions. For example, a request called a "new survey" could refer to a genuinely new survey requiring approval or an already approved survey reused in a different legislative area. Treating both as new work inflated new-survey volume and distorted later routing decisions. This is a detailed account of Doug's role in improving the operating taxonomy and routing model.
+
+## Role specialization and team development
+
+Doug reports that, about a year after the queue began, the organization separated the Regional Data Analyst role from data-coordination duties and hired staff focused on queue operations. He reports that he later developed several long-tenured employees from intern-level roles into team-lead responsibilities. The personnel-development outcome and the exact timing of role separation remain detailed account pending role-change, hiring, or reporting-line records.
+
+A user-supplied screenshot of former employee Joe Carroll's self-authored LinkedIn profile provides limited corroboration of the role model. It describes Data Coordinator work from June 2017 through June 2018 that included field-request management, survey and list production, data-quality work, user training, and support for Regional Data Analysts. His later profile entries describe Senior Data Coordinator, Regional Data Analyst, Product Owner, and Deputy Director roles. This is a useful lead on the function's scope and career progression. It does not establish that Doug created the roles, managed every listed responsibility, or caused Joe's advancement.
+
 ## Archived dashboard evidence
 
 Nine user-supplied screenshots captured on March 11, 2025 show an AFP `Data Implementation Analytics` dashboard with historical annual filters. The dashboard is a case-management reporting surface: it displays closed cases by owner, cases opened by month, breakdowns by request type, and a total case card. It also displays a separate card for i360 universes assembled. The screenshots establish that the queue produced historical operational reporting by 2016 and continued through 2024.
@@ -38,6 +46,7 @@ The screenshots are a 2025 archive of historical dashboard views, rather than co
 - A structured case-management queue existed by 2016 and supported organization-wide request tracking, reporting, and owner-level workload visibility.
 - The system recorded annual case volume, request type, monthly intake, and i360 universe assembly volume over at least nine years.
 - The queue's historical reporting created an operational basis for demand and capacity discussions.
+- The operating model later included a distinct data-coordination function, according to an employee's self-authored role history and Doug's detailed account.
 
 ## Evidence boundary
 
