@@ -114,6 +114,7 @@ This avoids turning the eight-year Director chapter into a static job descriptio
 - **DPI-009** records Doug's report that he hired and developed many team members from coordinator roles into specialized managers, product owners, data-platform operators, and leaders.
 - He identifies Joe Carroll, Ross Gardiner, Andrew Gherardini, Mitch Spottiswood, and Caleb as examples. He reports that Ross was his direct report for roughly ten years and progressed from coordinator to Implementation Manager and Deputy Director.
 - This is a cross-cutting detailed account. Use individual role histories, org charts, hiring records, performance reviews, retention records, and team rosters to establish the pattern. Keep personnel-performance, retention, compensation, and departure details private.
+- `evidence/IMPLEMENTATION_CHAPTER_STOCKTAKE.md` is the current decision surface. It groups recovered work into five themes and recommends moving into a first Director of Product Implementation narrative instead of continuing unbounded chronology recovery.
 
 ### 2025: iPad asset control and remediation
 
