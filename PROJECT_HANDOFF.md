@@ -114,13 +114,13 @@ This avoids turning the eight-year Director chapter into a static job descriptio
 - **DPI-009** records Doug's report that he hired and developed many team members from coordinator roles into specialized managers, product owners, data-platform operators, and leaders.
 - He identifies Joe Carroll, Ross Gardiner, Andrew Gherardini, Mitch Spottiswood, and Caleb as examples. He reports that Ross was his direct report for roughly ten years and progressed from coordinator to Implementation Manager and Deputy Director.
 - This is a cross-cutting detailed account. Use individual role histories, org charts, hiring records, performance reviews, retention records, and team rosters to establish the pattern. Keep personnel-performance, retention, compensation, and departure details private.
-- `evidence/IMPLEMENTATION_CHAPTER_STOCKTAKE.md` is the current decision surface. It groups recovered work into five themes and recommends moving into a first Director of Product Implementation narrative instead of continuing unbounded chronology recovery.
+- `evidence/IMPLEMENTATION_CHAPTER_STOCKTAKE.md` is the current decision surface. It groups recovered work into six themes and recommends moving into a first Director of Product Implementation narrative instead of continuing unbounded chronology recovery.
 
 ### 2025: iPad asset control and remediation
 
-- **DPI-005** is parked. Doug reports that a substantial share of 2025 involved locating poorly controlled iPads, sizing the problem, selecting a device-management vendor, and overseeing cleanup.
-- This may become a strong transferable story about asset governance, operational diagnosis, vendor selection, and remediation. Its date, device count, vendor, decision process, financial exposure, scope, cleanup result, and Doug's direct authority remain unrecovered.
-- A local search of synchronized folders did not find iPad- or tablet-named files. A signed-in SharePoint session is available for a targeted search when this becomes the active question.
+- **DPI-005** now has direct local evidence. A reconciliation workbook records a 934-line gap between billed pooled data lines and asset-tracked devices, plus 712 cancellation requests and 222 remaining lines to locate or cancel. The project plan documents specific cleanup work, responsibility assignments, and a planned vendor-managed transition.
+- Doug reports helping diagnose the inherited control problem, recover and clean up devices, choose the operating model, and define accountability. His project-plan assignments cover approval flow, iPad-manager onboarding, cancellation and device-removal tickets, usage review, contract routing, spend tracking, and pilot timing.
+- This is a sixth implementation theme: operational governance and remediation. It is not external-ready yet. A project charter, selection decision, pilot outcome, or transition-to-operations record must establish Doug's authority and the result. See `evidence/DPI-005_IPAD_ASSET_REMEDIATION.md`.
 
 ### Approximately September or October 2025-present: Senior Director of AI Strategy
 
@@ -155,7 +155,7 @@ The goal is to find an anchor, not to prove every part of the story at once. Lik
 4. **2022-23 Customer Journey and capability materials.** Determine whether they show a mature customer, training, or operating model that Doug owned or shaped.
 5. **2023 digital-integration records.** Look for cross-system requirements, decision rights, and Doug's operating role.
 6. **2024 feature-priority and release materials.** Seek a documented planning and feedback process that ties back to the later Jira operating model.
-7. **DPI-005 iPads.** Conduct a targeted OneDrive or SharePoint search only when the chronology reaches 2025 or this becomes a deliberate priority.
+7. **DPI-005 iPads.** Recover one accountability or transition record: project charter, steering-team deck, vendor-selection decision, pilot outcome, or handoff to operations. Do not search broadly.
 
 ## Known discovery aids and source locations
 
@@ -166,7 +166,7 @@ The goal is to find an anchor, not to prove every part of the story at once. Lik
 ## Current records and restart surfaces
 
 - `evidence/CAREER_MAP.md`: concise chronology and chapter scope.
-- `evidence/CAREER_EVIDENCE.md`: claim-level source of truth. Contains AI-001 through AI-008 and DPI-001 through DPI-004.
+- `evidence/CAREER_EVIDENCE.md`: claim-level source of truth. Contains AI-001 through AI-008 and DPI-001 through DPI-009, with record-specific limits and addenda where needed.
 - `evidence/SESSION_STATE.md`: short restart record. Update it at the end of each substantive recovery session.
 - `evidence/BACKLOG.md`: priority sequence, parked questions, and safety boundaries.
 - `evidence/*_EVIDENCE_ADDENDUM.md`: detail and evidence limits for several AI and Director records.

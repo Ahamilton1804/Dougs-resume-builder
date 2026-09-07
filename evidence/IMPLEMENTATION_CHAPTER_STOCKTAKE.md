@@ -38,6 +38,12 @@ This is the right frame for the Director of Product Implementation chapter. The 
 - **Detailed account:** Doug reports initiating the group and Planner project to address weak knowledge retention beyond the roughly four-hour onboarding experience. He reports that the initiative later lost focus as E&T reorganized and attention shifted toward a possible CRM replacement.
 - **Career implication:** This is evidence of diagnosing an enablement problem and forming a structured intervention. It is not a sustained-adoption success story.
 
+### 6. Addressed a material asset-control failure
+
+- **Strong evidence:** A reconciliation workbook records 2,269 billed pooled lines against 1,335 asset-tracked devices, a 934-line gap. It also records 712 cancellation requests and 222 remaining lines to locate or cancel. A project plan documents cleanup work, carrier-line and device-management actions, responsibility assignments, and a planned vendor-managed transition.
+- **Detailed account:** Doug reports helping diagnose an inherited iPad-fleet failure, locate devices, establish ownership and approval flow, select a vendor-managed model, and direct cleanup.
+- **Career implication:** This is a governance-and-remediation story. It shows the same recurring judgment pattern as the rest of the chapter: make a hidden operating failure visible, create clear process and ownership, and build an operating model that can prevent recurrence. Do not claim realized savings, completed remediation, or sole project leadership until an accountability and transition record is recovered.
+
 ## Boundaries that protect the story
 
 - Keep PIPs, demotions, severance discussions, compensation, retention negotiations, and individual departure reasons private.
@@ -53,11 +59,11 @@ This is a working narrative, not resume copy. It is supported at the level of fu
 
 ## Recommended next moves
 
-1. **Stop unbounded chronology recovery.** New memories should be added only when they strengthen one of the five themes above.
+1. **Stop unbounded chronology recovery.** New memories should be added only when they strengthen one of the six themes above.
 2. **Recover a small set of decisive originals.** Prioritize Ross’s 2022 promotion memo and 2024 Deputy Director RRE, the May 2025 Joe Product Owner continuity case and contractor agreement, the May 2025 Snowflake backfill case, and Rebecca’s original RRE materials.
 3. **Build a role-evolution grid.** Create one row per core team member with start role, documented promotions, span reporting to Doug, and the strongest source. Keep performance and departure details in a private notes column.
-4. **Draft the Director of Product Implementation narrative.** Use the five themes as sections, then identify the two or three claims that are ready for an external resume and the claims that need one more source.
-5. **Defer lower-value branches.** Do not shift to iPads, detailed system histories, or every individual staffing event until the first narrative draft exposes a real evidence gap.
+4. **Draft the Director of Product Implementation narrative.** Use the six themes as sections, then identify the two or three claims that are ready for an external resume and the claims that need one more source.
+5. **Defer lower-value branches.** Do not shift to detailed system histories or every individual staffing event until the first narrative draft exposes a real evidence gap. The iPad record is now sufficiently grounded to carry a sixth theme, though it needs one accountability or transition record before it becomes external-ready.
 
 ## Immediate next working move
 
