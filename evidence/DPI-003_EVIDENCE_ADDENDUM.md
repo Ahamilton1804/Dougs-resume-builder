@@ -20,6 +20,12 @@ This establishes a mature product-operations surface that could distinguish actu
 
 The dashboard screenshots show that the system covered a broad set of portal capabilities, including CRM, events, survey tools, field applications, action centers, and calling. They also show that the reporting surface differentiated product defects from user-error or knowledge-gap reports. This supports the account that the work combined product planning, user feedback, implementation support, and training signals.
 
+## V4 product and implementation model
+
+The core metadata of `Portal V4 Regional Call Joe Carroll PPT.pptx` identifies Joseph Carroll as author and January 25, 2021 as its creation date. The deck describes the Data and Implementation Team as working with i360 on product development, helping states implement their visions through portal tools, incorporating other partners, and operating as a continuing-education resource. It describes the State Portal Contact role as expanding from bugs, training, and technical issues into product development, feedback, and V4 implementation.
+
+The deck contrasts an earlier product-development approach that had limited field feedback, weak communication between organizations, and no early testing. It names the original Events Builder as an example and describes resulting technical debt and rework. Its V4 approach calls for field feedback, ongoing communication with i360, early testing, and iteration. A later slide states that feedback was central to avoiding problems associated with Events and child organizations. This directly corroborates that the organization had identified a need for a stronger business-to-delivery feedback process by early 2021. It does not establish Doug's authorship of the approach, the outcome of V4, the exact cause of earlier rollout problems, or a measured improvement.
+
 ## Events rollout and external-integration account
 
 Doug reports that an Events 1.0 rollout exposed the limits of a long requirements handoff without continuing product ownership. He recalls providing i360 a detailed requirements document, waiting roughly a year and a half for delivery, finding initial issues in a soft launch, and then seeing the broader rollout fail to operate as intended. He also recalls recurrent instability in an Eventbrite integration when upstream API changes disrupted it. He identifies these experiences as a key reason to establish a closer product-planning and delivery interface through Joe's Product Owner role.
@@ -31,12 +37,12 @@ This is a detailed account. The requirements document, launch record, incident r
 - By 2024 and early 2025, the portal had a structured Jira-based bug and development queue with categorical reporting, delivery-flow monitoring, and a named project lead.
 - The system separated defect reports from user-error and knowledge-gap cases, creating a feedback path between product planning and enablement.
 - The dashboard recorded issue source, cause, tool area, intake, resolution, and delivery velocity. This is evidence of operational visibility, not proof of a particular improvement or customer outcome.
-- Doug reports that he moved the work from informal bug tracking toward a dedicated Product Owner model, backed Joe Carroll's role change, and used early rollout and integration problems as the operating case for that change.
+- Doug reports that he moved the work from informal bug tracking toward a dedicated Product Owner model, backed Joe Carroll's role change, and used early rollout and integration problems as the operating case for that change. Joe Carroll's January 2021 V4 deck corroborates the need for a stronger feedback, testing, and implementation model.
 - Doug reports that the role required a business case for technical product ownership inside a grassroots organization, because central IT did not hold the portal's field context, demand, or prioritization responsibilities.
 
 ## Evidence boundary
 
-Do not add the raw Jira exports or dashboard images to Git. Keep issue summaries, reporter and employee information, internal metrics, portal architecture, vendor or affiliate arrangements, defect details, and rollout history private. External language can describe building an internal product-operations function that translated customer demand into structured prioritization, delivery feedback, and enablement insight. Do not claim the role change, a deployment turnaround, a specific product result, or a service-level improvement without additional support.
+Do not add the raw Jira exports, dashboard images, or source deck to Git. Keep issue summaries, reporter and employee information, internal metrics, portal architecture, vendor or affiliate arrangements, defect details, and rollout history private. External language can describe building an internal product-operations function that translated customer demand into structured prioritization, delivery feedback, and enablement insight. Do not claim the role change, a deployment turnaround, a specific product result, or a service-level improvement without additional support.
 
 ## Next evidence question
 

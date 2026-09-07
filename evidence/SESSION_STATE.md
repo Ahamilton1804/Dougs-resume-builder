@@ -27,6 +27,8 @@ The first pre-AI records are DPI-001 through DPI-003: Regional Data Analyst and 
 
 The recovery method is now a year-by-year role-evolution map. It will distinguish each period's demand, platform or operating change, specialization, Doug's decision, output, and evidence source. This prevents the later Director chapter from collapsing into a static description of RDA work. Doug also reports that the Product Owner decision required a business case for technical capacity inside a grassroots organization, because central IT did not carry the portal's field context, demand, or prioritization responsibility. That rationale remains a detailed account. DPI-004 captures Doug's detailed account of 2017-18 platform expansion: a merger and parent-child organizational configuration, tag governance, vendor-data imports, Volunteer Management, and iVolunteer. These are distinct recovery leads with sensitive entity and data boundaries, not completed public claims.
 
+New local source records anchor parts of the map. A June 2018-origin iVolunteer sample leaderboard records brand-specific iVolunteer activists and actions in a field reporting structure. A March 2020 iVolunteer deck documents a CVA re-engagement use case. A January 2021 Portal V4 deck authored by Joe Carroll explicitly defines the Data and Implementation Team as the business-side product-development, implementation, partner, and continuing-education function. It also documents the move toward earlier feedback and testing after prior Events Builder experience. The source records do not establish Doug's individual ownership, launch dates, or outcomes beyond their documented scope.
+
 ## Questions resolved
 
 | Question | Working answer | Evidence location |
