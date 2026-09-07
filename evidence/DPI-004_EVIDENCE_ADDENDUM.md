@@ -22,6 +22,14 @@ Doug reports that Volunteer Management emerged around 2017 or 2018 to help teams
 
 This is a detailed account. The product names, approximate sequence, intended purpose, and examples are useful recovery leads. Launch dates, user adoption, Doug's role, data flows, and results remain unverified.
 
+## September 2018 strategic partner model
+
+The original SharePoint record for `Ways We Can Even Further Add Value.docx` identifies Joe Gecan as creator on September 23, 2018 and as last modifier on September 28. It was shared with Doug on September 23. Its downloaded copy has fresh 2026 metadata, so the original SharePoint record supplies the date and authorship boundary.
+
+The document proposes moving Doug's team out of Tier 1 support, developing local portal experts, reducing the number of handoffs required of state teams, and giving the team a stronger role in translating grassroots objectives into operational work with i360 and internal partners. It also references current Events and Texting tool exercises and calls for stronger feedback, testing, tagging, approvals, and implementation support.
+
+This confirms that a strategic-partner and local-capability model was being discussed by September 2018. It does not establish approval, adoption, Doug's authorship, his decision rights, or a measured result. Doug's next contribution question is which elements were already in motion and which remained a proposed direction.
+
 ## iVolunteer records
 
 The core metadata of `Copy of i-360 Leaderboards SAMPLE.xlsx` identifies Doug as creator and June 22, 2018 as its creation date. The workbook is a sample leaderboard with state, supervisor, and coordinator reporting. Its crosstab includes separate fields for iVolunteer activists and iVolunteer actions, alongside traditional volunteer, phone, door, and policy-partner measures. It also includes AFP, CVA, Libre, and Generation Opportunity iVolunteer labels. The working copy was modified in 2026, so the metadata should be treated as evidence of a 2018-origin workbook, with a later-copy limitation.
@@ -38,6 +46,7 @@ A SharePoint Word document named `i360.docx` is preserved in Joe Gecan's `Planni
 
 - Doug's account identifies 2017 and 2018 as a period when the implementation function expanded from request execution and portal training into multi-entity platform design, data governance, imports, volunteer management, and digital engagement.
 - A 2018-origin sample leaderboard corroborates iVolunteer reporting with brand-specific labels. A 2020 presentation corroborates iVolunteer re-engagement through an i360 texting action.
+- A September 2018 strategic-partner document authored by Joe Gecan corroborates contemporaneous discussion of shifting Doug's team from Tier 1 support toward local capability, structured feedback, and a stronger business-side operating role.
 - The February 2019 `i360.docx` item confirms a dated Joe Gecan and Doug Gardner record. It is a retrieval anchor only until its contents are examined.
 - The work created a plausible operating basis for specialist roles and product ownership as portal scope and dependency increased.
 - Entity design, tag governance, imports, volunteer management, and iVolunteer should be recovered as separate projects on the role-evolution map, with their own evidence boundaries.
