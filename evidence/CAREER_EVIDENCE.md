@@ -31,6 +31,10 @@ A detailed account is legitimate evidence of Doug’s experience. It should be n
 
 Doug further reports that Joe Carroll held the Product Owner role through a departure he tentatively places in 2025, then later returned under a different title. Joe's self-authored LinkedIn profile lists Product Owner from May 2021 through February 2025, yet its later entries overlap. This is detailed account. The exact departure, rehire, and title sequence remain unrecovered. A role-change, departure, rehire, or title-change record is the next source target.
 
+## DPI-006 EPS product ownership and people development
+
+Doug reports that he hired Rebecca Kush from Legal into a new EPS Product Owner role in approximately 2023 and developed her as she grew into a high performer. He describes his role as hiring, setting direction, and supporting her development rather than managing each project directly. This is detailed account. A Rebecca-authored EPS Product Owner role document, created in 2022 and modified by Doug in 2024, confirms the formal responsibilities associated with the later role. Doug-authored 2025 review and compensation-request drafts corroborate a later performance-assessment and development relationship. A Cowork-produced role-history summary identifies direct source targets for the 2023 transition, though the summary itself is a discovery aid only. Recover a hiring, role-change, original RRE, self-review, manager-review, or transition record before making a precise hiring or talent-development claim externally.
+
 ## Claim check
 
 Before a line moves into a resume, confirm that it is literally true, distinguishes Doug’s work from the team’s work, uses the strongest available basis, and could withstand a question from a knowledgeable colleague. Narrow the language when evidence is incomplete.

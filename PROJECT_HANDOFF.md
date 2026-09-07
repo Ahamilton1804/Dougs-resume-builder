@@ -89,6 +89,12 @@ This avoids turning the eight-year Director chapter into a static job descriptio
 - Doug reports moving bug and development work from an inadequate process into his team, first through Andrew Gherardini and then Joe. He reports introducing Scrum practices and advocating with his supervisor and i360 for Joe to hold a dedicated Product Owner role. This operating-design and role-transition story remains a detailed account until a proposal, role-change, planning, or launch record is found.
 - Doug further reports that Joe held the Product Owner role through a departure tentatively placed in 2025, then later returned under a different title. LinkedIn lists Product Owner from May 2021 to February 2025, yet its later entries overlap. Treat the employment and title sequence as unrecovered.
 
+### Approx. 2023: EPS product ownership and people development
+
+- **DPI-006** records Doug's account of hiring Rebecca Kush from Legal into a new EPS Product Owner role around 2023 and supporting her development into a high performer. He describes a leadership approach based on selecting, setting direction, and developing product capacity without managing her day-to-day work.
+- A Rebecca-authored EPS Product Owner role document has a November 2022 core creation timestamp and was modified by Doug in December 2024. It confirms the role's formal responsibilities. The timestamp may reflect an early draft and does not prove the hiring date.
+- Doug-authored 2025 review and compensation-request drafts corroborate later performance assessment and advocacy. A Cowork role-history compilation points to underlying 2023 self-review, 2023 accomplishments, and 2024 role materials. Treat the compilation as discovery support only.
+
 ### 2025: iPad asset control and remediation
 
 - **DPI-005** is parked. Doug reports that a substantial share of 2025 involved locating poorly controlled iPads, sizing the problem, selecting a device-management vendor, and overseeing cleanup.
@@ -124,10 +130,11 @@ The goal is to find an anchor, not to prove every part of the story at once. Lik
 
 1. **2019-21 chronology anchors.** Look for dated rollout, requirements, training, architecture, approval-flow, or retrospective records that establish sequence and Doug's responsibility.
 2. **Product Owner transition.** Look for a role-change, departure, rehire, or title-change record, proposal, job description, planning record, launch communication, or retrospective that establishes Doug's advocacy, the role sequence, and decision rights.
-3. **2022-23 Customer Journey and capability materials.** Determine whether they show a mature customer, training, or operating model that Doug owned or shaped.
-4. **2023 digital-integration records.** Look for cross-system requirements, decision rights, and Doug's operating role.
-5. **2024 feature-priority and release materials.** Seek a documented planning and feedback process that ties back to the later Jira operating model.
-6. **DPI-005 iPads.** Conduct a targeted OneDrive or SharePoint search only when the chronology reaches 2025 or this becomes a deliberate priority.
+3. **EPS Product Owner transition.** Recover Rebecca Kush's hiring, role-change, original RRE, self-review, manager-review, or transition communication to establish the start date, Doug's authority in the hire, and the talent-development outcome.
+4. **2022-23 Customer Journey and capability materials.** Determine whether they show a mature customer, training, or operating model that Doug owned or shaped.
+5. **2023 digital-integration records.** Look for cross-system requirements, decision rights, and Doug's operating role.
+6. **2024 feature-priority and release materials.** Seek a documented planning and feedback process that ties back to the later Jira operating model.
+7. **DPI-005 iPads.** Conduct a targeted OneDrive or SharePoint search only when the chronology reaches 2025 or this becomes a deliberate priority.
 
 ## Known discovery aids and source locations
 

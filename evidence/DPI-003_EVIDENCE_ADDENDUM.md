@@ -44,6 +44,12 @@ Doug reports that an Events 1.0 rollout exposed the limits of a long requirement
 
 This is a detailed account. The requirements document, launch record, incident record, rollout date, Eventbrite integration history, and exact scope remain unrecovered. Keep the specific failure, vendors, systems, and organizational context private unless a source record supports a safe, accurate account.
 
+## Carroll retention and compensation account
+
+Doug reports that Joe Carroll's growing responsibilities created a retention risk around 2021 or 2022. He recalls seeking a compensation increase of nearly 50 percent and working with Chase, Lindsay, Joe Gecan, and Emily Seidel through an approval path that ultimately reached Brian Hooks. Doug reports that the adjustment was approved and helped retain Joe.
+
+This is a sensitive detailed account. The timing, compensation amount, approval sequence, decision makers, and retention outcome require personnel or approval records. Keep all compensation and individual employment details private and out of external career material.
+
 ## What this source supports
 
 - By 2024 and early 2025, the portal had a structured Jira-based bug and development queue with categorical reporting, delivery-flow monitoring, and a named project lead.
