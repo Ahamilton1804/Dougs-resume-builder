@@ -86,7 +86,7 @@ This avoids turning the eight-year Director chapter into a static job descriptio
 - **DPI-003** records a later product-operations model. January 2021 Portal V4 material authored by Joe Carroll identifies the Data and Implementation Team as the business-side product-development, implementation, partner, and continuing-education function. It describes a move toward early feedback and testing after prior Events Builder problems created technical debt and rework.
 - Jira records from 2024 and early 2025 confirm an `i360 Bugs & Development Queue` with monthly and quarterly intake, resolution, delivery velocity, origin, cause, and portal-tool reporting. Joe Carroll appears as project lead. The system distinguishes bugs, development requests, and user-error or knowledge-gap cases.
 - Doug reports moving bug and development work from an inadequate process into his team, first through Andrew Gherardini and then Joe. He reports introducing Scrum practices and advocating with his supervisor and i360 for Joe to hold a dedicated Product Owner role. This operating-design and role-transition story remains a detailed account until a proposal, role-change, planning, or launch record is found.
-- Joe's LinkedIn dates a Product Owner role from May 2021 to February 2025. It is a self-authored lead, not independent proof of Doug's advocacy.
+- Doug further reports that Joe held the Product Owner role through a departure tentatively placed in 2025, then later returned under a different title. LinkedIn lists Product Owner from May 2021 to February 2025, yet its later entries overlap. Treat the employment and title sequence as unrecovered.
 
 ### 2025: iPad asset control and remediation
 
@@ -122,7 +122,7 @@ The goal is to find an anchor, not to prove every part of the story at once. Lik
 ## Priority source queue
 
 1. **2019-21 chronology anchors.** Look for dated rollout, requirements, training, architecture, approval-flow, or retrospective records that establish sequence and Doug's responsibility.
-2. **Product Owner transition.** Look for a role-change request, proposal, job description, planning record, launch communication, or retrospective that establishes Doug's advocacy and decision rights.
+2. **Product Owner transition.** Look for a role-change, departure, rehire, or title-change record, proposal, job description, planning record, launch communication, or retrospective that establishes Doug's advocacy, the role sequence, and decision rights.
 3. **2022-23 Customer Journey and capability materials.** Determine whether they show a mature customer, training, or operating model that Doug owned or shaped.
 4. **2023 digital-integration records.** Look for cross-system requirements, decision rights, and Doug's operating role.
 5. **2024 feature-priority and release materials.** Seek a documented planning and feedback process that ties back to the later Jira operating model.

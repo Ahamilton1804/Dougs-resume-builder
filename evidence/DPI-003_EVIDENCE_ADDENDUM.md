@@ -4,7 +4,7 @@
 
 Doug reports that bug and development intake for the i360 portal moved to his team after the existing tracking process was not producing a usable operating system. Andrew Gherardini initially took on the work, then Joe Carroll assumed it. Doug reports that he began introducing Scrum practices and made the case to his supervisor and i360 for a dedicated Product Owner role for Joe. The intended role would convert user needs and defect reports into planned, prioritized work with a technical delivery partner, rather than leaving the work as informal ticket handling. Joe later held the Product Owner title full time.
 
-This is a detailed account of the transition, Doug's advocacy, and the role-design decision. Joe's self-authored LinkedIn profile places his Product Owner role from May 2021 through February 2025. It is useful corroboration of the role's later existence and stated scope. It does not independently establish who proposed the role, the transition sequence, or Doug's role in the decision.
+This is a detailed account of the transition, Doug's advocacy, and the role-design decision. Doug further reports that Joe held the Product Owner role through a departure he tentatively places in 2025, then later returned under a different title. Joe's self-authored LinkedIn profile places the Product Owner role from May 2021 through February 2025 and contains later overlapping entries. It corroborates the role's later existence and stated scope. It does not independently establish who proposed the role, the departure and rehire dates, the title sequence, or Doug's role in the decision.
 
 ## Role expansion and organizational justification
 
@@ -59,4 +59,4 @@ Do not add the raw Jira exports, dashboard images, or source deck to Git. Keep i
 
 ## Next evidence question
 
-Can the original scenarios-and-drivers document, a role-change record, proposal, requirements document, launch communication, or retrospective establish when Joe's Product Owner role began and what Doug personally presented or decided with the portal delivery team?
+Can the original scenarios-and-drivers document, a role-change, departure, rehire, or title-change record, proposal, requirements document, launch communication, or retrospective establish Joe's Product Owner sequence and what Doug personally presented or decided with the portal delivery team?
