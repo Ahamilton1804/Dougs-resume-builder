@@ -56,6 +56,14 @@ Doug reports that the intended output was a training framework that a dedicated 
 
 His design premise was that higher-level examples and tool features matter less than a team's shared vision, direction, and objectives. He reports that supervisor-focused work reinforced this view: supervisors have a greater responsibility to provide direction, judgment, and accountability as AI lowers the cost of producing polished work. Doug's working formulation was that AI accelerates both healthy and unhealthy operating conditions, and that low-cost action can move faster than judgment and accountability. This is his strategic interpretation of the work and not a general empirical finding established by the workshop record.
 
+## Training-team participation and facilitator-guide draft
+
+Ron Buch's August 17 Supervisor AI Workshop Debrief Form confirms his observation of a Florida supervisor session facilitated by Nate Hogan and Doug. The form records that participants came prepared with real work, that the Challenger helped them identify alternatives, and that the group needed more development around supervisory application, team-wide workflows, decision rights, and a concrete follow-through ask. Ron recommended pre-assessment, stronger pre-work, cooperative learning activities, and a structured 30-day follow-up.
+
+On August 26, Ron produced a draft Level 1 workshop overview and facilitator guides. The overview states that a trainer who was not part of the original design should be able to run the workshop and achieve a comparable outcome. It replaces the earlier fictional project exercise with a task participants already own, then sequences product fluency, structured iteration, scope-creep awareness, Challenger-based scrutiny, output creation, and a presentation close. The facilitator guide adds adult-learning activities around prompt structure, peer discussion, judgment, revision, and real-role application.
+
+These materials establish that the training team observed the pilot, gave feedback, and translated its learning design into draft facilitator guidance. Doug reports discussing the direction with Ron before the supervisor session and expects to review the guides with him during the week of September 7. The draft status, a completed training-team handoff, use by other facilitators, the planned repository of pre- and post-session material, and any trend analysis remain unestablished.
+
 Calendar and Outlook searches did not establish that a ChatGPT or Claude pilot was launched as a direct response to the April sessions. The existing ChatGPT pilot record predates the workshops. A June 22 calendar event titled "Quick Connect/Claude" confirms a discussion, without evidence of a related pilot. Treat the recalled pilots as adjacent work until a contemporaneous source establishes their status and relationship to the workshop sequence.
 
 ## Governance and vision bridge
