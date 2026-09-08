@@ -41,3 +41,12 @@ The safe external framing is still limited. A future resume or interview claim c
 ## Next recovery question
 
 Recover one primary decision or transition record that names Doug's business-side role in the vendor-managed transition and shows what changed after the remediation work. Separately inspect the 2021 network-aggregation business case and 2022 field-office presentation to determine whether the related office-internet work warrants its own record.
+
+## Targeted recovery leads
+
+The updated Cowork history identifies the following sources. Treat each as a lead until directly reviewed:
+
+- **Jake Beck:** `2024.01.30 AFP MDaaS Trial.pptx`, the January 2024 recommendation for the managed-device model. This is the highest-value decision record for scope, tradeoffs, and the proposed operating model.
+- **Allison Wolf:** `AFP Mobile Device as a Service - Recap for the WE 07-12-2024.docx`, reported to contain an ingestion snapshot, warehouse-progress issue, invoice concerns, and Bruin data-quality escalation. `Ingestion Shipment 1 - 20 iPads for MetTel Copy 081424.xlsx` may establish a specific cleanup batch and Doug's direct record action. `Post-Project RREs.pptx` is a related lead.
+- **Victor Hampton-Stone:** `MetTel 6th Gen iPads from HQ.xlsx`, reported to document April 2025 shipments and returns. It may establish that the redeployment and return cycle continued after the initial transition.
+- **Current-state count:** the source map identifies October 2025 invoice detail with 188 active billed tablets, while the direct warehouse export establishes 482 depot tablets. Recover a same-date Bruin deployed-device export before combining those figures into a total active fleet count.
