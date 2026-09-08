@@ -2,9 +2,9 @@
 
 ## Working account
 
-Doug reports that, across much of 2025 and the preceding period, he spent substantial time on an inherited iPad-fleet problem. He describes fragmented ownership, an aging fleet, devices that could not be located, ongoing line and device costs, and no coherent operating process. He represented AFP's business needs and co-led the work with Jake Beck, who made the primary case for the vendor-managed transition. Doug reports helping size the problem, locate and clean up devices, select the management model, and define a more accountable ordering, inventory, training, and return process.
+Doug reports that he handled the iPad remediation project end to end across much of 2025 and the preceding period. He describes an inherited fleet-control problem that coincided with Verizon billing issues, devices that could not be located, and no policy assigning accountability for inventory. He reports sizing the problem, locating and cleaning up devices, selecting the management model, and defining the ordering, inventory, training, and return process. Jake Beck made the primary documented case for the vendor-managed transition.
 
-The local project records establish the control problem and show Doug assigned to several operational and transition responsibilities. They do not establish that he alone led the project, the ultimate fleet outcome, realized savings, the reported total loss, or the reported age profile of the fleet.
+The local project records establish the control problem and show Doug assigned to several operational and transition responsibilities. Doug's end-to-end project-ownership account is detailed account. The records do not independently establish the ultimate fleet outcome, realized savings, the reported total loss, or the reported age profile of the fleet.
 
 ## Directly supported facts
 
@@ -27,11 +27,11 @@ Doug reports holding the same business-side co-lead role with Jake Beck on the r
 
 ## Career interpretation
 
-This is an operational-governance and remediation story. It belongs alongside the implementation chapter's demand system, product function, people development, continuity work, and adoption model. The direct record now shows a three-stage arc: a 2021 hardware-refresh governance effort, a long billing and inventory reconciliation problem, and a later vendor-managed transition. Its transferable pattern is: represent business needs during an inherited control failure, reconcile records, define ownership and approval flows, co-lead a vendor transition, and put recurring asset-management work into an operating process.
+This is an operational-governance and remediation story. It belongs alongside the implementation chapter's demand system, product function, people development, continuity work, and adoption model. The direct record now shows a three-stage arc: a 2021 hardware-refresh governance effort, a long billing and inventory reconciliation problem, and a later vendor-managed transition. Doug reports handling the project end to end: making the control failure visible, reconciling records, defining ownership and approval flows, and putting recurring asset-management work into an operating process.
 
 The most accurate scale statement is: the legacy Verizon program carried 3,493 pooled lines in September 2021, fell to 1,556 by the last monthly snapshot in December 2023, and a September 2026 MetTel export shows 484 tablets in depot inventory. These are different measures. They show the program moving away from a multi-thousand-line, weakly reconciled estate toward a smaller managed inventory, while leaving the precise all-in fleet count unrecovered.
 
-The safe external framing is still limited. A future resume or interview claim could describe co-leading a cross-functional mobile-device remediation once the accountability model and completed transition are corroborated. Until then, this is strongest as a private interview example of judgment under operational ambiguity.
+The safe external framing is still limited. A future resume or interview claim could describe leading a cross-functional mobile-device remediation once an accountability or transition record corroborates Doug's detailed account and establishes the completed transition. Until then, this is strongest as a private interview example of judgment under operational ambiguity.
 
 ## Evidence boundary
 

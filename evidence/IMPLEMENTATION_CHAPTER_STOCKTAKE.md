@@ -41,8 +41,8 @@ This is the right frame for the Director of Product Implementation chapter. The 
 ### 6. Addressed a material asset-control failure
 
 - **Strong evidence:** A billing workbook records 28 monthly snapshots from September 2021 through December 2023, with pooled service charges totaling about $1.09 million and line count declining from 3,493 to 1,556. A reconciliation workbook records 2,269 billed pooled lines against 1,335 asset-tracked devices, a 934-line gap. It also records 712 cancellation requests and 222 remaining lines to locate or cancel. A project plan documents cleanup work, carrier-line and device-management actions, responsibility assignments, and a planned vendor-managed transition.
-- **Detailed account:** Doug reports helping diagnose an inherited iPad-fleet failure, locate devices, establish ownership and approval flow, select a vendor-managed model, and direct cleanup.
-- **Career implication:** This is a governance-and-remediation story. It shows the same recurring judgment pattern as the rest of the chapter: make a hidden operating failure visible, create clear process and ownership, and build an operating model that can prevent recurrence. Do not claim realized savings, completed remediation, or sole project leadership until an accountability and transition record is recovered.
+- **Detailed account:** Doug reports handling the remediation project end to end. The work addressed an inherited fleet-control failure, concurrent Verizon billing issues, lost inventory, and the absence of an accountability policy. He reports diagnosing the problem, locating devices, defining ownership and approval flow, selecting the vendor-managed model, and directing cleanup.
+- **Career implication:** This is a governance-and-remediation story. It shows the same recurring judgment pattern as the rest of the chapter: make a hidden operating failure visible, create clear process and ownership, and build an operating model that can prevent recurrence. Do not claim realized savings or completed remediation until an accountability and transition record is recovered.
 
 ## Boundaries that protect the story
 
