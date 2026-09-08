@@ -1,5 +1,17 @@
 # AFP Career Evidence Recovery Handoff
 
+## Resume-direction update, September 7, 2026
+
+The evidence record now supports a first evidence-bound base resume. The working target is Director or Senior Director work in AI enablement, adoption, and operating design for complex organizations. Relevant market labels include AI Enablement, AI Adoption, AI Transformation, Applied AI, AI Strategy and Operations, and Digital Transformation with an explicit AI mandate. This is a targeting hypothesis, not an external claim.
+
+The working position is business-side AI leadership: Doug identifies practical use cases, turns emerging capability into usable workflows and staff practice, and creates the pilots, guidance, and decision structure required for responsible adoption. The Director of Product Implementation chapter supplies the longer operating pattern of diagnosis, product and workflow design, implementation, and people development. See `target-roles/AI_ENABLEMENT_TARGET_HYPOTHESIS.md`.
+
+Do not position Doug as an ML engineer, AI-platform architect, or technical AI delivery leader. Avoid pure training roles that lack authority over use-case selection, enablement priorities, governance, or movement from pilots into operating practice.
+
+Doug reports that the governance package may now be live in AFP's SharePoint AI workspace and that he retains its documentation and HTML presentations. Treat this as a lead until a published page, file metadata, or equivalent direct source verifies publication and scope. AI-006 remains unchanged until then.
+
+The immediate work is a candidate-bullet inventory for the Senior Director of AI Strategy and Director of Product Implementation chapters. Continue targeted evidence recovery in parallel only where it strengthens a selected claim. The iPad accountability and transition source chain remains the highest-value Director source recovery.
+
 ## Purpose
 
 This is Doug Gardner's private career-evidence recovery project. Its purpose is to reconstruct an honest, evidence-backed account of his roughly thirteen years at Americans for Prosperity before drafting a resume, LinkedIn profile, or interview narrative.
@@ -137,7 +149,7 @@ The AI chapter is closed for active recovery unless a new decision, outcome, or 
 | AI-007 | Political-intelligence roadmap and X API pilot | Exploratory concept, tracker, data-access discussion, and i360 pilot. Broader initiative is in limbo. Keep all political, candidate, entity, and data details private. |
 | AI-008 | Vibe Coding review guidance | Documented skill creation, legal consultation, direct handoff, and intended pilot. No actual use, remediation, or wider adoption has been established. |
 
-The AI story has a useful throughline for later career materials: discovering operational use cases, testing adoption conditions, designing practical enablement, setting responsible-use boundaries, and creating reusable workflows. Do not draft this narrative yet.
+The AI story has a useful throughline for career materials: discovering operational use cases, testing adoption conditions, designing practical enablement, setting responsible-use boundaries, and creating reusable workflows. The first base resume may now use this narrative with claim-level evidence discipline.
 
 ## Active next question
 
@@ -185,4 +197,4 @@ Keep these as private context. Do not add them to the ledger as career claims un
 
 ## Completion standard for this phase
 
-Do not move into resume drafting until the Director of Product Implementation chapter has at least two or three evidence-backed, transferable stories that show a consistent pattern of operating judgment. Each story should identify the problem, Doug's distinct action, a concrete output or decision, source basis, and a safe external framing.
+The Director of Product Implementation chapter now has the two or three evidence-backed, transferable stories required to start a base resume. Each selected story must still identify the problem, Doug's distinct action, a concrete output or decision, source basis, and safe external framing. Continue targeted recovery where it improves a selected claim. Do not return to unbounded chronology recovery.

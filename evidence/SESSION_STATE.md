@@ -8,7 +8,13 @@ Update this file at the end of each substantive career-recovery session. Keep it
 
 ## Where we are
 
-This private workspace is recovering Doug Gardner's AFP career record before drafting a resume. The current focus is the Senior Director of AI Strategy role, which began approximately September 2025 after his Director of Product Implementation role. A self-review may provide future source material, but it does not set the scope or narrative of this project.
+This private workspace is recovering Doug Gardner's AFP career record before drafting a resume. The Senior Director of AI Strategy role began approximately September 2025 after his Director of Product Implementation role. A self-review may provide future source material, but it does not set the scope or narrative of this project.
+
+As of September 7, 2026, the recovery record is sufficient to begin a first evidence-bound base resume. The working target is Director or Senior Director work in AI enablement, adoption, and operating design for complex organizations. This is a targeting hypothesis, not an external claim. It encompasses AI Enablement, AI Adoption, AI Transformation, Applied AI, and AI Strategy and Operations roles. It excludes ML engineering, AI-platform architecture, and pure training roles.
+
+The base narrative is business-side AI leadership: Doug identifies practical use cases, turns emerging capability into usable workflows and staff practice, and creates the pilots, guidance, and decision structure needed for responsible adoption. The Director of Product Implementation chapter supplies the longer pattern of operating diagnosis, product and workflow design, implementation, and people development. See `target-roles/AI_ENABLEMENT_TARGET_HYPOTHESIS.md`.
+
+Doug reports that the governance package may now be live in AFP's SharePoint AI workspace and that he retains its documentation and HTML presentations. This is a lead until a published page, file metadata, or equivalent direct source establishes the publication and scope. Do not change AI-006 from its current evidence status yet.
 
 Eight initial AI-strategy records are in `CAREER_EVIDENCE.md`:
 
