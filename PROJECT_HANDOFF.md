@@ -119,8 +119,8 @@ This avoids turning the eight-year Director chapter into a static job descriptio
 ### 2025: iPad asset control and remediation
 
 - **DPI-005** now has direct local evidence. A reconciliation workbook records a 934-line gap between billed pooled data lines and asset-tracked devices, plus 712 cancellation requests and 222 remaining lines to locate or cancel. The project plan documents specific cleanup work, responsibility assignments, and a planned vendor-managed transition.
-- Doug reports helping diagnose the inherited control problem, recover and clean up devices, choose the operating model, and define accountability. His project-plan assignments cover approval flow, iPad-manager onboarding, cancellation and device-removal tickets, usage review, contract routing, spend tracking, and pilot timing.
-- This is a sixth implementation theme: operational governance and remediation. It is not external-ready yet. A project charter, selection decision, pilot outcome, or transition-to-operations record must establish Doug's authority and the result. See `evidence/DPI-005_IPAD_ASSET_REMEDIATION.md`.
+- Doug reports representing AFP's business needs and co-leading the work with Jake Beck, who made the primary case for the vendor-managed transition. His project-plan assignments cover approval flow, iPad-manager onboarding, cancellation and device-removal tickets, usage review, contract routing, spend tracking, and pilot timing. He reports holding the same business-side co-lead role on related field-office internet work.
+- This is a sixth implementation theme: operational governance and remediation. It is not external-ready yet. A primary decision or transition record must establish the final model and result. Keep the related office-internet work separate until its sources are independently reviewed. See `evidence/DPI-005_IPAD_ASSET_REMEDIATION.md`.
 
 ### Approximately September or October 2025-present: Senior Director of AI Strategy
 
