@@ -12,7 +12,7 @@ Doug supplied LinkedIn Experience screenshots on October 28, 2026. `CAREER_MAP.m
 
 Doug then supplied a LinkedIn Education screenshot and direct account: University of Minnesota B.A. in Political Science (2009); Wyoming Technical Institute diploma (Mar.–Dec. 2004 on LinkedIn); mostly full-time Firestone work while studying part time; and Hultgren as his first campaign and first job outside automotive service. He recalls joining in fall 2009 and the campaign winning an early-2010 primary. LinkedIn lists Dec. 2009 as the campaign start, so the exact transition remains to be reconciled. These education and work-pattern details are recorded in `CAREER_MAP.md` with their evidence basis.
 
-The next focused question is what Doug was doing from Dec. 2010 through Jan. 2012. A one-month Dec. 2012 transition and same-employer title overlaps in 2015 and 2025 are lower-priority date checks. A first candidate-bullet inventory exists at `evidence/CANDIDATE_BULLET_INVENTORY.md`.
+Doug recalls overnight work at Target for a few months and other short jobs between the Hultgren and Parry campaigns. This partly explains Dec. 2010–Jan. 2012, but exact dates and continuous coverage are not established. Do not press for precise recollection; revisit only if a source appears naturally. A one-month Dec. 2012 transition and same-employer title overlaps in 2015 and 2025 are lower-priority date checks. A first candidate-bullet inventory exists at `evidence/CANDIDATE_BULLET_INVENTORY.md`.
 
 ## Where we are
 
