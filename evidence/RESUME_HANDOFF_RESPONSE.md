@@ -3,6 +3,8 @@
 **Handoff date:** October 28, 2026
 **Scope:** Resume decisions and claim boundaries reconciled from the private career ledger, current draft materials, and accessible career-project chat history. This file records conclusions and source limits. It does not replace the evidence ledger.
 
+**Later correction:** Doug clarified on October 28 that his early AFP title was Field Director, with volunteer recruiting, events, part-time staff oversight, and campaign field activity. He also clarified that he began at Firestone as an Automotive Technician and moved into service management around 2007. The chronology table below reflects the earlier handoff snapshot; use `evidence/CAREER_MAP.md` and the current resume for the corrected sequence.
+
 ## 1. Existing resume work
 
 Four related artifacts exist on the canonical machine:

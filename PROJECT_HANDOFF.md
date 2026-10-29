@@ -72,8 +72,8 @@ This avoids turning the eight-year Director chapter into a static job descriptio
 
 ### 2013-2015: Grassroots operations
 
-- **Formal title:** Field Coordinator, approximately July 2013 to July 2015.
-- **Status:** LinkedIn establishes title and date only. This chapter is not active yet.
+- **Current title from Doug:** Field Director, approximately July 2013 to June 2015 on LinkedIn. LinkedIn lists Field Coordinator; Doug corrected the title on October 28, 2026.
+- **Scope from Doug's account:** Volunteer recruiting, field events, oversight of part-time staff, and campaign field activity in the Des Moines area. Specific outcomes are not yet documented.
 
 ### 2015-2017: Regional Data Analyst and Implementation Manager
 

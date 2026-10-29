@@ -18,7 +18,8 @@ Internal review companion to `Doug_Gardner_AI_Enablement_Base_Resume.docx`. The 
 | Mobile-device remediation | DPI-005 | The control problem and Doug's operating assignments are documented. Do not add completed transition, realized savings, or formal end-to-end ownership. |
 | Portal knowledge effort | DPI-007 | Working group and task plan are documented; Doug's initiation and sustained adoption outcomes remain detailed account or unrecovered. |
 | Data-platform knowledge capture | DPI-008 | Doug-authored document supports the stated work. Do not imply backfill approval or outcome. |
-| Early AFP roles and education | `CAREER_MAP.md` and LinkedIn screenshots supplied Oct. 28, 2026 | Self-authored chronology and Doug's account. Confirm any role-specific bullet that survives tailoring. |
+| Early AFP roles and education | `CAREER_MAP.md`, LinkedIn screenshots, and Doug's Oct. 28 corrections | Doug identifies his early AFP role as Field Director and describes volunteer recruiting, events, part-time staff oversight, and campaign field work. LinkedIn lists Field Coordinator; verify the formal title if an employment record becomes available. Education remains self-reported. |
+| Firestone title sequence | `CAREER_MAP.md`, LinkedIn screenshot, and Doug's Oct. 28 correction | Doug began as an Automotive Technician and moved into service management around 2007. LinkedIn lists Service Manager for the full period. The resume combines both titles under 2005–2009 without a precise split. |
 
 ## First review decisions
 
