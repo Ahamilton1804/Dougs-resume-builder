@@ -4,11 +4,17 @@ Update this file at the end of each substantive career-recovery session. Keep it
 
 ## Last updated
 
-2026-09-07
+2026-10-28
+
+## Latest chronology intake
+
+Doug supplied LinkedIn Experience screenshots on October 28, 2026. `CAREER_MAP.md` now records individual pre-AFP roles: Firestone Service Manager (Jan. 2005–Nov. 2009), Randy Hultgren for Congress Volunteer Coordinator (Dec. 2009–Nov. 2010), Mike Parry for Congress Political Director (Feb.–Aug. 2012), John Macco for State Senate Field Director (Aug.–Nov. 2012), and Coloplast Consumer Care Associate (Jan.–Jul. 2013). The screenshots also refine AFP Field Coordinator to Jul. 2013–Jun. 2015 and display the AI Strategy title from Oct. 2025. These are self-authored chronology leads, not independent evidence of duties or outcomes.
+
+The next focused question is what Doug was doing from Dec. 2010 through Jan. 2012. A one-month Dec. 2012 transition and same-employer title overlaps in 2015 and 2025 are lower-priority date checks. A first candidate-bullet inventory exists at `evidence/CANDIDATE_BULLET_INVENTORY.md`.
 
 ## Where we are
 
-This private workspace is recovering Doug Gardner's AFP career record before drafting a resume. The Senior Director of AI Strategy role began approximately September 2025 after his Director of Product Implementation role. A self-review may provide future source material, but it does not set the scope or narrative of this project.
+This private workspace is recovering Doug Gardner's AFP career record before drafting a resume. LinkedIn displays the Senior Director of AI Strategy role beginning October 2025, overlapping the listed end of his Director of Product Implementation role; the formal transition date remains to be confirmed. A self-review may provide future source material, but it does not set the scope or narrative of this project.
 
 As of September 7, 2026, the recovery record is sufficient to begin a first evidence-bound base resume. The working target is Director or Senior Director work in AI enablement, adoption, and operating design for complex organizations. This is a targeting hypothesis, not an external claim. It encompasses AI Enablement, AI Adoption, AI Transformation, Applied AI, and AI Strategy and Operations roles. It excludes ML engineering, AI-platform architecture, and pure training roles.
 

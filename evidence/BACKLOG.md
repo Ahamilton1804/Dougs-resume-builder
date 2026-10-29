@@ -4,6 +4,12 @@ This is the recovery queue for the private career record. It prevents individual
 
 Only add a claim to `CAREER_EVIDENCE.md` when it identifies Doug's distinct contribution, a concrete output or decision, the strongest available evidence basis, and an external-safety boundary. Close a lead when a reasonable recovery effort does not produce support.
 
+## Now: complete the employment timeline
+
+LinkedIn screenshots supplied October 28, 2026 now split the pre-AFP history into five roles from January 2005 through July 2013. Ask Doug what he was doing from December 2010 through January 2012, the only substantial unaccounted period in the listed sequence. Reconcile the May–June 2015 and October–November 2025 title overlaps as transitions rather than assuming they are gaps. LinkedIn is a self-authored chronology source; confirm dates and overlapping or campaign work before resume use. See `CAREER_MAP.md`.
+
+The connected [AI Strategy Notion portfolio](https://app.notion.com/p/3641b67d7e1380359dcdf86ca4531d40) is useful for locating recent work examples, not earlier employment dates. Its June 2026 [governance](https://app.notion.com/p/38f1b67d7e13817390a8f4fdec7a0907) and [staff-guidance](https://app.notion.com/p/3641b67d7e1381f99d32d91bc6869840) case studies contain self-authored external-ready language. Check any claim against the later AI-006 ledger entry before using it; approval, publication scope, uptake, and completed governance mechanics remain unresolved there. Do not import the case studies' stronger outcome language into a resume without direct evidence.
+
 ## Now: current AI-strategy chapter
 
 1. **AI-004, April workshops.** Establish what Doug personally led in the three sessions and identify any follow-up training, resource, or pilot that resulted from feedback.
