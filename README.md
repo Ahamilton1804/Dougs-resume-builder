@@ -14,6 +14,8 @@ The skills support the work without replacing judgment. The professional-evidenc
 
 The workspace has a recovered career chronology, an evidence ledger, and a first two-page base resume draft at `resumes/Doug_Gardner_AI_Enablement_Base_Resume.docx`. The private claim checks for that draft are in `resumes/BASE_RESUME_DRAFT_NOTES.md`. Begin a routine return with `evidence/SESSION_STATE.md`. For a new assistant or a fresh task, begin with `PROJECT_HANDOFF.md`, then read the session state. The handoff records the working position, source boundaries, recovery method, chronology, parked work, and the next source or discussion to recover.
 
+For a cross-machine resume handoff, use `RESUME_HANDOFF_QUESTIONNAIRE.md`. It asks the other machine to record prior claim decisions, source pointers, new evidence, and any recommended changes to the current two-page draft.
+
 ## Repository structure
 
 | Location | Role |

@@ -10,6 +10,8 @@ Update this file at the end of each substantive career-recovery session. Keep it
 
 A two-page Word draft now exists at `resumes/Doug_Gardner_AI_Enablement_Base_Resume.docx`, with private source and claim checks at `resumes/BASE_RESUME_DRAFT_NOTES.md`. The Oct. 15 document emailed to Jill, `Career_Evidence_and_Resume_Readiness_Inventory.docx`, was a six-page evidence inventory recommending a two-page base resume, not a finished resume. The Word draft uses year-only role dates to avoid false precision at title transitions and still needs Doug's wording review and chosen contact details before external use.
 
+Doug requested a cross-machine decision and evidence handoff. `RESUME_HANDOFF_QUESTIONNAIRE.md` is the prompt for the other machine; its response should be added at `evidence/RESUME_HANDOFF_RESPONSE.md`.
+
 ## Latest chronology intake
 
 Doug supplied LinkedIn Experience screenshots on October 28, 2026. `CAREER_MAP.md` now records individual pre-AFP roles: Firestone Service Manager (Jan. 2005–Nov. 2009), Randy Hultgren for Congress Volunteer Coordinator (Dec. 2009–Nov. 2010), Mike Parry for Congress Political Director (Feb.–Aug. 2012), John Macco for State Senate Field Director (Aug.–Nov. 2012), and Coloplast Consumer Care Associate (Jan.–Jul. 2013). The screenshots also refine AFP Field Coordinator to Jul. 2013–Jun. 2015 and display the AI Strategy title from Oct. 2025. These are self-authored chronology leads, not independent evidence of duties or outcomes.
