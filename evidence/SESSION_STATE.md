@@ -12,6 +12,8 @@ A two-page Word draft now exists at `resumes/Doug_Gardner_AI_Enablement_Base_Res
 
 The other-machine response is at `evidence/RESUME_HANDOFF_RESPONSE.md`. The current draft incorporated its claim-boundary advice and Doug's Field Director and Firestone role corrections. Its AI Strategy section was then revised to show Doug's strategic decisions and concrete outputs more clearly, while preserving the limits on adoption and measured impact. See `resumes/BASE_RESUME_DRAFT_NOTES.md`.
 
+A selective Notion review on October 28 found newer AI Strategy work in office hours, the Claude launch, a structured usage-discovery program, and the skills toolkit. The office-hours contribution is now a draft resume bullet. The other items remain candidate claims or require a more precise ownership/version check. The Notion case studies are self-authored summaries and do not supersede the claim-level evidence ledger. See the Notion review table in the draft notes.
+
 ## Latest chronology intake
 
 Doug supplied LinkedIn Experience screenshots on October 28, 2026. The screenshots list Firestone Service Manager (Jan. 2005–Nov. 2009), Randy Hultgren for Congress Volunteer Coordinator (Dec. 2009–Nov. 2010), Mike Parry for Congress Political Director (Feb.–Aug. 2012), John Macco for State Senate Field Director (Aug.–Nov. 2012), and Coloplast Consumer Care Associate (Jan.–Jul. 2013). They list AFP Field Coordinator from Jul. 2013 to Jun. 2015 and the AI Strategy title from Oct. 2025. These are self-authored chronology leads, not independent evidence of duties or outcomes; Doug's subsequent corrections appear below.

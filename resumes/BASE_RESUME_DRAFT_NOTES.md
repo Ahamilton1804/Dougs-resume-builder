@@ -2,7 +2,20 @@
 
 Internal review companion to `Doug_Gardner_AI_Enablement_Base_Resume.docx`. The Word file is a two-page base draft for Director or Senior Director AI enablement roles. Revised after the other-machine handoff in `evidence/RESUME_HANDOFF_RESPONSE.md` on October 28, 2026. It is not ready to send until Doug reviews the wording, chooses contact information, and checks the mixed-attribution claims below. Year-only role dates avoid implying precision at the overlapping 2015 and 2025 transitions; they do not change the underlying chronology.
 
-The AI Strategy section was revised after Doug observed that its earlier wording made the work sound like a list of documents. The current five bullets lead with the decisions and structures he developed, then name the pilot, workshops, guidance, and project-review outputs. The strategy and pilot bullets use Doug's account of how the findings shaped his point of view; the dated artifacts establish the materials and findings, but not a leadership decision, organization-wide adoption, or measured business impact. The all-staff session remains in the career evidence for a tailored version.
+The AI Strategy section was revised after Doug observed that its earlier wording made the work sound like a list of documents. The bullets lead with the decisions and structures he developed, then name the pilot, workshops, office hours, guidance, and project-review outputs. The strategy and pilot bullets use Doug's account of how the findings shaped his point of view; the dated artifacts establish the materials and findings, but not a leadership decision, organization-wide adoption, or measured business impact. The all-staff session remains in the career evidence for a tailored version.
+
+## Notion review leads, October 28, 2026
+
+The [AI Strategy Portfolio](https://app.notion.com/p/3641b67d7e1380359dcdf86ca4531d40) and its case studies are a useful index of newer work. They are mostly self-authored summaries with source pointers. Their maturity labels and "value created" fields do not by themselves verify resume outcomes. Later updates within a page can supersede its opening summary.
+
+| Lead | What the Notion record supports | Resume treatment |
+|---|---|---|
+| [AI Office Hours Program](https://app.notion.com/p/3c91b67d7e1381888b77e7429fca0e36) | Doug's account says he organized and ran the August and October sessions. It points to Teams transcripts and attendance reports and records live walkthroughs, peer examples, and staff questions. | Added a contribution-based bullet. Do not infer that attendance caused adoption or productivity gains. Verify the source reports if using reach figures. |
+| [Claude Enterprise launch](https://app.notion.com/p/3891b67d7e138185895dd2c263adda3e) | The log says Claude launched organization-wide and Doug authored the staff announcement. It has usage data, but no direct launch email or deployment decision record attached here. | Strong candidate for a tailored bullet after checking the announcement and Doug's exact launch responsibilities. Do not imply he owned technical deployment or procurement. |
+| [Usage Connect discovery program](https://app.notion.com/p/4081b67d7e1381ec8c6ace189d15ec38) | Doug's account describes a structured call program and ideas ledger, with transcript pointers and a clear distinction between logged ideas and downstream decisions. | Candidate for a strategy or adoption variant after checking the call records and ownership. Do not claim savings, representative findings, or pilots launched from the calls. |
+| [Skills Toolkit v1.0.0](https://app.notion.com/p/4081b67d7e138189a2e5c8fa0ea7fb57) | The package and design work are described, but the same page later clarifies that v1.0.0 is pending installation; an older build appears to be deployed. | Keep out of the base resume until the deployed version, staff access, and individual contribution are reconciled. |
+
+The older [governance case study](https://app.notion.com/p/38f1b67d7e13817390a8f4fdec7a0907) calls the document a formal policy and says risk was reduced. Later [guidance-series updates](https://app.notion.com/p/38f1b67d7e13811b8cb3f1f1ce57473c) say earlier versions were live while the October rewrite remained with counsel. The career evidence ledger's narrower wording remains the base-resume boundary: materials developed and Legal review received, with no claim of final approval, uptake, or risk reduction.
 
 ## Claim map
 
@@ -11,6 +24,7 @@ The AI Strategy section was revised after Doug observed that its earlier wording
 | AI discovery and strategy | `CAREER_EVIDENCE.md` AI-001; March and May strategy materials described there | Doug's leadership and exact authorship split remain partly detailed account. The strategy's capabilities were hypotheses, not completed builds. |
 | ChatGPT pilot | AI-002 | Program leadership and outputs are documented. Do not add enterprise adoption or measured productivity claims. |
 | Microsoft workshops | AI-004 | Workshop plan assigns Doug content and feedback is documented. His exact delivered segments remain to confirm. |
+| AI office hours | [Notion program entry](https://app.notion.com/p/3c91b67d7e1381888b77e7429fca0e36) | Doug's contribution and session format are described with pointers to Teams records. The original transcripts and attendance reports have not been directly reviewed in this resume pass. Do not claim adoption lift. |
 | Staff guidance and governance | AI-006 | Five-part series, governance content, and Legal review are documented. Formal approval, publication scope, final feedback resolution, and uptake remain unresolved. |
 | Project review guidance | AI-008 | Creation and circulation for a pilot are documented. Actual use and outcomes are not established. |
 | All-staff session and support path | AI-005 | Agenda roles, recap, AI Hub, and office-hours path are documented; Doug's co-design role is partly detailed account. |
