@@ -6,6 +6,8 @@ A first two-page Word draft for AI enablement roles is in `resumes/Doug_Gardner_
 
 `evidence/RESUME_HANDOFF_RESPONSE.md` is the cross-machine decision record for existing drafts, targeting, candidate-claim boundaries, changes since the September 7 handoff, and the remaining decisions that only Doug can make. Read it before revising the base draft.
 
+`evidence/SELF_REVIEW_CONTEXT.md` preserves the private Year One role narrative and operating judgments from self-review coaching. It informs future AI assistance and interview preparation. It does not upgrade any career-evidence status.
+
 ## Resume-direction update, September 7, 2026
 
 The evidence record now supports a first evidence-bound base resume. The working target is Director or Senior Director work in AI enablement, adoption, and operating design for complex organizations. Relevant market labels include AI Enablement, AI Adoption, AI Transformation, Applied AI, AI Strategy and Operations, and Digital Transformation with an explicit AI mandate. This is a targeting hypothesis, not an external claim.

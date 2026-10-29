@@ -97,6 +97,8 @@ What dated 2018 or 2019 source can establish the reported PAC portal area, any q
 
 `evidence/RESUME_HANDOFF_RESPONSE.md` reconciles the current base Word draft, ignored earlier exports, evidence labels, chat-derived resume decisions, safe claim wording, and remaining Doug decisions. It records the distinction between construction, circulation, adoption, approval, and outcome. Read it before changing the resume or opening another recovery thread.
 
+`evidence/SELF_REVIEW_CONTEXT.md` separately preserves the private Year One AI Strategy narrative, operating judgments, role constraints, and career-positioning implications. It is context for future assistants and does not change evidence status.
+
 ## Current iPad recovery position
 
 Doug reports that he handled the iPad remediation project end to end. The work addressed an inherited control failure that coincided with Verizon billing issues, lost inventory, and the absence of an accountability policy. Direct records corroborate the reconciliation problem and a broad set of operating assignments. Jake Beck's January 2024 recommendation is the next targeted source because it may establish the decision model, transition, and Doug's documented accountability. Keep Doug's end-to-end ownership as detailed account until a primary accountability or transition record corroborates it.
