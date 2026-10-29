@@ -12,7 +12,9 @@ A two-page Word draft now exists at `resumes/Doug_Gardner_AI_Enablement_Base_Res
 
 The other-machine response is at `evidence/RESUME_HANDOFF_RESPONSE.md`. The current draft incorporated its claim-boundary advice and Doug's Field Director and Firestone role corrections. Its AI Strategy section was then revised to show Doug's strategic decisions and concrete outputs more clearly, while preserving the limits on adoption and measured impact. See `resumes/BASE_RESUME_DRAFT_NOTES.md`.
 
-A selective Notion review on October 28 found newer AI Strategy work in office hours, the Claude launch, a structured usage-discovery program, and the skills toolkit. The office-hours contribution is now a draft resume bullet. The other items remain candidate claims or require a more precise ownership/version check. The Notion case studies are self-authored summaries and do not supersede the claim-level evidence ledger. See the Notion review table in the draft notes.
+A selective Notion review on October 28 found newer AI Strategy work in office hours, the Claude launch, a structured usage-discovery program, and the skills toolkit. Office hours and usage discovery now have draft resume bullets. The Claude-launch and toolkit entries still require a more precise ownership or version check. The Notion case studies are self-authored summaries and do not supersede the claim-level evidence ledger. See the Notion review table in the draft notes.
+
+Doug clarified that he has tracked Claude usage and spend over several months, and that the usage-based staff calls are part of making sense of those data. The base resume now includes a contribution-based usage-discovery bullet and moves the AI project-review guide to tailored material. Tracking and calls are distinguishable from demonstrated adoption, savings, budget decisions, or pilots launched from the findings.
 
 ## Latest chronology intake
 
