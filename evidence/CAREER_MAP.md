@@ -12,10 +12,19 @@ This is the working chronology of Doug Gardner’s career. Start with approximat
 | Consumer service | Jan. 2013 to Jul. 2013 | Consumer Care Associate, Coloplast | Scope and outcomes not yet recovered. | Pre-AFP role immediately preceding Field Coordinator. | LinkedIn screenshot supplied Oct. 28, 2026; self-authored chronology only. |
 | State legislative campaign | Aug. 2012 to Nov. 2012 | Field Director, John Macco for State Senate | Scope and outcomes not yet recovered. | Campaign role in the Green Bay, Wisconsin area. | LinkedIn screenshot supplied Oct. 28, 2026; self-authored chronology only. |
 | Congressional campaign | Feb. 2012 to Aug. 2012 | Political Director, Mike Parry for Congress | Scope and outcomes not yet recovered. | Campaign role in Waseca, Minnesota. | LinkedIn screenshot supplied Oct. 28, 2026; self-authored chronology only. |
-| Congressional campaign | Dec. 2009 to Nov. 2010 | Volunteer Coordinator, Randy Hultgren for Congress | Scope and outcomes not yet recovered. | Earlier campaign role. | LinkedIn screenshot supplied Oct. 28, 2026; self-authored chronology only. |
-| Automotive service | Jan. 2005 to Nov. 2009 | Service Manager, Firestone | Scope and outcomes not yet recovered. | Earlier management experience worth assessing for the full work-history record. | LinkedIn screenshot supplied Oct. 28, 2026; self-authored chronology only. |
+| Congressional campaign | Dec. 2009 to Nov. 2010 on LinkedIn; Doug recalls joining in fall 2009 | Volunteer Coordinator, Randy Hultgren for Congress | Doug's first campaign and first job outside automotive service. He recalls the campaign won an early-2010 primary. | Shifted from automotive service into political work. | LinkedIn screenshot supplied Oct. 28, 2026 supports listed title and dates. First-campaign timing, career transition, and primary result are Doug's detailed account; exact start month needs reconciliation. |
+| Automotive service | Jan. 2005 to Nov. 2009 on LinkedIn; Doug recalls starting early in 2005 | Service Manager, Firestone | Doug reports working mostly full time while pursuing his University of Minnesota degree part time. | Automotive work preceded his first campaign role. | LinkedIn screenshot supplied Oct. 28, 2026 supports listed title and dates; work/study pattern and approximate start are Doug's detailed account. |
 
 Do not force a complete thirteen-year account before recording the recent role and the pivotal transitions.
+
+## Education and early-career context
+
+| School | Credential and date | Evidence and boundary |
+|---|---|---|
+| University of Minnesota | B.A., Political Science, 2009 | LinkedIn Education screenshot supplied Oct. 28, 2026; Doug recalls graduating in 2009 and attending part time while working mostly full time. Graduation date and degree are self-reported, not independently verified. |
+| Wyoming Technical Institute | Diploma; LinkedIn lists Mar.–Dec. 2004 | LinkedIn Education screenshot supplied Oct. 28, 2026; Doug recalls completing the program in 2004. Program or field of study is not shown in the screenshot, so do not infer one. |
+
+The LinkedIn education entry also mentions a state-senator internship, but its dates, scope, and supervisor are not established here. Treat it as a lead only if earlier political experience becomes relevant to a targeted resume.
 
 ## Work-history timeline to reconcile
 
@@ -23,11 +32,12 @@ The LinkedIn screenshots supplied October 28, 2026 record a self-authored role s
 
 | Period or transition | What the record currently says | What to confirm before a resume |
 |---|---|---|
-| Dec. 2010–Jan. 2012 | No role is listed between the Randy Hultgren campaign ending Nov. 2010 and the Mike Parry campaign beginning Feb. 2012. | What Doug was doing during this period; whether there was work, education, caregiving, a job search, or another explanation. Do not label it an employment gap until clarified. |
-| Dec. 2012 | No role is listed between the John Macco campaign ending Nov. 2012 and Coloplast beginning Jan. 2013. | A one-month transition may need no resume explanation; check only if the dates are inaccurate or another role belongs here. |
-| July 2013 | Coloplast and AFP Field Coordinator both include July 2013. | Whether this is a normal transition month or dates need correction. |
-| May–June 2015 | AFP Field Coordinator and Regional Data Analyst dates overlap. | Whether this was a transition, concurrent assignment, or inaccurate date. |
 | Oct.–Nov. 2025 | AI Strategy and Product Implementation dates overlap. | Formal effective dates and whether responsibilities overlapped during the transition. |
-| Before Jan. 2005 | No work-history record in this repository. | Include only if relevant to the intended resume and needed for an accurate chronology. |
+| May–June 2015 | AFP Field Coordinator and Regional Data Analyst dates overlap. | Whether this was a transition, concurrent assignment, or inaccurate date. |
+| July 2013 | Coloplast and AFP Field Coordinator both include July 2013. | Whether this is a normal transition month or dates need correction. |
+| Dec. 2012 | No role is listed between the John Macco campaign ending Nov. 2012 and Coloplast beginning Jan. 2013. | A one-month transition may need no resume explanation; check only if the dates are inaccurate or another role belongs here. |
+| Dec. 2010–Jan. 2012 | No role is listed between the Randy Hultgren campaign ending Nov. 2010 and the Mike Parry campaign beginning Feb. 2012. | What Doug was doing during this period; whether there was work, education, caregiving, a job search, or another explanation. Do not label it an employment gap until clarified. |
+| Fall 2009 | Doug recalls joining the Hultgren campaign in fall 2009; LinkedIn lists Dec. 2009 as the start. Firestone is listed through Nov. 2009. | Confirm whether campaign work began informally or part time before the listed Dec. 2009 start, if the precise transition matters. |
+| Before Jan. 2005 | Wyoming Technical Institute is listed for Mar.–Dec. 2004; no earlier work history is recorded here. | Include earlier work only if relevant to the intended resume and needed for an accurate chronology. |
 
 The next focused question is Dec. 2010–Jan. 2012. Preserve uncertainty rather than filling dates to make the timeline appear seamless. For a targeted resume, decide later how much pre-AFP history merits space; the private map can remain complete even if the resume is selective.
