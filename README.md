@@ -12,7 +12,7 @@ The skills support the work without replacing judgment. The professional-evidenc
 
 ## Current work
 
-The workspace has an initial chronology entry, eight AI-strategy evidence records, and four Director of Product Implementation records. Begin a routine return with `evidence/SESSION_STATE.md`. For a new assistant or a fresh task, begin with `PROJECT_HANDOFF.md`, then read the session state. The handoff records the working position, source boundaries, recovery method, chronology, parked work, and the next source or discussion to recover.
+The workspace has a recovered career chronology, an evidence ledger, and a first two-page base resume draft at `resumes/Doug_Gardner_AI_Enablement_Base_Resume.docx`. The private claim checks for that draft are in `resumes/BASE_RESUME_DRAFT_NOTES.md`. Begin a routine return with `evidence/SESSION_STATE.md`. For a new assistant or a fresh task, begin with `PROJECT_HANDOFF.md`, then read the session state. The handoff records the working position, source boundaries, recovery method, chronology, parked work, and the next source or discussion to recover.
 
 ## Repository structure
 

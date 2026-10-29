@@ -1,5 +1,9 @@
 # AFP Career Evidence Recovery Handoff
 
+## Resume drafting update, October 28, 2026
+
+A first two-page Word draft for AI enablement roles is in `resumes/Doug_Gardner_AI_Enablement_Base_Resume.docx`. Its claim-level review notes are in `resumes/BASE_RESUME_DRAFT_NOTES.md`. The draft was built from the evidence ledger and the six-page career inventory Doug sent to Jill on October 15. The email attachment was an evidence/readiness inventory, not a resume. The Word draft needs Doug's review, contact details, and a decision on its issue-intelligence prototype bullet before external use. The pre-AFP timeline is now separated into individual roles in `evidence/CAREER_MAP.md`; short interim work between the Hultgren and Parry campaigns is recorded without invented dates.
+
 ## Resume-direction update, September 7, 2026
 
 The evidence record now supports a first evidence-bound base resume. The working target is Director or Senior Director work in AI enablement, adoption, and operating design for complex organizations. Relevant market labels include AI Enablement, AI Adoption, AI Transformation, Applied AI, AI Strategy and Operations, and Digital Transformation with an explicit AI mandate. This is a targeting hypothesis, not an external claim.
