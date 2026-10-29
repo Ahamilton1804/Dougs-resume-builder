@@ -2,6 +2,8 @@
 
 Internal review companion to `Doug_Gardner_AI_Enablement_Base_Resume.docx`. The Word file is a two-page base draft for Director or Senior Director AI enablement roles. Revised after the other-machine handoff in `evidence/RESUME_HANDOFF_RESPONSE.md` on October 28, 2026. It is not ready to send until Doug reviews the wording, chooses contact information, and checks the mixed-attribution claims below. Year-only role dates avoid implying precision at the overlapping 2015 and 2025 transitions; they do not change the underlying chronology.
 
+The AI Strategy section was revised after Doug observed that its earlier wording made the work sound like a list of documents. The current five bullets lead with the decisions and structures he developed, then name the pilot, workshops, guidance, and project-review outputs. The strategy and pilot bullets use Doug's account of how the findings shaped his point of view; the dated artifacts establish the materials and findings, but not a leadership decision, organization-wide adoption, or measured business impact. The all-staff session remains in the career evidence for a tailored version.
+
 ## Claim map
 
 | Resume area | Evidence basis | Review boundary |

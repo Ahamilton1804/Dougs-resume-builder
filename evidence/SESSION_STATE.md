@@ -10,7 +10,7 @@ Update this file at the end of each substantive career-recovery session. Keep it
 
 A two-page Word draft now exists at `resumes/Doug_Gardner_AI_Enablement_Base_Resume.docx`, with private source and claim checks at `resumes/BASE_RESUME_DRAFT_NOTES.md`. The Oct. 15 document emailed to Jill, `Career_Evidence_and_Resume_Readiness_Inventory.docx`, was a six-page evidence inventory recommending a two-page base resume, not a finished resume. The Word draft uses year-only role dates to avoid false precision at title transitions and still needs Doug's wording review and chosen contact details before external use.
 
-The other-machine response is at `evidence/RESUME_HANDOFF_RESPONSE.md`. The current draft incorporated its claim-boundary advice and has since been updated with Doug's Field Director and Firestone role corrections.
+The other-machine response is at `evidence/RESUME_HANDOFF_RESPONSE.md`. The current draft incorporated its claim-boundary advice and Doug's Field Director and Firestone role corrections. Its AI Strategy section was then revised to show Doug's strategic decisions and concrete outputs more clearly, while preserving the limits on adoption and measured impact. See `resumes/BASE_RESUME_DRAFT_NOTES.md`.
 
 ## Latest chronology intake
 
