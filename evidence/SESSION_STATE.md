@@ -93,6 +93,10 @@ A first-pass SharePoint source index supplied by Doug identifies scarce direct m
 
 What dated 2018 or 2019 source can establish the reported PAC portal area, any queue-field or permission changes, the related training model, and the actual role assignments at the time?
 
+## Cross-machine resume decision record, October 28, 2026
+
+`evidence/RESUME_HANDOFF_RESPONSE.md` reconciles the current base Word draft, ignored earlier exports, evidence labels, chat-derived resume decisions, safe claim wording, and remaining Doug decisions. It records the distinction between construction, circulation, adoption, approval, and outcome. Read it before changing the resume or opening another recovery thread.
+
 ## Current iPad recovery position
 
 Doug reports that he handled the iPad remediation project end to end. The work addressed an inherited control failure that coincided with Verizon billing issues, lost inventory, and the absence of an accountability policy. Direct records corroborate the reconciliation problem and a broad set of operating assignments. Jake Beck's January 2024 recommendation is the next targeted source because it may establish the decision model, transition, and Doug's documented accountability. Keep Doug's end-to-end ownership as detailed account until a primary accountability or transition record corroborates it.

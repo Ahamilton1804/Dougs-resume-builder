@@ -4,6 +4,8 @@
 
 A first two-page Word draft for AI enablement roles is in `resumes/Doug_Gardner_AI_Enablement_Base_Resume.docx`. Its claim-level review notes are in `resumes/BASE_RESUME_DRAFT_NOTES.md`. The draft was built from the evidence ledger and the six-page career inventory Doug sent to Jill on October 15. The email attachment was an evidence/readiness inventory, not a resume. The Word draft needs Doug's review, contact details, and a decision on its issue-intelligence prototype bullet before external use. The pre-AFP timeline is now separated into individual roles in `evidence/CAREER_MAP.md`; short interim work between the Hultgren and Parry campaigns is recorded without invented dates.
 
+`evidence/RESUME_HANDOFF_RESPONSE.md` is the cross-machine decision record for existing drafts, targeting, candidate-claim boundaries, changes since the September 7 handoff, and the remaining decisions that only Doug can make. Read it before revising the base draft.
+
 ## Resume-direction update, September 7, 2026
 
 The evidence record now supports a first evidence-bound base resume. The working target is Director or Senior Director work in AI enablement, adoption, and operating design for complex organizations. Relevant market labels include AI Enablement, AI Adoption, AI Transformation, Applied AI, AI Strategy and Operations, and Digital Transformation with an explicit AI mandate. This is a targeting hypothesis, not an external claim.
@@ -24,7 +26,7 @@ The output is a defensible record of work, judgment, and results. It is not a se
 
 ## Canonical location and boundaries
 
-- **Canonical private repository:** `C:\Users\Doug\AppData\Local\Temp\resume-repo-review-04626a51-c74d-4241-9617-90d3eae3d1ec`
+- **Canonical private repository:** `C:\Users\Doug\Documents\Codex\Dougs-resume-builder`
 - **Branch:** `main`
 - **Remote:** `Ahamilton1804/Dougs-resume-builder`
 - **Start here:** `README.md`, then `evidence/SESSION_STATE.md`, `evidence/CAREER_MAP.md`, `evidence/CAREER_EVIDENCE.md`, and `evidence/BACKLOG.md`.
